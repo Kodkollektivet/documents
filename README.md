@@ -1,2 +1,4 @@
+# Documents
 
-Documents related to Kodkollektivet
+This repository contains any documentation related to
+Kodkollektivet, such as goals, policy etc.
