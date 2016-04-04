@@ -17,7 +17,7 @@ git pull
 * Before you begin working for the day pull changes from upstream (the kodkollektivet repo)
 
 ```bash
-git pull upstream master
+git pull upstream master --rebase
 ```
 
 * When you are working on a feature create a new branch
