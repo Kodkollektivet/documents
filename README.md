@@ -19,37 +19,44 @@ By not allowing merging by own PRs or direct pushing to the projects, another me
 
 ### How?
 
-* Fork a Kodkollektivet repo to your own account using the ![formimg](https://sammyk.s3.amazonaws.com/blog/images/2014-05-28/fork.png)
-* Clone the repo from YOUR account to your local computer
-* Add the Kodkollektivet repo as upstream:
+Fork a Kodkollektivet repo to your own account using the ![formimg](https://sammyk.s3.amazonaws.com/blog/images/2014-05-28/fork.png)
+
+
+Clone the repo from YOUR account to your local computer:
 
 ```bash
 git clone https://github.com/<YOUR_NAME>/<REPO_NAME>.git
 ```
 
-Add the Kodkollektivet repo as upstream.
+
+Add the Kodkollektivet repo as upstream:
 
 ```bash
-git remote add upstream https://github.com/Kodkollektivet/<REPO NAME>.git
+git remote add upstream https://github.com/Kodkollektivet/<REPO_NAME>.git
 git pull --rebase upstream master
 ```
 
-* Before you begin working for the day pull changes from upstream (the kodkollektivet repo)
+
+Before you begin working for the day pull changes from upstream (the kodkollektivet repo):
 
 ```bash
 git pull --rebase upstream master
 ```
 
-* When you are working on a feature create a new branch
+
+When you are working on a feature or PR create a new branch:
 
 ```bash
-git checkout -b <FEATURE NAME>
+git checkout -b <FEATURE_NAME>
 ```
 
-* !When you push stuff, make sure that you push to YOUR repo
+
+When you push stuff, make sure that you push to YOUR repo:
 
 ```bash
 git push origin master
 ```
 
+
+Do a pull request from your branch to upstream.
 
