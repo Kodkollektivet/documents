@@ -22,11 +22,13 @@ By not allowing merging by own PRs or direct pushing to the projects, another me
 Fork a Kodkollektivet repo to your own account using the ![formimg](https://sammyk.s3.amazonaws.com/blog/images/2014-05-28/fork.png)
 
 
+
 Clone the repo from YOUR account to your local computer:
 
 ```bash
 git clone https://github.com/<YOUR_NAME>/<REPO_NAME>.git
 ```
+
 
 
 Add the Kodkollektivet repo as upstream:
@@ -37,11 +39,13 @@ git pull --rebase upstream master
 ```
 
 
+
 Before you begin working for the day pull changes from upstream (the kodkollektivet repo):
 
 ```bash
 git pull --rebase upstream master
 ```
+
 
 
 When you are working on a feature or PR create a new branch:
@@ -51,11 +55,14 @@ git checkout -b <FEATURE_NAME>
 ```
 
 
+
 When you push stuff, make sure that you push to YOUR repo:
 
 ```bash
-git push origin master
+git push -u origin <FEATURE_NAME>  # First time
+git push origin <FEATURE_NAME>  # When branch is pushed to remote
 ```
+
 
 
 Do a pull request from your branch to upstream.
