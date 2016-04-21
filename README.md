@@ -39,7 +39,6 @@ git pull --rebase upstream master
 ```
 
 
-
 Before you begin working for the day pull changes from upstream (the kodkollektivet repo):
 
 ```bash
@@ -47,23 +46,40 @@ git pull --rebase upstream master
 ```
 
 
-
 When you are working on a feature or PR create a new branch:
 
 ```bash
-git checkout -b <FEATURE_NAME>
+git checkout -b <BRANCH_NAME>
 ```
-
 
 
 When you push stuff, make sure that you push to YOUR repo:
 
 ```bash
-git push -u origin <FEATURE_NAME>  # First time
-git push origin <FEATURE_NAME>  # When branch is pushed to remote
+git push --set-upstream origin <BRANCH_NAME>
+git push origin <BRANCH_NAME>  # When branch is pushed to remote
 ```
 
 
-
 Do a pull request from your branch to upstream.
+
+
+## How to name a branch?
+
+
+There are three different branch name startouts: ref/, bug/, and fet/.
+
+* ref/<NAME>  # Refactoring / Improvements
+* bug/<NAME>  # Bug
+* fet/<NAME>  # Feature
+
+
+<NAME> is something that represents the branch.
+
+* Example 1: bug/loginUtfChars
+* Example 2: fet/externalContainers
+* Example 3: ref/fasterBootTime
+
+
+
 
