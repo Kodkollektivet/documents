@@ -38,8 +38,8 @@ git remote add upstream https://github.com/Kodkollektivet/<REPO_NAME>.git
 git pull --rebase upstream master
 ```
 
+`! Before you begin working for the day pull changes from upstream (the kodkollektivet repo): !`
 
-Before you begin working for the day pull changes from upstream (the kodkollektivet repo):
 
 ```bash
 git pull --rebase upstream master
@@ -72,13 +72,15 @@ There are three different branch name startouts: ref/, bug/, and fet/.
 * ref/<NAME>  # Refactoring / Improvements
 * bug/<NAME>  # Bug
 * fet/<NAME>  # Feature
+* tes/<NAME>  # Tests
 
 
 <NAME> is something that represents the branch.
 
-* Example 1: bug/loginUtfChars
-* Example 2: fet/externalContainers
-* Example 3: ref/fasterBootTime
+* Example 1: bug/login-utf-chars
+* Example 2: fet/external-containers
+* Example 3: ref/faster-boot-time
+* Example 3: tes/api-tests
 
 
 
