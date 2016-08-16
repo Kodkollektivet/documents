@@ -19,13 +19,12 @@ kom nya ideer på hur Kodkollektivet kunde göras för att lättare få med stud
 ### Framtid
 
 Kodkollektivet ska drivas som en studentförening.
-Föreningen ska jobba för att försöka skapa platser för möten
-mellan student och student och student och företag.
-Projekten kommer inte att ha samma fokus som innan, men kommer
-att finns kvar för dem som är intresserade av det.
-Föreningen kommer att jobba med att bjuda in företag i
-regionen till events där företag och studenter kan mötas.
-Kodkollektivets medlemmar som går ut i arbetslivet hoppas vi på vill vara
-ambassadörer för Kodkollektivet och vara med i våra kanaler för
-att kunna hjälpa till att skapa events och kontakt med företag.
-
+Projekt kommer fortfarande att finnas kvar för de som är intresserade av det,
+men kommer inte längre att ha huvudfokus.
+Föreningen kommer istället fokusera på att fungera som en social mötesplattform
+i syfte om att främja kontakten för studenter sinsemellan, men också mellan
+studenter och näringsliv. Detta genom att arrangera olika aktiviteter, som att
+bjuda in företag från regionen, anordna tema-kvällar med workshops, studiebesök m.m.
+Vi hoppas att Kodkollektivets medlemmar som går ut i arbetslivet vill vara
+ambassadörer för vår studentförening och delta i våra kanaler för
+att kunna hjälpa till att skapa events och kontakter med företag.
