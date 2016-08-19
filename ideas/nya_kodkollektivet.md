@@ -38,3 +38,11 @@ Beräknar att det tar max 1-2 timmar i veckan under en normal vecka.
 Veckor då vi kör events kommer det antagligen behövas lägga mer tid,
 men den tiden lägger de personerna som driver eventet.
 Hela styrelsen behöver inte vara inblandade i eventen.
+
+
+Har du intresse i att vara med?
+
+Maila till jherrlin [at] gmail.com
+
+Det kommer snart att annonseras till ett första stormöte.
+
