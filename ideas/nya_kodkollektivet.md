@@ -28,3 +28,13 @@ bjuda in företag från regionen, anordna tema-kvällar med workshops, studiebes
 Vi hoppas att Kodkollektivets medlemmar som går ut i arbetslivet vill vara
 ambassadörer för vår studentförening och delta i våra kanaler för
 att kunna hjälpa till att skapa events och kontakter med företag.
+
+
+Detta betyder att vi behöver ha minst 3 personer som initialt är intresserade
+av att vara med i styrelsen och driva Kodkollektivet som förening.
+Tanken är att ta det lugnt och stilla och bygga upp Kodkollektivet under en längre
+tid. Så det kommer inte att vara något som kräver en massa tid.
+Beräknar att det tar max 1-2 timmar i veckan under en normal vecka.
+Veckor då vi kör events kommer det antagligen behövas lägga mer tid,
+men den tiden lägger de personerna som driver eventet.
+Hela styrelsen behöver inte vara inblandade i eventen.
