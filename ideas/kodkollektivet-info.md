@@ -9,4 +9,8 @@ Detta gör vi med hjälp av en mötesplats där studenter får komma i kontakt m
 Absolut! För att ta del av Kodkollektivet krävs inga som helst tidigare erfarenheter eller särskilda talanger. Vi välkomnar alla som vill lära sig mer, förbättra sitt CV, eller bara träffa nya vänner med liknande intressen! Kodkollektivet ställer inga krav på dig som student, utan ger dig bara möjligheten. Du bestämmer själv hur mycket du vill delta och hur mycket tid du vill lägga ner på de aktiviteter och träffar vi erbjuder.
 
 ## Företagare, kom och träffa framtiden!
-...
+
+Dagens studenter är dem som kommer att driva fram nya ideer och tanker i dagens företag.
+Genom Kodkollektivet finns möjligheten att på ett prestigelöst och socialt sätt träffa studenter.
+Kodkollektivet ser gärna att ni kommer med ideer på events, föreläsningar eller studiebesök!
+Vill ni vara med och sponsra Kodkollektivet och få din logo på hemsidan?
