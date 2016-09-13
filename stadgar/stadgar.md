@@ -222,3 +222,138 @@ ske. Styrelsen äger ej rätt att entlediga:
 * Kassör
 * Revisor
 
+
+
+## $3.5.1 Entledigande vid stormöte
+
+Stormöte kan vid behov entlediga vilken funktionär som helst och utse en ersättare
+
+
+
+## $4 Styrelsen
+
+Styrelsen handhar ledning av föreningens verksamhet i enlighet med syftet, se §1.3, under verksamhetsåret.
+Styrelsen består minst av följande ordinarie ledamöter:
+
+* Ordförande, se §4.5
+* Kassör, se §4.6
+* Verksamhetsledare, se §4.7
+
+
+
+## $4.1 Rättigheter och skyldigheter
+
+Det åligger styrelsen att:
+
+* Ha roligt
+* Besluta om den löpande verksamheten
+* Bereda ärenden, vilka skall behandlas vid stormöten
+* Upprätta förslag till föredragningslista för stormöten
+* Inför stormöten ansvara för föreningens verksamhet
+* Verkställa av stormöten fattade beslut
+* Förbereda sina efterträdare inför deras verksamhetsår
+
+
+
+## $4.2 Styrelsemöten
+
+Styrelsemöten måste hållas minst en gång per termin under verksamhetsåret. Styrelsemöten är beslutsmässiga
+då minst hälften av ledamöterna är närvarande.
+
+
+
+## $4.2.1 Adjungeringar
+
+Styrelsemötena likt stormötena kan adjungera personer, se §3.2.7
+
+
+
+## $4.3 Protokoll
+
+Styrelsemöten måste protokollföras och protokollen förfärdigas i minst två exemplar, varav ett skall
+anslås på föreningens hemsida och ett skall arkiveras. Protokoll måste justeras av ordföranden och
+sekreteraren. Protokoll ska vara färdigställda inom två (2) veckor efter ett möte.
+
+
+
+## $4.4 Firmateckning
+
+Föreningens firma, om sådan finns, tecknas av Ordföranden och Kassören var för sig.
+
+
+
+## $4.5 Ordförande
+
+Det åligger ordföranden att:
+
+* Representera föreningen och agera kontaktperson i officiella sammanhang
+* Leda föreningens organisation
+* Se till att föreningens verksamhet sker i enlighet med gällande styrdokument
+* Hantera skötsel och uppdatering av föreningens styrdokument
+* Handha och uppdatera medlemsregistret
+
+
+
+## $4.6 Kassör
+
+Det åligger kassören att:
+
+* Vid sammanträden föra protokoll
+* Upprätta budget för nästkommande verksamhetsår
+* Sköta föreningens bokföring. Syftena med bokföringen, utan prioritetsordning, är följande:
+  * Att möjliggöra kontroll av föreningens verksamhet, genom revisorn/revisorernas försorg
+  * Att underlätta för nästkommande års verksamhet
+  
+* Föra kund- och leverantörsreskontra, betala fakturor i tid samt följa upp icke betalda fordringar.
+* Inventarie-/lagerföra föreningens tillgångar
+* Vid varje stormöte eller vid anmodan redovisa föreningens ekonomiska ställning
+* Ansvara för föreningens avtal och arkivering
+
+
+
+## $4.7 Verksamhetsledare
+
+Det åligger verksamhetsledaren att:
+
+* Anordna aktiviteter i enlighet med syftet, se §1.3 Aktiviteter bör anordnas både exklusivt för föreningens medlemmar för att uppmuntra till medlemskap såväl som öppna för allmänheten
+* Informera föreningens medlemmar om dessa aktiviteter
+
+
+
+## $5 Revision
+
+En revisor skall väljas på årsmötet som ska granska föreningens verksamhet. Revisorn ska agera både
+sak- och sifferrevisor. Revisorn skall vara myndig och får ej vara jävig.
+
+
+
+## $5.1 Åligganden
+
+Revisorn skall före årsmötet avsluta sin granskning av föregående års verksamhet och över den
+företagna revisionen upprätta revisionsberättelse.
+
+
+
+## $5.2 Revisionsberättelse
+
+Revisionsberättelse skall innehålla yttrande i fråga om ansvarsfrihet för berörda funktionärer.
+
+
+
+## $5.3 Handlingar
+
+Räkenskaper och övriga handlingar skall tillställas revisorn senast två(2) veckor före årsmötet.
+
+
+
+## $5.4 Avgång
+
+Om någon befattningshavare inom föreningen avgår, skall granskning av dennes förvaltning genast
+verkställas.
+
+
+
+## $5.5 Rättigheter
+
+Revisorn har rätt att närvara vid styrelsemötena. Revisorn skall ha insikt till föreningens tillgångar.
+Revisorn kan anmoda förtroendevalda att lämna ut information som behövs för en korrekt revision.
