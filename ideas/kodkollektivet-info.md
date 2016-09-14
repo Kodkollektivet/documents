@@ -1,5 +1,5 @@
 ## Vad är Kodkollektivet?
-Kodkollektivet består av en grupp studenter med ett brinnande intresse, främst inom programmering, nätverk och andra IT-relaterade ämnen. Vi startade under sommaren 2015 med ett hav av idéer som vi sedan dess har provat på, finslipat men framför allt lärt oss en hel del av gällande både samarbete, planering och fokus. 
+Kodkollektivet består av en grupp studenter med ett brinnande intresse, främst inom programmering, nätverk, system, design och andra IT-relaterade ämnen. Vi startade under sommaren 2015 med ett hav av idéer som vi sedan dess har provat på, finslipat men framför allt lärt oss en hel del av gällande både samarbete, planering och fokus. 
 
 Med detta i bagaget startar Kodkollektivet nu som studentförening och skiftar fokus en aning från projektarbeten och kodträffar till en mer social platform inriktad på studenter (med ingen till full kompetens inom sitt område) likaväl som företag med intresse av att komma i tidig kontakt med framtida arbetstagare.
 
