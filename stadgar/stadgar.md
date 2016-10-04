@@ -228,7 +228,7 @@ ske. Styrelsen äger ej rätt att entlediga:
 
 Stormöte kan vid behov entlediga vilken funktionär som helst och utse en ersättare
 
-
+---------------------------------------  This will be fixed for next week.
 
 ## $4 Styrelsen
 
@@ -318,7 +318,7 @@ Det åligger verksamhetsledaren att:
 * Anordna aktiviteter i enlighet med syftet, se §1.3 Aktiviteter bör anordnas både exklusivt för föreningens medlemmar för att uppmuntra till medlemskap såväl som öppna för allmänheten
 * Informera föreningens medlemmar om dessa aktiviteter
 
-
+---------------------------------
 
 ## $5 Revision
 
