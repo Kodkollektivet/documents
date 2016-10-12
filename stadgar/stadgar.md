@@ -223,7 +223,6 @@ ske. Styrelsen äger ej rätt att entlediga:
 * Revisor
 
 
-
 ## $3.5.1 Entledigande vid stormöte
 
 Stormöte kan vid behov entlediga vilken funktionär som helst och utse en ersättare
@@ -236,8 +235,11 @@ Styrelsen handhar ledning av föreningens verksamhet i enlighet med syftet, se �
 Styrelsen består minst av följande ordinarie ledamöter:
 
 * Ordförande, se §4.5
-* Kassör, se §4.6
-* Verksamhetsledare, se §4.7
+* Vice Ordförande, se §4.6
+* Kassör, se §4.7
+* Revisor, se §4.8
+* Interna Relationer, se §4.9
+* Externa Relationer, se $4.9
 
 
 
@@ -294,7 +296,16 @@ Det åligger ordföranden att:
 
 
 
-## $4.6 Kassör
+## $4.6 Vice Ordförande
+
+Det åligger vice ordföranden att:
+
+* Ha god insikt i Ordforandes aligganden och arbeta tillsammans med denne underlatta dess ansvar.
+* Utfora de plikter som fastslagits i §4.5, vid de tillfallen da Ordforande ej
+  har mojlighet att gora detta.
+
+
+## $4.7 Kassör
 
 Det åligger kassören att:
 
@@ -310,14 +321,21 @@ Det åligger kassören att:
 * Ansvara för föreningens avtal och arkivering
 
 
+## $4.8 Revisor
 
-## $4.7 Verksamhetsledare
+Det åligger revisorn att:
+* Se §5
 
-Det åligger verksamhetsledaren att:
 
-* Anordna aktiviteter i enlighet med syftet, se §1.3 Aktiviteter bör anordnas både exklusivt för föreningens medlemmar för att uppmuntra till medlemskap såväl som öppna för allmänheten
-* Informera föreningens medlemmar om dessa aktiviteter
+## $4.9 Externa/Interna Relationer
 
+Det åligger relations-ansvariga att:
+
+* Representera styrelsen pa ett godtyckligt satt och ansvara for kommunikation
+riktad till och fran foreningen. Dessa positioner fungerar som styrelsens sprakror. Exempelvis:
+  * Kontakta / Kontaktas av externa foretag eller organizationer ang. event (Externa Relationer).
+  * Kontakta / Kontaktas av interna medlemmar av foreningen ang. forslag eller klagomal (Interna Relationer).
+  
 ---------------------------------
 
 ## $5 Revision
