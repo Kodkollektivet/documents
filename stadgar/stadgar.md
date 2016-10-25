@@ -240,6 +240,7 @@ Styrelsen består minst av följande ordinarie ledamöter:
 * Revisor, se §4.8
 * Interna Relationer, se §4.9
 * Externa Relationer, se $4.9
+* Styrelserådgivare, se $4.10
 
 
 
@@ -335,6 +336,18 @@ Det åligger relations-ansvariga att:
 riktad till och fran foreningen. Dessa positioner fungerar som styrelsens sprakror. Exempelvis:
   * Kontakta / Kontaktas av externa foretag eller organizationer ang. event (Externa Relationer).
   * Kontakta / Kontaktas av interna medlemmar av foreningen ang. forslag eller klagomal (Interna Relationer).
+  
+  
+## $4.10 Styrelserådgivare
+
+Styrelserådgivare är tillåtna att:
+
+* Vara med på styrelsemöten
+* Inneha rätten att prata och diskutera
+
+Styrelserådgivare innehar inte rätten att:
+
+* Rösta på styrelsemöten
   
 ---------------------------------
 
