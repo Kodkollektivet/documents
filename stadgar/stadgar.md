@@ -225,9 +225,7 @@ ske. Styrelsen äger ej rätt att entlediga:
 
 ## $3.5.1 Entledigande vid stormöte
 
-Stormöte kan vid behov entlediga vilken funktionär som helst och utse en ersättare
-
----------------------------------------  This will be fixed for next week.
+Stormöte kan vid behov entlediga vilken funktionär som helst och utse en ersättare.
 
 ## $4 Styrelsen
 
