@@ -1,0 +1,74 @@
+#+TITLE: Kodkollektivet meeting
+#+DATE: <2017-01-17 Tue>
+
+* Attendance:
+
+- John Herrlin
+- Rasmus Sjöström
+- Austin Ponten
+- Alex Spottka
+- Otto Bergman
+- Abdi Ahmed
+- Malte
+- Vahida
+
+** Meeting notes
+* Johan sends PlaynGo an email about some kind of event/cooperation.
+* Statues are ready, Otto and Alex sends to Linnestudenterna
+** UPDATE: They have sent, but no replay yet! If no replay this week. Hit them harder.
+** UPDATE 21/11: Feedback from Linnestudenterna, some small changes needs to be made. Otto and Alex and Rasmus fixes.
+** UPDATE 29/11: Completed and sent.
+** UPDATE 06/12: No replay yet.
+** <2017-01-17 Tue> No response yet.
+   Alex send a mail.
+* CodeHub, Austin takes the responsible for it!
+** We are interested in NodeJS talks/lecuters from Sebestian.
+** UPDATE 06/12: Few people showed up, how can we improve? John wanna do a introduction to Docker.
+** <2017-01-31 Tue 17:00> CodeHub
+
+Next CodeHub.
+John wanna have some presentation.
+
+* Email addresses:
+  * John talks to Smelink.
+  * UPDATE 29/11: John calls Smelink until next week.
+  * UPDATE 06/12: Nothing done yet. John will add alias for personal addresses.
+* IEC, Hackathon about health
+  * March
+  * http://developer.halsaformig.se/
+* Kodkollektivet.se
+** <2017-01-17 Tue> Translation
+
+Rasmus fix it today!
+** <2017-01-17 Tue> Webdesign
+
+John talks to Nele.
+** <2017-01-17 Tue> Mail backend
+
+To send newsletters.
+* Mentoring program.
+
+A mentor for every student.
+
+* EVENT Contribe wants to have a small event with a select group of people.
+** UPDATE 06/12: This will be next year!
+* EVENT <2017-01-24 Tue 18:00> Pitchler                               :event:
+
+Event with Pitchler.
+Softhouse Consulting, Kungsgatan 1B, 352 30 Växjö
+Create a FB event, and make people share it.
+
+"Pitchler is organizing an information evening for developers with Kodkollektiv.
+Are you a developer?
+This is a good chance for you to learn about our innovation in Job and Talent Search market and how we are
+creating this global platform. Also to see how this can open doors to new jobs and collaborations for you."
+Coffee and light snacks.
+
+
+* EVENT <2017-01-16 Mon 17:25> Ellen, Experis
+
+Alex.
+Notes:
+Sommarjobb, Examen, Hur funkar en rektytering.
+Vi ska försöka få till något gött event!
+0470-74 55 88
