@@ -7,7 +7,7 @@
 
 ## $1.1 Namn
 
-Föreningens name är Kodkollektivet. Nedan kallas "Föreningen".
+Föreningens namn är Kodkollektivet. Nedan kallas "Föreningen".
 
 
 ## $1.2 Säte
@@ -30,8 +30,8 @@ för föreningens samarbetspartners eller vise versa.
 
 ## $1.5 Upplösning
 
-För upplösning av föreningen krävs godkännande av minst 90% majoritet av de röstande på två
-på varandra följande stormöten. Vid upplösning ska, efter att eventuella skulder betalats,
+För upplösning av föreningen krävs godkännande av minst 90% majoritet av de röstande på nästkommande stormöte. 
+Vid upplösning ska, efter att eventuella skulder betalats,
 kvarvarande likvida medel tillfalla en ideell organisation vald av föreningens medlemmar.
 
 
@@ -53,14 +53,14 @@ tillåtas deltaga i föreningens aktiviteter.
 
 ## $2.3 Medlemsavgift
 
-Medlemskap erhålls för ett verksamhetsår genom inskrivning i medlemsregistret och
+Medlemskap erhålls för en termin genom inskrivning i medlemsregistret och
 betalning av fastställd medlemsavgift.
 
 
 ## $2.3.1 Inaktivt medlemskap
 
-Medlemskap inaktiveras om medlemsavgiften ej betalas inom två (2) månader efter påbörjat
-verksamhetsår. Inaktiva medlemmar har inga rättigheter i föreningen.
+Medlemskap inaktiveras om medlemsavgiften ej betalas inom två (2) månader efter påbörjad
+termin. Inaktiva medlemmar har inga rättigheter i föreningen.
 
 
 ## $2.3.2 Undantag
@@ -79,7 +79,8 @@ som sedan skall behandla ärendet skyndsamt.
 Styrelsen äger rätt att utesluta medlem från föreningen fram till nästa stormöte om denne har motarbetat
 färenings arbete eller skadat föreningens verksamhet eller anseende. Den uteslutna måste få
 möjlighet att försvara sig inför styrelsen före beslutet. Utesluten medlem måste diskuteras på nästa
-stormöte. Antingen så upphövs då uteslutningen eller så bannlyses medlemmen permanent.
+stormöte. Antingen så upphövs då uteslutningen eller så bannlyses medlemmen permanent. Beslutet baseras på
+majoritet av rösterna på stormötet.
 
 
 
@@ -108,7 +109,7 @@ har automatiskt rösträtt. Stormöten kan ge tillfällig rösträtt till stödm
 ## $3.2.2 Kallelse
 
 En kallelse till stormöte, samt en preliminär föredragningslista, anslås på föreningens hemsida minst
-fyra (4) veckor innan utsatt datum.
+två (2) veckor innan utsatt datum.
 
 
 ## $3.2.3 Föredragningslista
@@ -174,9 +175,9 @@ justeringsperson.
 
 
 
-## $3.3 Årsmöte
+## $3.3 Terminsmöte
 
-På våren varje verksamhetsår skall ett stormöte hållas. Detta kallas årsmötet. Årsmötets föredragningslista
+På våren samt hösten varje verksamhetsår skall ett stormöte hållas. Detta kallas terminsmötet. Terminsmötets föredragningslista
 måste, förutom de som nämns i §3.2.3, minst lyfta punkterna:
 
 * Fastställandet av nästa verksamhetsårs medlemsavgift
@@ -192,7 +193,7 @@ måste, förutom de som nämns i §3.2.3, minst lyfta punkterna:
 
 ## $3.3.1 Extra stormöte
 
-Vid behov kan ett extra stormöte sammankallas av styrelseledamot, revisorn eller en grupp av minst
+Vid behov kan ett extra stormöte sammankallas av 50% av styrelseledamöterna eller en grupp av minst
 50% av medlemmarna. Vid yrkande om extra stormöte skall en kallelse fastslås inom två (2) veckor.
 
 
@@ -299,9 +300,9 @@ Det åligger ordföranden att:
 
 Det åligger vice ordföranden att:
 
-* Ha god insikt i Ordforandes aligganden och arbeta tillsammans med denne underlatta dess ansvar.
-* Utfora de plikter som fastslagits i §4.5, vid de tillfallen da Ordforande ej
-  har mojlighet att gora detta.
+* Ha god insikt i Ordförandes åligganden och arbeta tillsammans med denne underlätta dess ansvar.
+* Utföra de plikter som fastslagits i §4.5, vid de tillfällen då Ordförande ej
+  har möjlighet att göra detta.
 
 
 ## $4.7 Kassör
@@ -309,10 +310,10 @@ Det åligger vice ordföranden att:
 Det åligger kassören att:
 
 * Vid sammanträden föra protokoll
-* Upprätta budget för nästkommande verksamhetsår
+* Upprätta budget för nästkommande termin
 * Sköta föreningens bokföring. Syftena med bokföringen, utan prioritetsordning, är följande:
   * Att möjliggöra kontroll av föreningens verksamhet, genom revisorn/revisorernas försorg
-  * Att underlätta för nästkommande års verksamhet
+  * Att underlätta för nästkommande termins verksamhet
   
 * Föra kund- och leverantörsreskontra, betala fakturor i tid samt följa upp icke betalda fordringar.
 * Inventarie-/lagerföra föreningens tillgångar
@@ -330,10 +331,10 @@ Det åligger revisorn att:
 
 Det åligger relations-ansvariga att:
 
-* Representera styrelsen pa ett godtyckligt satt och ansvara for kommunikation
-riktad till och fran foreningen. Dessa positioner fungerar som styrelsens sprakror. Exempelvis:
-  * Kontakta / Kontaktas av externa foretag eller organizationer ang. event (Externa Relationer).
-  * Kontakta / Kontaktas av interna medlemmar av foreningen ang. forslag eller klagomal (Interna Relationer).
+* Representera styrelsen på ett godtyckligt sätt och ansvara för kommunikation
+riktad till och från föreningen. Dessa positioner fungerar som styrelsens språkrör. Exempelvis:
+  * Kontakta / Kontaktas av externa företag eller organisationer ang. event (Externa Relationer).
+  * Kontakta / Kontaktas av interna medlemmar av föreningen ang. förslag eller klagomål (Interna Relationer).
   
   
 ## $4.10 Styrelserådgivare
@@ -351,14 +352,14 @@ Styrelserådgivare innehar inte rätten att:
 
 ## $5 Revision
 
-En revisor skall väljas på årsmötet som ska granska föreningens verksamhet. Revisorn ska agera både
+En revisor skall väljas på terminsmötet som ska granska föreningens verksamhet. Revisorn ska agera både
 sak- och sifferrevisor. Revisorn skall vara myndig och får ej vara jävig.
 
 
 
 ## $5.1 Åligganden
 
-Revisorn skall före årsmötet avsluta sin granskning av föregående års verksamhet och över den
+Revisorn skall före terminsmötet avsluta sin granskning av föregående termins verksamhet och över den
 företagna revisionen upprätta revisionsberättelse.
 
 
@@ -371,7 +372,7 @@ Revisionsberättelse skall innehålla yttrande i fråga om ansvarsfrihet för be
 
 ## $5.3 Handlingar
 
-Räkenskaper och övriga handlingar skall tillställas revisorn senast två(2) veckor före årsmötet.
+Räkenskaper och övriga handlingar skall tillställas revisorn senast två(2) veckor före terminsmötet.
 
 
 
