@@ -1,5 +1,5 @@
 
-# Förslag på stadgar för Kodkollektivet
+# Stadgar för Kodkollektivet
 
 -------------------------------------------------------------------------------------
 
