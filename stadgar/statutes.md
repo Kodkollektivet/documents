@@ -248,7 +248,7 @@ It is the responsibility relations managers to:
   * Contact / Contacted by external companies or organizations ex. Events (External Relations).
   * Contact / Contacted by internal members of the association ex. suggestions or complaints (internal relations).  
   
-## $4.10 Styrelserådgivare
+## $4.10 Board Advisors
 
 Board Advisor is allowed to:
 *	Participate in meetings
