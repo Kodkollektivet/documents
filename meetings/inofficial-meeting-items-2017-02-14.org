@@ -1,0 +1,56 @@
+﻿* Inofficial meeting <2017-02-14 Tue>
+
+* Meeting Opening
+President:  John Herrlin
+Secretary: Johan Rovala
+Attestant: Rasmus Sjöström
+
+* Attendants:
+  - Vahida Ahmic
+  - Abdi Ahmed
+  - Alex Spottka
+  - Austin Pontén
+  - Rasmus Sjöström
+  - Otto Bergman
+  - Hatem Houssein
+  - Johan Rovala
+  - John Herrlin
+
+* Meeting Notes
+
+** Experis (Recruiting firm)
+   Help with CV, Linkedin etc. Non technical event.
+
+
+** Trello
+   John showed us Trello, a platform to organize eventual events in correlation with IEC.
+   Read-only mode in Trello?
+
+
+** Contacts
+   Contacts have been established with several major software companies in Växjö.
+
+
+** Gears of Leo
+   GoL wants to do an event with us. No direct interest shown in Slack from either of us.
+   If anyone is interested, he/she will post on slack.
+
+
+** Södra
+   The IT department of Södra would like to organize a Hackathon.
+
+
+** Mentorship
+   We have an idea that we would like to create a mentorship program, for each it related
+   program at LNU. The mentors would probably have to be companies in the Växjö
+   region. The format is still undecided, a meeting is planned 14/3 to further discuss the
+   concept with Sigma.
+
+
+** Codehub
+   Austin will renew his responsibilities for the CodeHub.
+
+
+** Statues
+   The statues will be translated from swedish to english, Austin and Otto will take
+   responsibility for this.
