@@ -1,0 +1,49 @@
+﻿DATE: <2017-02-14 Tue 16:00-17:00>
+
+* Mötets öppnande:
+  - Ordförande: John Herrlin
+  - Sekreterare: Johan Rovala
+  - Justerare: Rasmus Sjöström
+
+* Närvarande:
+  - Vahida Ahmic
+  - Abdi Ahmed
+  - Alex Spottka
+  - Austin Pontén
+  - Rasmus Sjöström
+  - Otto Bergman
+  - Hatem Houssein
+  - Johan Rovala
+  - John Herrlin
+
+* Godkännande av dagordning:
+  - Tillsätta styrelse *
+  - Godkänna stadgar *
+
+* Mötesfrågor:
+Aktuella frågor diskuteras under lämpliga rubriker eller punkter. Det är under dessa
+punkter som själva innehållet, diskussion och beslut kring aktuella frågor, uppmärksammas
+på mötet.
+
+** Tillsätta styrelsen
+Styrelsen har valt:
+- John Herrlin till ordförande,
+- Rasmus Sjöström till vice ordförande,
+- Vahida Ahmic till ekonomiansvarig,
+- Johan Rovala till externa/interna relationer
+
+Följande har valts till styrelseledamöter:
+- Alex Spottka
+- Austin Pontén
+- Otto Bergman
+- Hatem Houssein
+- Peter Danielsson
+
+** Stadgar
+Styrelsen godkänner föreslagna stadgar.
+
+* Övriga frågor:
+Inga övriga frågor.
+
+* Mötets avslutande:
+Ordförande avslutar mötet.
