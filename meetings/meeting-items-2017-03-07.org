@@ -1,0 +1,104 @@
+﻿DATE: <2017-03-07 Tue 16:00-17:00>
+
+* Positions for this meeting:
+
+  - President: John Herrlin
+  - Secretary: Otto Bergman
+  - Adjustor: Alex Sp
+
+* Attendants:
+
+  - Johan Rovala
+  - Otto Bergman
+  - Hatem
+  - Abdi
+  - Austin
+  - Daniel Hamrin
+  - John Herrlin
+  - Vahida
+  - Alex Sp
+
+* Agenda:
+
+** Gymnasiedagarna 16/3
+
+   Närvarande för gymnasiedagarna samt storlek för tröja:
+   - Alex Spottka M Svart
+   - Otto Bergman M Svart
+   - Hatem Houssein S Svart
+   - Rasmus Sjöström M Svart
+   - Vahida Ahmic XS (girl, minsta) Svart
+   - John Herrlin S Svart
+   - Austin Pontén M Svart
+
+   The money recieved will go to kodkollektivet, this was decided by a unanimous vote.
+
+*** Updates
+    <2017-03-07 Tue>
+
+    We have got an amount of 10 000 kr that we can use for good stuff.
+    Tomorrow before lunch you need to go and pick up a hoodie.
+
+    We meet at Kristinas 17:00. 8 Mars together with people from Media Technology.
+
+**** Name badges
+
+     Alex Spottka - Network Security
+     Otto Bergman - Network Security
+     Rasmus Sjöström - Network Security
+     Vahida Ahmic - Enterprising & Business Development
+     John Herrlin - Network Security
+     Austin Pontén - Network Security
+
+** Marketing our school
+
+   Hatem has suggested that we market our programs to different schools in the local region.
+   As a result we should be accommodated for it by LNU.
+
+*** Update
+    <2017-03-07 Tue>
+
+    Hatem will talk to Eva Nilsson at Linnestudenterna and see if this can be done.
+
+** Shaping the education
+
+   Johan suggests that we discuss with companies what they wish LNU had in their education
+   plan.
+
+** Team building
+
+   Suggestions for team building has been brought up. Majority vote settled on Boda
+   Borg. John will talk to Visma about sponsorship for this event.
+
+*** Update
+    <2017-03-07 Tue>
+    John is working on a mail to Peter Häder at Visma to get sponsorship for the event.
+
+** Event
+
+   Jessica at Electrolux in Ljungby.
+   Working with human resources.
+   She wanna have a talk about human resources.
+   Vahida takes care of the event.
+   We should fix sponsorship.
+
+** Lanparty
+
+   5 Maj, Jönköping
+   We could work with them and attend that event.
+   Jönköping have teams playing games and the school is really in to this.
+   Alex takes care of it.
+   We wanna do something here in Växjö to.
+   Start a working group.
+
+** Södra Hackathon
+
+   We are planning a hackathon on the 6-7 May with Södra.
+
+** Student servers
+
+   As many students wanna test and deploy stuff.
+   Maybe the university could provide som resources for that.
+   When IT department throws away old hardware, that could be provided to the students.
+   It would be awesome to get like 1 or 2 public IP addresses to use.
+   John created a Trello note for it.
