@@ -1,0 +1,122 @@
+DATE: <2017-03-14 Tue 17:00-18:00>
+
+* Positions for this meeting:
+
+  - President: John Herrlin
+  - Secretary: Otto Bergman
+  - Adjustor: Alex Sp
+
+* Attendants:
+
+  - Johan Rovala
+  - Rasmus Sjöström
+  - Otto Bergman
+  - Hatem Houssein
+  - Abdi Ahmed
+  - Austin Pontén
+  - Ludvig Magnusson
+  - John Herrlin
+  - Jakob Heyder
+  - Alex Spottka
+
+* Agenda:
+
+** Gymnasiedagarna 16/3
+
+   Närvarande för gymnasiedagarna samt storlek för tröja:
+   - Alex Spottka M Svart
+   - Otto Bergman M Svart
+   - Hatem Houssein S Svart
+   - Rasmus Sjöström M Svart
+   - Vahida Ahmic XS (girl, minsta) Svart
+   - John Herrlin S Svart
+   - Austin Pontén M Svart
+
+   The money recieved will go to kodkollektivet, this was decided by a unanimous vote.
+
+*** Updates
+    <2017-03-07 Tue>
+
+    We have got an amount of 10 000 kr that we can use for good stuff.
+    Tomorrow before lunch you need to go and pick up a hoodie.
+
+    We meet at Kristinas 17:00. 8 Mars together with people from Media Technology.
+
+** Sigma Event
+
+   Johan presents what they talked about during his meeting with Sigma.
+   Hackathon discussed where there is different tasks for different levels of the students.
+   Told Sigma about what we do at Kodkollektivet etc.
+
+
+** Austin contact with Combitech
+
+   Austin will get in touch with Combitech and be the contact person in regards to them.
+
+** Mentorship
+   
+   Discussing further about the mentorship program and how the companies want to be involved
+   and at what level.
+   IEC will take 20 students as a trial, 10 swedish and 10 international.
+
+** More support for maths related events
+
+   Maths is involved in a lot of IT related subjects such as machine learning and VR.
+
+** Team building
+
+   Suggestions for team building has been brought up. Majority vote settled on Boda
+   Borg. John will talk to Visma about sponsorship for this event.
+
+*** Update
+    <2017-03-07 Tue>
+    John is working on a mail to Peter Häder at Visma to get sponsorship for the event.
+
+** CodeHub
+
+   CodeHub planned for next week.
+   Jakob Brandt will give a talk.
+
+** Talks to schools
+   Hatem talked to Eva about going to schools and giving talks.
+   There were maybe two schools to talk too.
+
+** Lanparty
+
+   5 Maj, Jönköping
+   We could work with them and attend that event.
+   Jönköping have teams playing games and the school is really in to this.
+   Alex takes care of it.
+   We wanna do something here in Växjö to.
+   Start a working group.
+
+*** Update
+    <2017-03-14 Tue>
+    Working group started.
+    Marketing started and 22 people signed up so far.
+    Talked to ER and the university for sponsorship.
+    Started a discord channel for students at the university.
+    Bus cost for 50 man bus is 5300 kr from Hjalmarssons.
+
+** Södra Hackathon
+
+   We are planning a hackathon on the 6-7 May with Södra.
+
+** Student servers
+
+   As many students wanna test and deploy stuff.
+   Maybe the university could provide som resources for that.
+   When IT department throws away old hardware, that could be provided to the students.
+   It would be awesome to get like 1 or 2 public IP addresses to use.
+   John created a Trello note for it.
+
+** Strategy for helping new board
+   Setting up something that will help new boards getting new members and how to deal
+   with the different problems and things that will arise.
+   Having one new board member do a walk beside for when organizing events so they get
+   to know the contacts in person and gets comfortable with the role.
+   Evaluation of the event at the trello board after every event.
+   
+** Discussion about the gaming branch
+   Will be decided next week if it is to be part of Kodkollektivet or as a separate organization.
+  
