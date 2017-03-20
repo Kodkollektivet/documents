@@ -1,4 +1,8 @@
-﻿DATE: <2017-02-14 Tue 16:00-17:00>
+﻿#+TITLE: Startup meeting.
+#+AUTHOR: Kodkollektivet
+#+DATE: <2017-02-14 Tue 16:00-17:00>
+#+OPTIONS: toc:nil
+
 
 * Mötets öppnande:
   - Ordförande: John Herrlin
