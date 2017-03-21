@@ -1,0 +1,124 @@
+DATE: <2017-03-21 Tue 16:00-17:00>
+
+* Positions for this meeting:
+
+  - President: John Herrlin
+  - Secretary: Rasmus Sjöström
+  - Adjustor: Alex Sp
+
+* Attendants:
+
+  - Rasmus Sjöström
+  - Otto Bergman
+  - Hatem Houssein
+  - Abdi Ahmed
+  - Austin Pontén
+  - John Herrlin
+  - Alex Spottka
+
+* Agenda:
+** Sigma Event
+
+   Johan presents what they talked about during his meeting with Sigma.
+   Hackathon discussed where there is different tasks for different levels of the students.
+   Told Sigma about what we do at Kodkollektivet etc.
+
+
+** Austin contact with Combitech
+   <2017-03-21 Tue>
+
+   Austin will get in touch with Combitech and be the contact person in regards to them.
+   John and Austin will meet them on Monday <2017-03-27 Mon>.
+
+** More support for maths related events
+
+   Maths is involved in a lot of IT related subjects such as machine learning and VR.
+
+** Team building
+
+   Suggestions for team building has been brought up. Majority vote settled on Boda
+   Borg. John will talk to Visma about sponsorship for this event.
+   They will look at it tomorrow (<2017-03-22 Wed>).
+
+*** Update
+    <2017-03-07 Tue>
+    John is working on a mail to Peter Häder at Visma to get sponsorship for the event.
+
+** Talks to schools
+
+   Hatem talked to Eva about going to schools and giving talks.
+   There were maybe two schools to talk too.
+
+
+** Lanparty
+
+   5 Maj, Jönköping
+   We could work with them and attend that event.
+   Jönköping have teams playing games and the school is really in to this.
+   Alex takes care of it.
+   We wanna do something here in Växjö to.
+   Start a working group.
+
+*** <2017-03-14 Tue>
+
+    Working group started.
+    Marketing started and 22 people signed up so far.
+    Talked to ER and the university for sponsorship.
+    Started a discord channel for students at the university.
+    Bus cost for 50 man bus is 5300 kr from Hjalmarssons.
+
+*** <2017-03-21 Tue>
+
+    Trying to get sponsors and find out how much money it will cost per person.
+    How can we handle money.
+
+** Södra Hackathon
+
+   We are planning a hackathon on the 6-7 May with Södra.
+
+*** <2017-03-21 Tue>
+
+    New date: 29-30 April
+    Other dates that would work: May 13-14
+
+** Student servers
+
+   As many students wanna test and deploy stuff.
+   Maybe the university could provide som resources for that.
+   When IT department throws away old hardware, that could be provided to the students.
+   It would be awesome to get like 1 or 2 public IP addresses to use.
+   John created a Trello note for it.
+
+** Strategy for helping new board
+
+   Setting up something that will help new boards getting new members and how to deal
+   with the different problems and things that will arise.
+   Having one new board member do a walk beside for when organizing events so they get
+   to know the contacts in person and gets comfortable with the role.
+   Evaluation of the event at the trello board after every event.
+
+** Discussion about the gaming branch
+
+   Will be decided next week if it is to be part of Kodkollektivet or as a separate organization.
+
+
+   Should the gaming be a new organization?
+   - No :: 0
+   - Yes :: 7
+
+** CodeHub sponsorship
+
+   Austin writing a template about prices and offers.
+
+** Talkers for next IT-kompetensdagen
+
+   - Richad Stallman
+   - Frans Rosen
+   - Jonas Lejon
+   - Someone from Säkerhet
+
+** New events
+
+   - Wexnet :: 10-13 April, 18-21 April
+   - Griffel ::
+   - Readly ::
