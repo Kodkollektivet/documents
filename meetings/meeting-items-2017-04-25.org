@@ -1,0 +1,79 @@
+DATE: <2017-04-25 Tue 17:00-18:00>
+
+* Positions for this meeting:
+
+  - President: Rasmus Sjöström
+  - Secretary: John Herrlin
+  - Adjustor: Alex Sp
+
+* Attendants:
+
+  - Rasmus Sjöström
+  - Otto Bergman
+  - Hatem Houssein
+  - Abdi Ahmed
+  - Austin Pontén
+  - John Herrlin
+  - Alex Spottka
+  - Johan Rovala
+  - Michael Johansson
+
+* Agenda:
+** Changed statues
+
+   We have got feedback from Linnestudenterna.
+
+   The major changes of the statues was removing the specific responsibilities for the board member positions.
+   Also changed some grammar.
+
+   Votes on chaning the statues:
+   9 people agreed on changing the statues.
+
+   Rasmus and Michael talks to Christoffer (Linnestudenterna) before Friday.
+
+** Sigma event
+
+   Mailed Martin, Otto will join when organizing the event.
+
+** Lunch seminar with Combitech
+
+   Room is booked, food is ordered.
+
+** Next Codehub
+
+   Jakob Heyder will talk.
+   Austin talks to LNU if we could get sponsor for food and drinks.
+
+** Teambuilding
+
+   John fixes the car tomorrow.
+   If it cost more we take from our own money.
+
+** Talk to schools
+
+   Ludde will go!
+
+** Danfoss
+
+   Alex talks to them. They are looking for summerwork. They are interested in people from
+   3ed grade. No problem for international students.
+
+   Try to get a lunch seminar.
+
+** Lanparty
+
+   The tickets have not been sold as expected and if not more people get a ticket we
+   cancel the event.
+
+** Södra hackathon
+
+   Try to get poster from the international organization.
+
+   Go and talk on lectures, to attract new students.
+   Hatem will go and talk.
+
+** New events
+
+   - Wexnet :: 10-13 April, 18-21 April
+   - Griffel ::
+   - Readly ::
