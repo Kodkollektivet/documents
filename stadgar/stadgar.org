@@ -18,7 +18,7 @@
 
 * §1.4 Oberoende och organisation
 
-  Föreningen drivs ideellt, är partipolitiskt och religöst oberoende. Föreningens åsikter
+  Föreningen drivs ideellt, är partipolitiskt och religiöst oberoende. Föreningens åsikter
   och ställningstaganden är inte heller representativa för föreningens samarbetspartners
   eller vise versa.
 
@@ -36,11 +36,12 @@
 
 * §2.2 Medlemsavgift
 
-  Medlemsavgift erlägs av föreneningens nyvarande styrelse på föreningens Stormöte §3.2.
+  Medlemsavgift erläggs av föreneningens nyvarande styrelse på föreningens Stormöte §3.2.
 
 * §2.3 Medlemmar
 
-  Medlemskap erhålls för en termin genom inskrivning i medlemsregistret och betalning av fastställd medlemsavgift.
+  Medlemskap erhålls för en termin genom inskrivning i medlemsregistret och betalning av
+  fastställd medlemsavgift.
 
 * §2.3.1 Undantag
 
@@ -49,7 +50,10 @@
 
 * §2.4 Uteslutande av medlem
 
-  Styrelsen kan lägga fram en proposition om att utesluta en medlem om denne har motarbetat färenings arbete, skadat föreningens verksamhet eller anseende. Beslut om uteslutan bestäms på nästkommande stormöte genom två tredjedelars majoritet av stormötets närvarande medlemmar.
+  Styrelsen kan lägga fram en proposition om att utesluta en medlem om denne har
+  motarbetat förenings arbete, skadat föreningens verksamhet eller anseende. Beslut om
+  uteslutande bestäms på nästkommande stormöte genom två tredjedelars majoritet av
+  stormötets närvarande medlemmar.
 
 * §3.1 Verksamhetsår
 
@@ -58,13 +62,15 @@
 
 * §3.2 Stormöte
 
-  Ett stormöte är föreningens högsta beslutande organ där samtliga medlemmar har rösträtt. En kallelse till stormöte, samt en preliminär föredragningslista §3.2.1, anslås på föreningens hemsida minst två (2) veckor innan utsatt datum.
+  Ett stormöte är föreningens högsta beslutande organ där samtliga medlemmar har
+  rösträtt. En kallelse till stormöte, samt en preliminär föredragningslista §3.2.1,
+  anslås på föreningens hemsida minst två (2) veckor innan utsatt datum.
 
 * §3.2.1 Föredragningslista
 
-  Den slutgiltiga föredragningslistan måste anslås på föreningens hemsida senast en (1)
-  vecka innan utsatt datum för stormötet. Efter detta får föredragningslistan ej ändras
-  innan mötet. Varje föredragningslista måste innehålla minst följande punkter:
+  Den slutgiltiga föredragningslistan måste göras tillgänglig senast en (1) vecka innan
+  utsatt datum för stormötet. Efter detta får föredragningslistan ej ändras innan
+  mötet. Varje föredragningslista måste innehålla minst följande punkter:
 
   - Val av mötesordförande
   - Val av mötessekreterare
@@ -82,11 +88,12 @@
 
 * §3.2.3 Beslut
 
-  Beslut fattas med enkel majoritet. Röstning med fullmakt får ej förekomma. Medlemmar
-  kan begära votering. Vid lika röstetal har föreningens ordförande utslagsröst. För att föra in ett nytt ärende på föredragningslistan erfordras 75% majoritet. Under punkten
-  “övriga frågor” får det ej behandlas frågor som gäller kostnader.
+  Beslut fattas med enkel majoritet. Röstning med fullmakt får ej förekomma. Medlemmar kan
+  begära votering. Vid lika röstetal har föreningens ordförande utslagsröst. För att föra
+  in ett nytt ärende på föredragningslistan erfordras 75% majoritet. Under punkten “övriga
+  frågor” får det ej behandlas frågor som gäller kostnader.
 
-* §3.2.4 Adjungeringar
+* §3.2.4 Adjungering
 
   Stormötet kan adjungera personer. Med adjungering avses närvaro-, yttrande- och
   förslagsrätt. Adjungering medför ej rätt att deltaga i beslut, ej heller medansvar för
@@ -94,7 +101,8 @@
 
 * §3.2.5 Protokoll
 
-  Stormöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
+  Stormöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall
+  arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
 
 * §3.2.6 Justering av protokoll
 
@@ -118,21 +126,23 @@
 
 * §3.3.1 Extra stormöte
 
-  Vid behov kan ett extra stormöte sammankallas av 50% av styrelseledamöterna. Vid yrkande om extra stormöte skall en kallelseu fastslås inom två (2) veckor.
+  Vid behov kan ett extra stormöte sammankallas av 50% av styrelseledamöterna. Vid yrkande
+  om extra stormöte skall en kallelse fastslås inom två (2) veckor innan mötet.
 
 * §3.4 Styrdokument
 
-  Föreningens verksamhet regleras av dessa stadgar. För att ändra i stadgarna krävs 75% majoritet på ett stormöte.
+  Föreningens verksamhet regleras av dessa stadgar. För att ändra i stadgarna krävs 75%
+  majoritet på ett stormöte.
 
-* §3.4.1 Tolkingsfrågor
+* §3.4.1 Tolkningsfrågor
 
-  Om tolkningsfrågor skulle uppstå i styrdokumenten gäller styrelsens mening, tills
+  Om tolkningsfrågor skulle uppstå i styrdokumentet gäller styrelsens mening, tills
   frågan avgjorts på stormöte. Efter avklarad tolkningsfråga skall formuleringen som gav
   upphov till situationen justeras enligt stormötets beslut.
 
 * §3.5 Entledigande
 
-  Då särskilda skäl färeligger kan styrelsen efter skriftlig ansökan från styrelsemedlem
+  Då särskilda skäl föreligger kan styrelsen efter skriftlig ansökan från styrelsemedlem
   entlediga vederbörande samt tillförordna annan person att fullgöra den entledigades
   uppgifter till nästa stormöte, då val skall ske. Styrelsen äger ej rätt att entlediga:
 
@@ -148,10 +158,6 @@
   - Ordförande
   - Vice Ordförande
   - Kassör
-  - Revisor
-  - Interna Relationer
-  - Externa Relationer
-  - Styrelserådgivare
 
 * §4.1 Rättigheter och skyldigheter
 
@@ -169,13 +175,14 @@
   Styrelsemöten måste hållas minst en gång per termin under verksamhetsåret.
   Styrelsemöten är beslutsmässiga då minst hälften av ledamöterna är närvarande.
 
-* §4.2.1 Adjungeringar
+* §4.2.1 Adjungering
 
   Styrelsemötena likt stormötena kan adjungera personer, se §3.2.7
 
 * §4.3 Protokoll
 
-  Styrelsemöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
+  Styrelsemöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall
+  arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
 
 * §4.4 Firmateckning
 
@@ -194,10 +201,5 @@
 
 * §5.2 Handlingar
 
-  Räkenskaper och övriga handlingar skall tillställas revisorn löpande fram til terminsmötet.
-
-* §5.3 Rättigheter
-
-  Revisorn har rätt att närvara vid styrelsemötena. Revisorn skall ha insikt till
-  föreningens tillgångar. Revisorn kan anmoda förtroendevalda att lämna ut information
-  som behövs för en korrekt revision.
+  Räkenskaper och övriga handlingar skall tillställas revisorn löpande fram till
+  terminsmötet.
