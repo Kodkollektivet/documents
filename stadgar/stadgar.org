@@ -49,7 +49,10 @@
 
 * §2.4 Uteslutande av medlem
 
-  Styrelsen kan lägga fram en proposition om att utesluta en medlem om denne har motarbetat färenings arbete, skadat föreningens verksamhet eller anseende. Beslut om uteslutan bestäms på nästkommande stormöte genom två tredjedelars majoritet av stormötets närvarande medlemmar.
+  Styrelsen kan lägga fram en proposition om att utesluta en medlem om denne har
+  motarbetat förenings arbete, skadat föreningens verksamhet eller anseende. Beslut om
+  uteslutan bestäms på nästkommande stormöte genom två tredjedelars majoritet av
+  stormötets närvarande medlemmar.
 
 * §3.1 Verksamhetsår
 
@@ -82,9 +85,10 @@
 
 * §3.2.3 Beslut
 
-  Beslut fattas med enkel majoritet. Röstning med fullmakt får ej förekomma. Medlemmar
-  kan begära votering. Vid lika röstetal har föreningens ordförande utslagsröst. För att föra in ett nytt ärende på föredragningslistan erfordras 75% majoritet. Under punkten
-  “övriga frågor” får det ej behandlas frågor som gäller kostnader.
+  Beslut fattas med enkel majoritet. Röstning med fullmakt får ej förekomma. Medlemmar kan
+  begära votering. Vid lika röstetal har föreningens ordförande utslagsröst. För att föra
+  in ett nytt ärende på föredragningslistan erfordras 75% majoritet. Under punkten “övriga
+  frågor” får det ej behandlas frågor som gäller kostnader.
 
 * §3.2.4 Adjungeringar
 
@@ -94,7 +98,8 @@
 
 * §3.2.5 Protokoll
 
-  Stormöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
+  Stormöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall
+  arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
 
 * §3.2.6 Justering av protokoll
 
@@ -118,7 +123,8 @@
 
 * §3.3.1 Extra stormöte
 
-  Vid behov kan ett extra stormöte sammankallas av 50% av styrelseledamöterna. Vid yrkande om extra stormöte skall en kallelseu fastslås inom två (2) veckor.
+  Vid behov kan ett extra stormöte sammankallas av 50% av styrelseledamöterna. Vid yrkande
+  om extra stormöte skall en kallelse fastslås inom två (2) veckor innan mötet.
 
 * §3.4 Styrdokument
 
@@ -148,10 +154,6 @@
   - Ordförande
   - Vice Ordförande
   - Kassör
-  - Revisor
-  - Interna Relationer
-  - Externa Relationer
-  - Styrelserådgivare
 
 * §4.1 Rättigheter och skyldigheter
 
@@ -175,7 +177,8 @@
 
 * §4.3 Protokoll
 
-  Styrelsemöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
+  Styrelsemöten måste protokollföras. Dessa skall anslås på föreningens hemsida och skall
+  arkiveras. Protokoll ska vara färdigställda inom fyra (4) veckor efter ett möte.
 
 * §4.4 Firmateckning
 
@@ -194,10 +197,5 @@
 
 * §5.2 Handlingar
 
-  Räkenskaper och övriga handlingar skall tillställas revisorn löpande fram til terminsmötet.
-
-* §5.3 Rättigheter
-
-  Revisorn har rätt att närvara vid styrelsemötena. Revisorn skall ha insikt till
-  föreningens tillgångar. Revisorn kan anmoda förtroendevalda att lämna ut information
-  som behövs för en korrekt revision.
+  Räkenskaper och övriga handlingar skall tillställas revisorn löpande fram til
+  terminsmötet.
