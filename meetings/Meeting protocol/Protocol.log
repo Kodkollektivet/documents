@@ -1,12 +1,14 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2017.1.23)  25 APR 2017 22:49
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2016.9.14)  26 APR 2017 14:21
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **./Protocol.tex
-(Protocol.tex
+(./Protocol.tex
 LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-(E:\MikTex\MikTex\tex\latex\base\article.cls
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(c:/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(E:\MikTex\MikTex\tex\latex\base\size11.clo
+(c:/texlive/2016/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,14 +23,14 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(E:\MikTex\MikTex\tex\latex\base\fontenc.sty
+(c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
-(E:\MikTex\MikTex\tex\latex\base\t1enc.def
+(c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(E:\MikTex\MikTex\tex\latex\base\inputenc.sty
+(c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -36,7 +38,7 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (E:\MikTex\MikTex\tex\latex\fancyhdr\fancyhdr.sty
+) (c:/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \fancy@headwidth=\skip43
 \f@ncyO@elh=\skip44
@@ -48,77 +50,70 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@olf=\skip50
 \f@ncyO@orf=\skip51
 )
-(E:\MikTex\MikTex\tex\generic\babel\babel.sty
+(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-(E:\MikTex\MikTex\tex\latex\arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(E:\MikTex\MikTex\tex\latex\babel-swedish\swedish.ldf
+(c:/texlive/2016/texmf-dist/tex/generic/babel-swedish/swedish.ldf
 Language: swedish 2005/03/31 v2.3d Swedish support from the babel system
 
-(E:\MikTex\MikTex\tex\generic\babel\babel.def
+(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 
-(E:\MikTex\MikTex\tex\generic\babel\xebabel.def))
+(c:/texlive/2016/texmf-dist/tex/generic/babel/xebabel.def))
 Package babel Info: Making " an active character on input line 90.
 ))
-(E:\MikTex\MikTex\tex\latex\natbib\natbib.sty
+(c:/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip52
 \bibsep=\skip53
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count88
 )
-(E:\MikTex\MikTex\tex\latex\lastpage\lastpage.sty
+(c:/texlive/2016/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-(E:\MikTex\MikTex\tex\latex\graphics\graphicx.sty
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(E:\MikTex\MikTex\tex\latex\graphics\keyval.sty
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(E:\MikTex\MikTex\tex\latex\graphics\graphics.sty
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(E:\MikTex\MikTex\tex\latex\graphics\trig.sty
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(E:\MikTex\MikTex\tex\latex\00miktex\graphics.cfg
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 99.
 
-(E:\MikTex\MikTex\tex\latex\graphics-def\xetex.def
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
 JK)
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(E:\MikTex\MikTex\tex\latex\ncctools\watermark.sty
+(c:/texlive/2016/texmf-dist/tex/latex/ncctools/watermark.sty
 Package: watermark 2004/12/09 v1.1 Watermarks (NCC)
 )
-(E:\MikTex\MikTex\tex\latex\url\url.sty
+(c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(E:\MikTex\MikTex\tex\latex\hyperref\hyperref.sty
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-(E:\MikTex\MikTex\tex\generic\oberdiek\hobsub-hyperref.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(E:\MikTex\MikTex\tex\generic\oberdiek\hobsub-generic.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -159,25 +154,25 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(E:\MikTex\MikTex\tex\generic\ifxetex\ifxetex.sty
+(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(E:\MikTex\MikTex\tex\latex\oberdiek\auxhook.sty
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(E:\MikTex\MikTex\tex\latex\oberdiek\kvoptions.sty
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen106
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-(E:\MikTex\MikTex\tex\latex\hyperref\pd1enc.def
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count91
 
-(E:\MikTex\MikTex\tex\latex\00miktex\hyperref.cfg
+(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4486.
@@ -209,13 +204,13 @@ LaTeX Info: Redefining \pageref on input line 6416.
 
 Package hyperref Message: Driver (autodetected): hxetex.
 
-(E:\MikTex\MikTex\tex\latex\hyperref\hxetex.def
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2016/06/24 v6.83q Hyperref driver for XeTeX
 
-(E:\MikTex\MikTex\tex\latex\hyperref\puenc.def
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2016/06/24 v6.83q Hyperref: PDF Unicode definition (HO)
 )
-(E:\MikTex\MikTex\tex\generic\oberdiek\stringenc.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
@@ -225,7 +220,7 @@ Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 \Fld@listcount=\count99
 \c@bookmark@seq@number=\count100
 
-(E:\MikTex\MikTex\tex\latex\oberdiek\rerunfilecheck.sty
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 (rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
@@ -236,11 +231,11 @@ tly
 )
 \Hy@SectionHShift=\skip54
 )
-(E:\MikTex\MikTex\tex\latex\fontspec\fontspec.sty
-(E:\MikTex\MikTex\tex\latex\l3kernel\expl3.sty
+(c:/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2016/10/19 v6730 L3 programming layer (loader) 
 
-(E:\MikTex\MikTex\tex\latex\l3kernel\expl3-code.tex
+(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2016/10/19 v6730 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/06/13 v6596 L3 Bootstrap code
 L3 Module: l3names 2016/10/13 v6722 L3 Namespace for primitives
@@ -346,11 +341,11 @@ L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen140
 L3 Module: l3luatex 2016/08/18 v6679 L3 Experimental LuaTeX-specific functions
 )
-(E:\MikTex\MikTex\tex\latex\l3kernel\l3xdvipdfmx.def
+(c:/texlive/2016/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2016/08/18 v6679 L3 Experimental driver: xdvipdfmx
 \l__driver_tmp_box=\box42
 ))
-(E:\MikTex\MikTex\tex\latex\l3packages\xparse\xparse.sty
+(c:/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2016/10/19 v6730 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count122
 \l__xparse_m_args_int=\count123
@@ -360,7 +355,7 @@ Package: xparse 2016/10/19 v6730 L3 Experimental document command parser
 )
 Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
 
-(E:\MikTex\MikTex\tex\latex\fontspec\fontspec-xetex.sty
+(c:/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
 X
 \l_fontspec_script_int=\count127
@@ -371,31 +366,31 @@ X
 \l__fontspec_tmpc_dim=\dimen143
 \g__file_internal_ior=\read1
 
-(E:\MikTex\MikTex\tex\latex\base\fontenc.sty
+(c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
-(E:\MikTex\MikTex\tex\latex\euenc\eu1enc.def
+(c:/texlive/2016/texmf-dist/tex/latex/euenc/eu1enc.def
 File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
 )
 LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
 
 
-(E:\MikTex\MikTex\tex\latex\euenc\eu1lmr.fd
+(c:/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmr.fd
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-(E:\MikTex\MikTex\tex\xelatex\xunicode\xunicode.sty
+(c:/texlive/2016/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
 other characters in Unicode lower plane
 
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
 *** some features of other encodings may conflict, resulting in poor output.
-(E:\MikTex\MikTex\tex\latex\tipa\t3enc.def
+(c:/texlive/2016/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
 .
 
-(E:\MikTex\MikTex\tex\latex\euenc\eu1lmss.fd
+(c:/texlive/2016/texmf-dist/tex/latex/euenc/eu1lmss.fd
 File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 \tipaTiiicode=\count130
@@ -509,7 +504,7 @@ File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 .................................................
 \l__fontspec_tmp_int=\count131
 
-(E:\MikTex\MikTex\tex\latex\fontspec\fontspec.cfg)
+(c:/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec.cfg)
 LaTeX Info: Redefining \itshape on input line 2705.
 LaTeX Info: Redefining \slshape on input line 2710.
 LaTeX Info: Redefining \scshape on input line 2715.
@@ -530,10 +525,10 @@ LaTeX Info: Redefining \- on input line 2746.
 . Defining command \liningnums with sig. 'm' on line 2845.
 .................................................
 ))
-(E:\MikTex\MikTex\tex\latex\psnfss\courier.sty
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/courier.sty
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(C:\Users\Michaels\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+(c:/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count134
 \lst@gtempboxa=\box43
 \lst@token=\toks19
@@ -547,13 +542,13 @@ Package: courier 2005/04/12 PSNFSS-v9.2a (WaS)
 \lst@lineno=\count139
 \lst@maxwidth=\dimen147
 
-(C:\Users\Michaels\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+(c:/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count140
 \lst@skipnumbers=\count141
 \lst@framebox=\box44
 )
-(C:\Users\Michaels\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+(c:/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
@@ -582,7 +577,7 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 . <->"Cambria/BI/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
 .................................................
-(Protocol.aux)
+ (./Protocol.aux)
 \openout1 = `Protocol.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -605,7 +600,8 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 27.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 27.
- (E:\MikTex\MikTex\tex\latex\tipa\t3cmr.fd
+
+(c:/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 27.
@@ -615,10 +611,10 @@ Package lastpage Info: Please have a look at the pageslts package at
 \AtBeginShipoutBox=\box45
 Package hyperref Info: Link coloring OFF on input line 27.
 
-(E:\MikTex\MikTex\tex\latex\hyperref\nameref.sty
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(E:\MikTex\MikTex\tex\generic\oberdiek\gettitlestring.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count143
@@ -626,8 +622,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
 LaTeX Info: Redefining \nameref on input line 27.
- (Protocol.out)
-(Protocol.out)
+
+(./Protocol.out) (./Protocol.out)
 \@outlinefile=\write3
 \openout3 = `Protocol.out'.
 
@@ -701,7 +697,7 @@ Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 29.
-(E:\MikTex\MikTex\tex\generic\oberdiek\se-ascii-print.def
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
@@ -756,80 +752,80 @@ Package babel Info: Redefining swedish shorthand "|
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 55.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--61
+Underfull \hbox (badness 10000) in paragraph at lines 56--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--68
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
 
  []
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 69.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 72.
+(babel)             in language  on input line 71.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 72.
+(babel)             in language  on input line 71.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 75.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 75.
+(babel)             in language  on input line 74.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 77.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 77.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 81.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 81.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 87.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 87.
 [2
 
 ] 
 AED: lastpage setting LastPage
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 [3
 
 ]
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 95.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
- (Protocol.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
+(babel)             in language  on input line 94.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
+ (./Protocol.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 94.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
  ) 
 Here is how much of TeX's memory you used:
- 22366 strings out of 428408
- 394400 string characters out of 3162659
- 417605 words of memory out of 3000000
- 25656 multiletter control sequences out of 15000+200000
- 5197 words of font info for 33 fonts, out of 3000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 36i,10n,63p,10370b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 22382 strings out of 493589
+ 398223 string characters out of 6146760
+ 416877 words of memory out of 5000000
+ 25666 multiletter control sequences out of 15000+600000
+ 5197 words of font info for 33 fonts, out of 8000000 for 9000
+ 1347 hyphenation exceptions out of 8191
+ 36i,10n,63p,10370b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Protocol.pdf (3 pages).
