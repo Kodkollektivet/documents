@@ -1,0 +1,98 @@
+#+TITLE: Presentation and letter templates for org-mode
+#+STARTUP: indent
+
+* Prerequesites
+
+** Required software versions
+
+Recommended and tested emacs environment:
+#+BEGIN_SRC
+GNU Emacs 25.1.1
+Org mode version 9.0.5
+#+END_SRC
+
+If you you are already on those versions or you want to try with another version anyway, go ahead and use the provided init file for emacs as described in [[Initialization]].
+
+If you have a lower emacs version than 25.1.1, please make sure to upgrade to the newest version with the package manager of your system or compile it yourself.
+
+*** Prepare custom emacs user directory
+
+#+BEGIN_SRC bash
+tempdir=$(mktemp)
+git clone https://github.com/Kodkollektivet/documents ${tempdir}
+mv ${tempdir}/org-mode/emacs-init/ ~/.emacs.d.kodkoll/
+cd ~/.emacs.d.kodkoll/
+rm -rf ${tempdir}
+#+END_SRC
+
+*** Install cask for emacs package management
+
+Create =~/.cask= directory and clone cask repo into it. If you already using cask, please initialize cask in =~/.emacs.d.kodkoll=
+
+#+BEGIN_SRC bash
+mkdir ~/.cask/ && cd ~/.cask
+git clone https://github.com/cask/cask.git .
+#+END_SRC
+
+Add new cask directory to your =PATH= environment variable. To set this up permanently, add the following line to your shell configuration file. For example =~/.bashrc= or =~/.bash_profile=.
+
+#+BEGIN_SRC bash
+export PATH="$HOME/.cask/bin:$PATH"
+#+END_SRC
+
+To check your =$PATH= use
+
+#+BEGIN_SRC bash
+echo $PATH
+which cask
+#+END_SRC
+
+Initialize cask
+
+#+BEGIN_SRC bash
+cd ~/.emacs.d.kodkoll/ && cask install
+#+END_SRC
+
+Startup emacs and check if there are no errors. See [[Initialization]].
+
+* Initialization
+
+** Prepare custom emacs user directory
+
+If you haven't setup the custom emacs directory yet from the [[Prerequesites]] section, then please do the following:
+
+#+BEGIN_SRC bash
+tempdir=$(mktemp)
+git clone https://github.com/Kodkollektivet/documents ${tempdir}
+mv ${tempdir}/org-mode/emacs-init/ ~/.emacs.d.kodkoll/
+cd ~/.emacs.d.kodkoll/
+cask install
+rm -rf ${tempdir}
+#+END_SRC
+
+** Startup emacs
+
+Startup emacs with custom =init.el= and check if there are any errors
+
+#+BEGIN_SRC bash
+emacs -q -l ~/.emacs.d.kodkoll/custom-init.el
+#+END_SRC
+
+** Export reveal presenations
+
+Checkout the =documents= repo from Kodkollektivet github and open the =org-reveal-template.org= file with your custom initialized emacs. You can use =C-x C-f= to open the file directly in emacs.
+
+Export your presentation with =C-c C-e R R=. The presenatation will be exported to an html file with the same basename as your org-file.
+
+** Export letters with LaTeX
+
+Checkout the =documents= repo from Kodkollektivet github and open the =org-reveal-template.org= file with your custom initialized emacs. You can use =C-x C-f= to open the file directly in emacs.
+
+Export your letter with =C-c C-e k p= and view the PDF in your favourite PDF Reader.
+
+To use a different letter standard than DIN, please checkout your TeX distribution's =texmf= folder =texmf-dist/tex/latex/koma-script/= for other =.lco= files. If there is no standard letter format for your country, then you can use one of the =.lco= files as a template to create one on your own. You just need the correct measurements of the letter standard for your country. If there are no measurements available, you could measure an example letter on your own as a start.
+
+Place custom LCO files in your users =texmf= directory under =tex/latex/=.
+** Completing setup
+
+If everything works as expected, you can customize your regular config based on the information given in the =custom-init.el= and =configuration.org= files. After that you can use your regular config with the specific settings needed for the templates.
