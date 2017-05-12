@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Presentation</title>
+<meta name="author" content="(Karlsson på taket)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="./reveal.js/css/theme/white.css" id="theme"/>
+
+<link rel="stylesheet" href="./local.css"/>
+<link rel="stylesheet" href="./reveal.js/lib/css/zenburn.css"/>
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<meta name="description" content="Presentation">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1>Presentation</h1><h2>Karlsson på taket</h2><p>2017<p>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-org311b173">Införande</a></li>
+</ul>
+</div>
+</div>
+</section>
+
+<section>
+<section id="slide-org311b173">
+<div class="slide-header"></div>
+<h2 id="org311b173">Införande</h2>
+<div class="outline-text-2" id="text-org311b173">
+</div><div class="slide-footer"></div>
+</section>
+<section id="slide-orgf5755d4">
+<div class="slide-header"></div>
+<h3 id="orgf5755d4">Jaha!</h3>
+<p>
+Kanelbulle!
+</p>
+
+<div class="slide-footer"></div>
+</section>
+<section id="slide-org1bc969e">
+<div class="slide-header"></div>
+<h3 id="org1bc969e">Geografisk läge</h3>
+
+<div id="orgccc9b1e" class="figure">
+<p><img src="./img/Map_of_Franconia.png" alt="Map_of_Franconia.png" style="width:70%" />
+</p>
+<p><span class="figure-number">Figure 1: </span>Region Franken, Källa: <a href="https://de.wikipedia.org/wiki/Franken_(Region)">Franken at Wikipedia</a></p>
+</div>
+
+<div class="slide-footer"></div>
+</section>
+<section id="slide-orgcab71f9">
+<div class="slide-header"></div>
+<h3 id="orgcab71f9">Vapen</h3>
+
+<div id="org8cbd398" class="figure">
+<p><img src="./img/frankenrechen.png" alt="frankenrechen.png" style="width:60%" />
+</p>
+<p><span class="figure-number">Figure 2: </span>Der Frankenrechen, Vapen från Franken, Källa: <a href="https://de.wikipedia.org/wiki/Franken_(Region)">Franken at Wikipedia</a></p>
+</div>
+
+</section>
+<section >
+
+<table id="org9343fdb" border="2" cellspacing="0" cellpadding="6" rules="all" frame="border" style="width:70%">
+<caption class="t-above"><span class="table-number">Table 1:</span> Frankenrechen och vapen av Bayern, Källa: <a href="https://de.wikipedia.org/wiki/Bayerisches_Staatswappen">Bayern vapen at Wikipedia</a></caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><img src="./img/frankenrechen.png" alt="frankenrechen.png" /></td>
+<td class="org-left"><img src="./img/bavaria.png" alt="bavaria.png" /></td>
+</tr>
+</tbody>
+</table>
+<div class="slide-footer"></div>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Kodkollektivet </p>
+<script src="./reveal.js/lib/js/head.min.js"></script>
+<script src="./reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: true,
+center: false,
+slideNumber: 'h.v',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+width: 1200,
+height: 800,
+margin: 0.10,
+minScale: 0.20,
+maxScale: 1.00,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'slow',
+multiplex: {
+    secret: '[Obtained from socket.io server. Gives the master control of the presentation.]', // null if client
+    id: '[Obtained from the socket.io server. ]', // id, obtained from socket.io server
+    url: 'http://revealjs.jit.su:80 [Location of socket.io server]' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }]
+});
+</script>
+</body>
+</html>

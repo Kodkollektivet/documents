@@ -1,0 +1,71 @@
+#+TITLE: org-mode style config for emacs
+#+AUTHOR: Kodkollektivet
+#+EMAIL: info@kodkollektivet.se
+#+STARTUP: indent
+
+* General
+** Files backup
+  Save backup files in a directory rather than in the path where the file is located.
+
+  #+BEGIN_SRC emacs-lisp
+    (setq backup-directory-alist `(("." . "~/.saves")))
+    (setq backup-by-copying t)
+  #+END_SRC
+* Package Management
+
+Use =cask= and =pallet= for managing packages.
+
+#+BEGIN_SRC emacs-lisp
+(require 'cask "~/.cask/cask.el")
+(cask-initialize)
+(require 'pallet)
+(pallet-mode t)
+#+END_SRC
+* Org-mode
+** Setup load-path for newest org-mode
+
+   #+BEGIN_SRC emacs-lisp
+  ;;(add-to-list 'load-path "~/.emacs.d/org-mode/lisp")
+  (add-to-list 'load-path "~/.emacs.d.kodkoll/.cask/25.1/elpa/org-plus-contrib-20170210")
+     (require 'org-install)
+   #+END_SRC
+
+** Exporting
+*** Letters
+
+Export koma-script letters
+
+#+BEGIN_SRC emacs-lisp
+   (add-to-list 'load-path "~/.emacs.d.kodkoll/lisp")
+   (require 'ox-latex)
+   (eval-after-load 'ox '(require 'ox-koma-letter))
+#+END_SRC
+
+Custom class setup
+
+#+BEGIN_SRC emacs-lisp
+(eval-after-load 'ox-koma-letter
+  '(progn
+     (add-to-list 'org-latex-classes
+                  '("my-letter"
+                    "\\documentclass\{scrlttr2\}
+\[NO-DEFAULT-PACKAGES]
+\[NO-PACKAGES]
+\[EXTRA]"))
+
+     (setq org-koma-letter-default-class "my-letter")))
+#+END_SRC
+
+*** org-reveal
+
+Load ox-reveal library by default
+
+#+BEGIN_SRC emacs-lisp
+(require 'ox-reveal)
+#+END_SRC
+
+Custom title page
+
+#+BEGIN_SRC emacs-lisp
+(setq org-reveal-title-slide "<h1>%t</h1><h2>%a</h2><p>%d<p>")
+#+END_SRC

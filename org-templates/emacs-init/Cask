@@ -1,0 +1,7 @@
+(source "org-elpa" "http://orgmode.org/elpa/")
+(source melpa)
+
+(depends-on "cask")
+(depends-on "org-plus-contrib")
+(depends-on "ox-reveal")
+(depends-on "pallet")

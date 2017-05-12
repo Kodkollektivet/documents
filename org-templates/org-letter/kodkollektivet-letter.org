@@ -1,0 +1,171 @@
+#+STARTUP: overview
+#+STARTUP: indent
+
+* Preamble							   :noexport:
+** General settings
+*** class setup
+
+Use custom letter class setup in $HOME/.emacs.d/configuration.org
+See [[http://orgmode.org/worg/exporters/koma-letter-export.html#orgtarget1][org-mode customized classes]] and [[http://orgmode.org/worg/doc.html#org-latex-classes][org-latex-classes]] for more details
+#+LATEX_CLASS: my-letter
+
+*** koma-script customizations
+#+LATEX_HEADER: \KOMAoptions{paper=A4}
+#+LATEX_HEADER: \KOMAoptions{fontsize=12pt}
+#+LATEX_HEADER: \KOMAoptions{DIV=calc}
+#+LATEX_HEADER: \KOMAoptions{parskip=half+}
+#+LATEX_HEADER: \KOMAoptions{fontsize=12pt}
+
+*** Package configuration based on default packages from org koma export
+
+**** Base
+#+LATEX_HEADER: \usepackage[]{babel}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+
+**** Font
+#+LATEX_HEADER: \usepackage{palatino}
+
+**** Other
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{grffile}
+#+LATEX_HEADER: \usepackage{longtable}
+#+LATEX_HEADER: \usepackage{wrapfig}
+#+LATEX_HEADER: \usepackage{rotating}
+#+LATEX_HEADER: \usepackage[normalem]{ulem}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \usepackage{amssymb}
+#+LATEX_HEADER: \usepackage{capt-of}
+#+LATEX_HEADER: \usepackage[hyperref,x11names]{xcolor}
+
+**** Hyperref
+#+LATEX_HEADER: \usepackage[colorlinks = true, breaklinks = false, hyperfigures = false, filebordercolor = white, filecolor = cyan, linkbordercolor = white, linkcolor = FireBrick4, urlbordercolor = white, urlcolor = SteelBlue4, citecolor = green,  menubordercolor = white, menucolor = red, linktocpage = false, frenchlinks = false, pdfdisplaydoctitle = true, unicode]{hyperref}
+
+** Personal information, language and date
+
+Setup correct language for latex babel support. If you need support for multiple languages, then add your language to the babel package definition in section =base=.
+See variable =org-latex-babel-language-alist=.
+Notable values: de-de == ngerman, en-us == american
+#+LANGUAGE: en-us
+
+Authors name
+#+AUTHOR: Kodkollektivet
+
+Load letter options and measures from LCO file (like DIN, DINmtext, ...)
+Load personal information from LCO files from =$TEXMFHOME/tex/latex/lco/= or
+custom relative directories like =lco/=
+Changes can either be made in LCO files or overridden in the document itself.
+#+LCO: DIN lco/kodkollektivet
+
+Change place if varying from personal LCO
+# #+PLACE: Växjö, Sweden
+
+Setup the date
+#+LATEX_HEADER:\setkomavar{date}{\today}
+
+** Styles and formatting
+*** Styling
+
+Use sans serif font family
+#+LATEX_HEADER: \renewcommand*{\familydefault}{\sfdefault}
+
+*** Toggling and placing of items
+
+First header with address and personal information
+#+LATEX_HEADER: \KOMAoptions{firsthead=on}
+#+LATEX_HEADER: \KOMAoptions{fromalign=right}
+
+Include phone number in first header
+#+OPTIONS: phone:true
+
+Include email in first header
+#+OPTIONS: email:true
+
+Change the order of the backletter, use smart quotes
+#+OPTIONS: after-closing-order:(my_after_signature ps cc encl)
+
+Include backaddress
+#+OPTIONS: ':t backaddress:t
+
+Set foldmarks
+#+OPTIONS: foldmarks:true
+
+Special fields before subject
+# #+LATEX_HEADER: \setkomavar{yourmail}{01.01.2010}
+# #+LATEX_HEADER: \setkomavar{yourmail}{01.01.2010}
+# #+LATEX_HEADER: \setkomavar{yourref}{abcdefg}
+# #+LATEX_HEADER: \setkomavar[Some Name]{yourref}{hijklm}
+# #+LATEX_HEADER: \setkomavar{myref}{ABCDEFG}
+# #+LATEX_HEADER: \setkomavar{customer}{12345678}
+# #+LATEX_HEADER: \setkomavar{specialmail}{Very special and fast}
+# #+LATEX_HEADER: \setkomavar{invoice}{2017-001}
+
+Own custom field definition
+# #+LATEX_HEADER: \newkomavar*[MyCustomField]{mycustomvar}
+# #+LATEX_HEADER: \setkomavar{mycustomvar}{03EGSBY123}
+
+* To                                                                     :to:
+# NOTE: Explicit newlines are not necessary in TO and FROM
+Juliet
+House of Capulet
+Verona
+
+* From 								       :from:
+# Change sender's address if it should be different from personal LCO
+
+# House of Montague
+# Verona
+
+* Location							   :location:
+# The space opposite to the To address will be filled with the
+# lines written here
+
+# Växjö
+
+* Title and subject
+
+# #+TITLE:  org-mode letter with komascript
+#+SUBJECT: Template for nice letters written in org-mode
+
+* Opening
+
+#+OPENING: Dear Sir or Madam,
+
+* Main content
+
+Then plainly know my heart's dear love is set
+On the fair daughter of rich Capulet:
+As mine on hers, so hers is set on mine;
+And all combin'd, save what thou must combine
+
+By holy marriage: when, and where, and how
+We met, we woo'd, and made exchange of vow,
+I'll tell thee as we pass; but this I pray,
+That thou consent to marry us to-day.
+
+* Closing
+
+#+CLOSING: Kind regards
+
+* some arbitrary LaTeX code                              :my_after_signature:
+#+BEGIN_EXPORT latex
+% this special heading was added dynamically.
+#+END_EXPORT
+
+* ENCL                                                                 :encl:
+
+# See also [[https://en.wikisource.org/wiki/The_Tragedy_of_Romeo_and_Juliet][The Tragedy of Romeo and Juliet]]
+
+* PS                                                                     :ps:
+# PS: "PS" is not typeset automatically by KOMA-Script
+
+# @@latex:\noindent@@ PPS: This is a feature!
+
+* CC									 :cc:
+# Paris and Lawrence.
+
+* some more arbitrary LaTeX code 			       :after_letter:
+#+BEGIN_EXPORT latex
+% here we can place random LaTeX code, e.g. including PDFs via the pdfpages package.
+#+END_EXPORT

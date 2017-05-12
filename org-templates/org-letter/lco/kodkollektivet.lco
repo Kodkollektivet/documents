@@ -1,0 +1,24 @@
+% letter configuration file
+\ProvidesFile{kodkollektivet.lco}
+
+% Default address in Sweden
+\setkomavar{fromname}{Kodkollektivet}
+\setkomavar{fromaddress}{Stallvägen 1\\12345 Växjö}
+\setkomavar{fromemail}[]{info@kodkollektivet.se} % [] means no "Email:" as descriptor
+\setkomavar{fromphone}[]{+46 761 1234567} % [] means no "Phone:" as descriptor
+%
+\setkomavar{place}{Växjö}
+%
+%%% separators and styling
+\setkomavar{backaddressseparator}{ $\cdot$ }
+\setkomavar{phoneseparator}{: }
+\setkomavar{faxseparator}{: }
+\setkomavar{ccseparator}{: }
+\setkomavar{emailseparator}{: }
+\setkomavar{enclseparator}{: }
+%\setkomavar{subjectseparator}{} 
+%
+\addtokomafont{backaddress}{\scriptsize} % Backaddress font size
+\addtokomafont{fromname}{\sffamily} % Font family of fromname
+\addtokomafont{fromaddress}{\sffamily} % Font family of fromaddress
+\renewcommand*{\raggedsignature}{\raggedright} % Indentation of the signature

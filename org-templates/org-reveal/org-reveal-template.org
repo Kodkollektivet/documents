@@ -1,0 +1,134 @@
+#+TITLE: Presentation
+#+AUTHOR: Karlsson på taket
+#+DATE: 2017
+
+* Configuration                                                    :noexport:
+
+** org-mode startup
+#+STARTUP: indent
+#+STARTUP: overview
+
+** org-reveal
+
+*** General reveal setup
+
+Custom stylesheet location
+#+REVEAL_EXTRA_CSS: ./style.css
+
+Reveal plugin activation
+#+REVEAL_PLUGINS: (zoom notes highlight)
+
+Reveal.js root folder
+#+REVEAL_ROOT: ./reveal.js/
+
+*** Screen setup
+
+The "normal" size of the presentation, aspect ratio will be preserved
+when the presentation is scaled to fit different resolutions. Can (possibly?) be
+specified using percentage units.
+#+OPTIONS: reveal_width:1200 reveal_height:800
+
+Factor of the display size that should remain empty around the content
+#+REVEAL_MARGIN: 0.1
+
+Bounds for smallest/largest possible scale to apply to content
+#+REVEAL_MIN_SCALE: 0.2
+#+REVEAL_MAX_SCALE: 1.0
+
+*** Appearance setup
+
+Show/hide title slide
+# #+OPTIONS: reveal_title_slide:nil
+
+Custom header and footer
+#+REVEAL_SLIDE_HEADER:
+#+REVEAL_SLIDE_FOOTER:
+
+Show slide numbers (h = horizontal number, v = vertical number, . / can be used to as separators)
+#+OPTIONS: reveal_slide_number:h.v
+
+Disable heading numbers
+#+OPTIONS: num:nil
+
+Enable/disable table of contents and toc level
+#+OPTIONS: toc:1
+
+Configure transitions
+Animation values: default|cube|page|concave|zoom|linear|fade|none.
+#+REVEAL_TRANS: fade
+Transision speed values: default|fast|slow
+#+REVEAL_SPEED: slow
+
+Theme
+Themes can be found in reveal.js root folder
+#+REVEAL_THEME: white
+
+HLevel’s default value is 1, means only level 1 headings are arranged horizontally.
+Deeper headings are mapped to vertical slides below their parent level 1 heading
+#+REVEAL_HLEVEL: 1
+
+Enable/disable vertical(?) slide centering.
+#+OPTIONS: reveal_center:nil
+
+Custom html definitions
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Presentation">
+#+REVEAL_POSTAMBLE: <p> Created by Kodkollektivet </p>
+
+*** Feature setup
+
+Show/hide progress bar
+#+OPTIONS: reveal_progress:t
+
+Enable/disable slide history track
+#+OPTIONS: reveal_history:t
+
+Show/hide browsing control pad
+#+OPTIONS: reveal_control:t
+
+Enable keyboard shortcuts
+#+OPTIONS: reveal_keyboard:t
+
+Enable overview via ESC key
+#+OPTIONS: reveal_overview:t
+
+**** Multiplexing setup
+
+Reveal.js supports multiplexing, which allows allows your audience to view the slides of the presentation you are controlling on their own phone, tablet or laptop. As the master presentation navigates the slides, all client presentations will update in real time.
+
+You must generate unique values for the =REVEAL_MULTIPLEX_ID= and =REVEAL_MULTIPLEX_SECRET= options, obtaining these from the socket.io server you are using.
+
+If you include these options in your .org file, reveal-org will enable your .html file as the master file for multiplexing and will generate a file named in the form [filename]_client.html in the same directory as the client .html file. Provide your audience with a link to the client file to allow them to track your presentation on their own device.
+
+Remember to add =multiplex= to the plugin list in section =General reveal setup=
+
+#+REVEAL_MULTIPLEX_ID: [Obtained from the socket.io server. ]
+#+REVEAL_MULTIPLEX_SECRET: [Obtained from socket.io server. Gives the master control of the presentation.]
+#+REVEAL_MULTIPLEX_URL: http://revealjs.jit.su:80 [Location of socket.io server]
+#+REVEAL_MULTIPLEX_SOCKETIO_URL: http://cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.10/socket.io.min.js
+
+* Införande
+
+** Jaha!
+
+Kanelbulle!
+
+** Geografisk läge
+
+   #+CAPTION: Region Franken, Källa: [[https://de.wikipedia.org/wiki/Franken_(Region)][Franken at Wikipedia]]
+   #+NAME: fig:regionfranken
+   #+attr_html: :style width:70%
+   [[./img/Map_of_Franconia.png]]
+
+** Vapen
+
+   #+CAPTION: Der Frankenrechen, Vapen från Franken, Källa: [[https://de.wikipedia.org/wiki/Franken_(Region)][Franken at Wikipedia]]
+   #+NAME: fig:frankenrechen
+   #+attr_html: :style width:60%
+   [[./img/frankenrechen.png]]
+
+   #+REVEAL: split
+
+   #+CAPTION: Frankenrechen och vapen av Bayern, Källa: [[https://de.wikipedia.org/wiki/Bayerisches_Staatswappen][Bayern vapen at Wikipedia]]
+   #+NAME: tab:wappen
+   #+ATTR_HTML: :border 2 :rules all :frame border :style width:70%
+| [[./img/frankenrechen.png]] | [[./img/bavaria.png]] |
