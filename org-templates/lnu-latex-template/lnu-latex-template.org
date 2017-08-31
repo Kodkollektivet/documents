@@ -166,14 +166,51 @@
 
 * Template
 
-  This is just a template that can help you create nice looking PDFs from your org document.
+  This is just a template that can help you create nice looking PDFs from your Emacs
+  Orgmode document.
 
 * Citations
 
   Look at [[https://github.com/jkitchin/org-ref][org-ref]] for doing citations and references.
 
+* Math
 
-* Headers
-** Subheader
+  No problem to use math stuff.
 
-* New header
+  \[x^n + y^n = z^n\]
+
+  \[\sum\limits_{i=1}^n i^2 = \frac{n(n+1)(2n+1)}{6}\]
+
+* Code
+
+  Code blocks
+
+  #+BEGIN_SRC python
+    for i in range(0, 10):
+        print(i, end=',')
+  #+END_SRC
+
+* Tables
+
+
+
+  #+ATTR_LaTeX: :align |l|l|l| :placement [H]
+  #+CAPTION: Random stuff
+  |--------+--------+--------|
+  | a      | b      | c      |
+  |--------+--------+--------|
+  | 1dv702 | 1dv703 | 1dv704 |
+  | LNU    | LNU    | LNU    |
+  | KOD    | KOD    | KOD    |
+  |--------+--------+--------|
+
+* Images
+
+  #+ATTR_LaTeX: :placement [H]
+  #+CAPTION: Kodkollektivet logo
+  [[./imgs/kodkollektivet.jpg]]
+
+* Other
+
+  As you see most of the stuff are working good. If you find this interesting and wanna
+  know how to use it. Please contact us at our Slack channel, https://kodkollektivet.slack.com/
