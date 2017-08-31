@@ -1,0 +1,179 @@
+#+DATE: <2017-08-31 Thu>
+#+AUTHOR: John Herrlin
+#+EMAIL: jh222jx@student.lnu.se
+#+TITLE:
+#+OPTIONS: title:nil author:nil date:nil
+#+LaTeX_HEADER: \usepackage{float}
+#+LateX_HEADER: \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry} % Ställ in marginaler
+#+LaTeX_HEADER: \usepackage{color}
+#+LaTeX_HEADER: \usepackage{listings}
+#+LateX_HEADER: \lstset{ %
+#+LateX_HEADER: language=sh,                    % choose the language of the code
+#+LateX_HEADER: basicstyle=\footnotesize,       % the size of the fonts that are used for the code
+#+LateX_HEADER: numbers=left,                   % where to put the line-numbers
+#+LateX_HEADER: numberstyle=\footnotesize,      % the size of the fonts that are used for the line-numbers
+#+LateX_HEADER: stepnumber=1,                   % the step between two line-numbers. If it is 1 each line will be numbered
+#+LateX_HEADER: numbersep=5pt,                  % how far the line-numbers are from the code
+#+LateX_HEADER: backgroundcolor=\color{white},  % choose the background color. You must add \usepackage{color}
+#+LateX_HEADER: showspaces=false,               % show spaces adding particular underscores
+#+LateX_HEADER: showstringspaces=false,         % underline spaces within strings
+#+LateX_HEADER: showtabs=false,                 % show tabs within strings adding particular underscores
+#+LateX_HEADER: frame=single,                   % adds a frame around the code
+#+LateX_HEADER: tabsize=2,                      % sets default tabsize to 2 spaces
+#+LateX_HEADER: captionpos=b,                   % sets the caption-position to bottom
+#+LateX_HEADER: breaklines=true,                % sets automatic line breaking
+#+LateX_HEADER: breakatwhitespace=false,        % sets if automatic breaks should only happen at whitespace
+#+LateX_HEADER: escapeinside={\%*}{*)}          % if you want to add a comment within your code
+#+LateX_HEADER: }
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: %
+#+LateX_HEADER: % LaTeX-mall för examensarbeten vid LNU
+#+LateX_HEADER: % Skapad av Marcus Wilhelmsson, Institutionen för Datavetenskap
+#+LateX_HEADER: % Fakulteten för Teknik
+#+LateX_HEADER: % Linnéuniversitetet
+#+LateX_HEADER: %
+#+LateX_HEADER: % Licens: Creative Commons
+#+LateX_HEADER: %
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER:
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: %	Inställningar och dokumentkonfiguration
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: \documentclass[a4paper,12pt]{article} % A4-sida och 12 punkters fontstorlek
+#+LateX_HEADER:
+#+LateX_HEADER: \usepackage[T1]{fontenc} % 8-bitarskodning som har 256 glyfer
+#+LateX_HEADER: \usepackage{times} % Typsnitt i dokumentet
+#+LateX_HEADER: \usepackage[swedish,english]{babel} % Svenskt språk, engelska för extra abstract
+#+LateX_HEADER: \usepackage[utf8]{inputenc} % För svenska tecken (UTF-8)
+#+LateX_HEADER: %\usepackage{dtklogos} % Logos för t.ex. LaTeX, BibTeX, etc.
+#+LateX_HEADER: \usepackage{wallpaper} % Bakgrundsbild
+#+LateX_HEADER: \usepackage[absolute]{textpos} % Möjlighet att absolutpositionera text
+#+LateX_HEADER: \usepackage[top=2cm, bottom=2.5cm, left=3cm, right=3cm]{geometry} % Ställ in marginaler
+#+LateX_HEADER: \usepackage{appendix} % Stöd för separat hantering av bilagor
+#+LateX_HEADER: \usepackage[parfill]{parskip} % Tar bort indentering vid ny rad
+#+LateX_HEADER: \usepackage{csquotes} % Används för att hantera citat
+#+LateX_HEADER: \usepackage{float} % Används för att placera figurer och tabeller rätt.
+#+LateX_HEADER:
+#+LateX_HEADER: % Används för att texten ska hamna ovanför tabeller och för bra mellanrum.
+#+LateX_HEADER: \floatstyle{plaintop}
+#+LateX_HEADER: \restylefloat{table}
+#+LateX_HEADER: \usepackage[tableposition=bottom]{caption}
+#+LateX_HEADER:
+#+LateX_HEADER: \setcounter{secnumdepth}{3} % Fem nivåer av underrubriksnumrering
+#+LateX_HEADER: \setcounter{tocdepth}{3} % Fem nivåer av underrubriksnumrering i innehållsförteckning
+#+LateX_HEADER:
+#+LateX_HEADER: \usepackage{sectsty} % Ändra storlek på section och subsection till 12 punkter
+#+LateX_HEADER: \sectionfont{\fontsize{14}{15}\selectfont}
+#+LateX_HEADER: \subsectionfont{\fontsize{12}{15}\selectfont}
+#+LateX_HEADER: \subsubsectionfont{\fontsize{12}{15}\selectfont}
+#+LateX_HEADER:
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: %	Denna del används för att skapa boxen med författare, handledare, etc.
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: \newsavebox{\mybox}
+#+LateX_HEADER: \newlength{\mydepth}
+#+LateX_HEADER: \newlength{\myheight}
+#+LateX_HEADER:
+#+LateX_HEADER: \newenvironment{sidebar}%
+#+LateX_HEADER: {\begin{lrbox}{\mybox}\begin{minipage}{\textwidth}}%
+#+LateX_HEADER: {\end{minipage}\end{lrbox}%
+#+LateX_HEADER:  \settodepth{\mydepth}{\usebox{\mybox}}%
+#+LateX_HEADER:  \settoheight{\myheight}{\usebox{\mybox}}%
+#+LateX_HEADER:  \addtolength{\myheight}{\mydepth}%
+#+LateX_HEADER:  \noindent\makebox[0pt]{\hspace{-20pt}\rule[-\mydepth]{1pt}{\myheight}}%
+#+LateX_HEADER:  \usebox{\mybox}}
+#+LateX_HEADER:
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: %	Titel-sektion
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: \newcommand\BackgroundPic{
+#+LateX_HEADER:     \put(-2,-3){
+#+LateX_HEADER:     \includegraphics[keepaspectratio,scale=0.3]{./lnu_imgs/lnu_etch.png} % Bakgrundsbild
+#+LateX_HEADER:     }
+#+LateX_HEADER: }
+#+LateX_HEADER: \newcommand\BackgroundPicLogo{
+#+LateX_HEADER:     \put(30,670){
+#+LateX_HEADER:     \includegraphics[keepaspectratio,scale=0.10]{./lnu_imgs/logo.png} % Logga i övre vänstra hörnet
+#+LateX_HEADER:     }
+#+LateX_HEADER: }
+#+LateX_HEADER:
+#+LateX_HEADER: \title{
+#+LateX_HEADER: \vspace{-8cm}
+#+LateX_HEADER: \begin{sidebar}
+#+LateX_HEADER:     \vspace{10cm}
+#+LateX_HEADER:     \normalfont \normalsize
+#+LateX_HEADER:     \huge Report\\ % Dokumentets typ, t.ex. Examensarbete
+#+LateX_HEADER:     \vspace{-1.3cm}
+#+LateX_HEADER: \end{sidebar}
+#+LateX_HEADER: \vspace{3cm}
+#+LateX_HEADER: \begin{flushleft}
+#+LateX_HEADER:     \huge Mobile and Wireless Data Security\\ % Dokumentets rubrik
+#+LateX_HEADER:     \it \large Assignment #6 % Dokumentets underrubrik
+#+LateX_HEADER: \end{flushleft}
+#+LateX_HEADER: \null
+#+LateX_HEADER: \vfill
+#+LateX_HEADER: \begin{textblock}{6}(10,13)
+#+LateX_HEADER: \begin{flushright}
+#+LateX_HEADER: \begin{minipage}{\textwidth}
+#+LateX_HEADER: \begin{flushleft} \large
+#+LateX_HEADER: \emph{Författare:} Your \textsc{Name}\\ % Författare
+#+LateX_HEADER: %\emph{Handledare:} Dr.~Foo \textsc{Bar}\\ % Handledare
+#+LateX_HEADER: \emph{Examinator:} Teachers \textsc{Name}\\ % Examinator
+#+LateX_HEADER: \emph{Termin:} VT2017\\ % Termin
+#+LateX_HEADER: \emph{Ämne:} CS\\ % Ämne
+#+LateX_HEADER: %\emph{Nivå:} G2F\\ % Nivå
+#+LateX_HEADER: \emph{Kurskod:} 0DV700 % Kurskod
+#+LateX_HEADER: \end{flushleft}
+#+LateX_HEADER: \end{minipage}
+#+LateX_HEADER: \end{flushright}
+#+LateX_HEADER: \end{textblock}
+#+LateX_HEADER: }
+#+LateX_HEADER:
+#+LateX_HEADER: \date{} % Dagens datum, tomt i detta fallet. Använd \today för dagens datum.
+#+LateX_HEADER:
+#+LateX_HEADER: \begin{document}
+#+LateX_HEADER: \renewcommand{\figurename}{Figur} % Byt ut "Figure" mot "Figur".
+#+LateX_HEADER: \renewcommand{\tablename}{Tabell} % Byt ut "Table" mot "Tabell".
+#+LateX_HEADER: \renewcommand{\refname}{Referenser} % Byt ut "References" mot "Referenser".
+#+LateX_HEADER: \pagenumbering{gobble}
+#+LateX_HEADER: \newgeometry{left=5cm}
+#+LateX_HEADER: \AddToShipoutPicture*{\BackgroundPic} % Lägger in backgrundsbild på första sidan
+#+LateX_HEADER: \AddToShipoutPicture*{\BackgroundPicLogo} % Lägger in LNU-logga på första sidan
+#+LateX_HEADER: \maketitle % Skriv ut titeln
+#+LateX_HEADER: \restoregeometry
+#+LateX_HEADER: \clearpage
+#+LateX_HEADER:
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: %	Svensk och engelsk version av abstract
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: \pagenumbering{roman}
+#+LateX_HEADER:
+#+LateX_HEADER: \newpage
+#+LateX_HEADER:
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: %	Svensk och engelsk version av förord
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER:
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: %	Innehållsföreteckning
+#+LateX_HEADER: %----------------------------------------------------------------------------------------
+#+LateX_HEADER: \pagenumbering{gobble} % Stäng av sidnumrering för innehållsförteckningssidan
+#+LateX_HEADER: \tableofcontents % Innehållsförteckning
+#+LateX_HEADER:
+#+LateX_HEADER: \newpage % Ny sida
+#+LateX_HEADER: \pagenumbering{arabic} % Påbörja sidnumrering på 1
+
+
+* Template
+
+  This is just a template that can help you create nice looking PDFs from your org document.
+
+* Citations
+
+  Look at [[https://github.com/jkitchin/org-ref][org-ref]] for doing citations and references.
+
+
+* Headers
+** Subheader
+
+* New header
