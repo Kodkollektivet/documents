@@ -1,0 +1,93 @@
+DATE: <2017-08-15 Tue 18:00-19:00>
+
+* Positions for this meeting:
+
+  - President: John Herrlin
+  - Secretary: Rasmus Sjöström
+  - Adjustor: Alex Sp
+
+* Attendants:
+
+  - Rasmus Sjöström
+  - Otto Bergman
+  - John Herrlin
+  - Alex Spottka
+  - Johan Rovala
+  - Michael Johansson
+  - Abdi Ahmed
+
+* Agenda:
+** Member system
+
+   John talkes to Fortnox.
+   Also for accountant software.
+   Swish.
+
+** Bank account
+
+   John will mail Swedbank.
+
+** Stora IT-kompetensdagen
+
+   Michael talks to Diana.
+
+** Combitech
+
+   Wednesday 30 August.
+   The burgers will be delivered on Tuesday.
+   Freezers:
+   - [ ] Otto
+   - [ ] Rasmus
+   - [ ] Alex
+   - [ ] Johan
+
+   Isabell Svensson, Wädur board.
+
+** Videum VR
+
+   4 events during this semester.
+
+** Welcome fair
+
+   6 September
+
+   Alex takes care of it.
+
+** Introduction meeting with new students.
+
+   Michael will do that, 23 August.
+** NEW events
+*** Standout
+
+    React lecture with food and drinks.
+    26-28 Sep.
+    17:30
+
+*** Global Entrepreneurship Week Dayhack
+
+    Dagshackathon.
+
+    Global Entrepreneurship Week, 13-19 Nov Måndag - Söndag, vad sägs om Lördagen 18?
+
+    Drivhuset är det som driver det.
+    Videum är med på ett hörn med en nätverksträff.
+
+    Kör det på biljettkiosken för anmälan, brandad med Kodkollektivet.
+
+    Köra det under en dag:
+    09:00 Start och into, enkel macka.
+    12:00 Lunch
+    17:00 Presentation
+    18:00 Middag och dryck
+
+    Få med någon ifrån kodkollektiv2et till en styrgrupp, Vahida?
+    Vahida, kolla med EBD. Erik Rosell kan vara bra.
+    Fixa studenter som är sugna.
+    Tanken är att bygga grupper på 4 pers med 2 utvecklare och 2 EBDare.
+    Sedan är det en panel som bestämmer.
+
+    Vi räknar med ~20 studenter.
+
+    Sätta ihop en panel där sponsor också kan få sitta med.
+
+    Nästa möte, <2017-09-11 Mon> 13:15.
