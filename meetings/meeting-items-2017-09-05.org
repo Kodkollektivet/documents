@@ -1,38 +1,121 @@
 DATE: <2017-09-05 Tue 17:00>
 
+* Positions for this meeting:
+
+  - President: John Herrlin
+  - Secretary: John Herrlin
+  - Adjustor: Chris
+
+* Attendants:
+
+  - Rasmus Sjöström
+  - Songho
+  - Julia
+  - Chris
+  - John Herrlin
+  - Alex Spottka
+  - Michael Johansson
+  - Austin Ponten
+  - Johan Rovala
+
 * Agenda
-** NEW event requests
-*** Standout
+** Member system
 
-    React lecture with food and drinks.
-    26-28 Sep.
-    17:30
+   John talkes to Fortnox.
+   Also for accountant software.
+   Swish.
 
-*** Global Entrepreneurship Week Dayhack
+** Bank account
 
-    Dagshackathon.
+   John will mail Swedbank.
 
-    Global Entrepreneurship Week, 13-19 Nov Måndag - Söndag, vad sägs om Lördagen 18?
+** Stora IT-kompetensdagen
 
-    Drivhuset är det som driver det.
-    Videum är med på ett hörn med en nätverksträff.
+   Michael talks to Diana.
 
-    Kör det på biljettkiosken för anmälan, brandad med Kodkollektivet.
+   The meeting was canceled and will be soon. No date is set.
 
-    Köra det under en dag:
-    09:00 Start och into, enkel macka.
-    12:00 Lunch
-    17:00 Presentation
-    18:00 Middag och dryck
+** Welcome fair
 
-    Få med någon ifrån kodkollektiv2et till en styrgrupp, Vahida?
-    Vahida, kolla med EBD. Erik Rosell kan vara bra.
-    Fixa studenter som är sugna.
-    Tanken är att bygga grupper på 4 pers med 2 utvecklare och 2 EBDare.
-    Sedan är det en panel som bestämmer.
+   6 September
+   Alex takes care of it.
+   Austin will join.
 
-    Vi räknar med ~20 studenter.
+   Chris can make QR-code prints to kodkollektivet.se / slack / fb.
 
-    Sätta ihop en panel där sponsor också kan få sitta med.
+** Standout
 
-    Nästa möte, <2017-09-11 Mon> 13:15.
+   React lecture with food and drinks.
+   26-28 Sep.
+   17:30.
+   John main responsible.
+
+** Global Entrepreneurship Week Dayhack
+
+   Dagshackathon.
+
+   Global Entrepreneurship Week, 13-19 Nov Måndag - Söndag, vad sägs om Lördagen 18?
+
+   Drivhuset är det som driver det.
+   Videum är med på ett hörn med en nätverksträff.
+
+   Kör det på biljettkiosken för anmälan, brandad med Kodkollektivet.
+
+   Köra det under en dag:
+   09:00 Start och into, enkel macka.
+   12:00 Lunch
+   17:00 Presentation
+   18:00 Middag och dryck
+
+   Få med någon ifrån kodkollektiv2et till en styrgrupp, Vahida?
+   Vahida, kolla med EBD. Erik Rosell kan vara bra.
+   Fixa studenter som är sugna.
+   Tanken är att bygga grupper på 4 pers med 2 utvecklare och 2 EBDare.
+   Sedan är det en panel som bestämmer.
+
+   Vi räknar med ~20 studenter.
+
+   Sätta ihop en panel där sponsor också kan få sitta med.
+
+   Nästa möte, <2017-09-11 Mon> 13:15.
+
+   Chris is interested to join.
+
+** Codehub
+
+   Michael will take care of the recording.
+   Michael will try to fix a poster.
+
+   <2017-09-12 Tue 18:00> Next Codehub.
+
+   Sigma will pay for food and drinks.
+
+** Videum VR
+
+   4 events during this semester.
+
+** Nordea hackathon
+
+   Nordea wanna do something. We should do a small event with this region,
+   kalmar/karlskrona/växjö. Rafeal can help us sort the data.
+   Michael takes this.
+
+** Ericsson event.
+
+   Spik wanna do an event with us together with Ericsson. We could get money for busses
+   and stuff. Michael takes this.
+
+** Social beer
+
+   Meetup in town to drink a beer.
+   <2017-09-12 Tue 20:00> somewhere in town.
+   Alex creates the event.
+
+** Hardware
+
+   Chris have some more events with hardware.
+
+   - Griffel?
+   - Combitech?
+
+   Chris and Songho take care of this.
