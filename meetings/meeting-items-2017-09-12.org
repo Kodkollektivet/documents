@@ -1,14 +1,133 @@
+DATE: <2017-09-05 Tue 17:00>
 
-** Lunch lectures
+* Positions for this meeting:
 
-   This companies will be at Stora IT-kompetensdagen and it would be nice if we could have
-   lunch seminars with them before.
+   - President: John Herrlin
+   - Secretary: Michael Johansson
+   - Adjustor: Alex Spottka
 
-   - Tecnau
-   - Gears of leo
-   - Infomaker Scandinavia
-   - Fortnox
-   - Visma
-   - Play'n Go
-   - IST
-   - Cybercom Sweden
+* Attendants:
+
+   - Chris
+   - Alex Spottka
+   - Michael Johansson
+   - Vahida
+   - Rasmus Sjöström
+   - Otto Bergman
+
+
+ * Agenda
+
+ ** Member system
+
+    John talkes to Fortnox.
+    Also for accountant software.
+    Swish.
+
+ ** Bank account
+
+    John will mail Swedbank.
+
+ ** Stora IT-kompetensdagen
+
+    Michael talks to Diana.
+    ** Lunch lectures
+
+    This companies will be at Stora IT-kompetensdagen and it would be nice if we could have
+    lunch seminars with them before.
+
+         - Tecnau
+         - Gears of leo
+         - Infomaker Scandinavia
+         - Fortnox
+         - Visma
+         - Play'n Go
+         - IST
+         - Cybercom Sweden
+
+         Ask diana about wexnet, griffel and other ISP (hardware companies)
+
+ ** Welcome fair
+
+    Good Event, next time better preperations and giveaway.
+
+ ** Standout
+
+    React lecture with food and drinks.
+    26-28 Sep.
+    17:30.
+    John main responsible.
+
+ ** Global Entrepreneurship Week Dayhack
+
+    Dagshackathon.
+
+    Global Entrepreneurship Week, 13-19 Nov Måndag - Söndag, vad sägs om Lördagen 18?
+
+    Drivhuset är det som driver det.
+    Videum är med på ett hörn med en nätverksträff.
+
+    Kör det på biljettkiosken för anmälan, brandad med Kodkollektivet.
+
+    Köra det under en dag:
+    09:00 Start och into, enkel macka.
+    12:00 Lunch
+    17:00 Presentation
+    18:00 Middag och dryck
+
+    Få med någon ifrån kodkollektiv2et till en styrgrupp, Vahida?
+    Vahida, kolla med EBD. Erik Rosell kan vara bra.
+    Fixa studenter som är sugna.
+    Tanken är att bygga grupper på 4 pers med 2 utvecklare och 2 EBDare.
+    Sedan är det en panel som bestämmer.
+
+    Vi räknar med ~20 studenter.
+
+    Sätta ihop en panel där sponsor också kan få sitta med.
+
+    !!!!UPDATE!!!!! 12/9 - 2017
+    EHVS want payment for advertisments, maybe posters are better.
+    Meeting again 13/9 -2017
+    Problem for event something about some communityproblem.
+    Chris is interested to join.
+
+** CodeHub posters
+
+    Fix general poster to leave up "Codehub varannan tisdag bla bla"
+
+ ** Videum VR
+
+    4 events during this semester.
+
+ ** Social beer
+
+    Meetup in town to drink a beer.
+    <2017-09-12 Tue 20:00> somewhere in town.
+    Alex creates the event.
+
+    No update maybe start in october.
+
+ ** Hardware
+
+    Chris have some more events with hardware.
+
+    - Griffel?
+    - Combitech?
+
+    Chris and Songho take care of this.
+
+    Chris made an email draft, sending email this week.
+
+** Discord?
+
+    Set up a discord group for meetings on distans and stuff like these.
+    look in to it.
+    Otto and alex is on it.
+
+** Hoodies
+
+    Alex checks if we can get vector graphics of logos. Else Otto converts it.
+
+** Talking to systemvetare and mediateknik.
+
+    Michael talked to systemvetare second year students and mediateknik first year students about kodkollektivet, will
