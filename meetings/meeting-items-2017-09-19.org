@@ -1,4 +1,4 @@
-DATE: <2017-09-12 Tue 17:00>
+DATE: <2017-09-19 Tue 18:00>
 
 * Positions for this meeting:
 
@@ -8,25 +8,25 @@ DATE: <2017-09-12 Tue 17:00>
 
 * Attendants:
 
-   - Chris
+   - Marcus Muller
    - Alex Spottka
    - Michael Johansson
-   - Vahida
+   - John Herrlin
    - Rasmus Sjöström
-   - Otto Bergman
-
+   - Johan Rovala
+   - Austin Ponten
 
  * Agenda
 
  ** Member system
 
-    John talkes to Fortnox.
+    Michael*** talkes to Fortnox.
     Also for accountant software.
-    Swish.
 
  ** Bank account
 
     John will mail Swedbank.
+    Swish.
 
  ** Stora IT-kompetensdagen
 
@@ -47,18 +47,13 @@ DATE: <2017-09-12 Tue 17:00>
 
          Ask diana about wexnet, griffel and other ISP (hardware companies)
 
- ** Welcome fair
-
-    Good Event, next time better preperations and giveaway.
-
  ** Standout
 
-    React lecture with food and drinks.
-    26-28 Sep.
-    17:30.
-    John main responsible.
+    They do the event, we just share it.
 
  ** Global Entrepreneurship Week Dayhack
+
+    No update
 
     Dagshackathon.
 
@@ -93,11 +88,16 @@ DATE: <2017-09-12 Tue 17:00>
 
 ** CodeHub posters
 
-    Fix general poster to leave up "Codehub varannan tisdag bla bla"
+    Michael, Fix general poster to leave up "Codehub varannan tisdag bla bla"
+    Wait for next event to change room.
+    Room key??
+    Next tuesday john has the event, rasmus some other time
 
  ** Videum VR
 
-    4 events during this semester.
+    Videum VR has a projectleader. Paul maybe as kodkollektivet contact??
+    first event someware after exams, end of october early november.
+    Johan updates Stefan at videum.
 
  ** Social beer
 
@@ -107,16 +107,12 @@ DATE: <2017-09-12 Tue 17:00>
 
     No update maybe start in october.
 
- ** Hardware
+    Fridays 29/9-17 around 17:00?
 
-    Chris have some more events with hardware.
+ ** Hardware event
 
-    - Griffel?
-    - Combitech?
-
-    Chris and Songho take care of this.
-
-    Chris made an email draft, sending email this week.
+    Chris has sent out emails.
+    Austin updates, DataCenter in älmhult.
 
 ** Discord?
 
@@ -124,10 +120,34 @@ DATE: <2017-09-12 Tue 17:00>
     look in to it.
     Otto and alex is on it.
 
+    No updates
+
 ** Hoodies
 
     Alex checks if we can get vector graphics of logos. Else Otto converts it.
+    Mellis sister trys to convert it.
 
-** Talking to systemvetare and mediateknik.
+** Getting more board members.
 
-    Michael talked to systemvetare second year students and mediateknik first year students about kodkollektivet, will
+  John takes it up on his Code hub.
+  Talking more with the classes here.
+
+** Event with experise.
+
+** Alex facebook post about joining board
+
+  * got jobs all because the contact with companies
+  * This is our new members Chris / Marcus
+  * We want you!
+  * Email us about you.
+  something like this.
+
+** "Meet the kodkollektivet event"
+
+    check with stallarna about cost and time?
+    consoles?
+    pizza?
+    drinking games
+    biljettkiosken 50 ppl max?
+    workers?
+    date?
