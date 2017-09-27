@@ -1,0 +1,203 @@
+#+TITLE: Guix and GuixSD
+#+AUTHOR: John Herrlin
+#+EMAIL: jherrlin@gmail.com
+
+
+* What is Guix and GuixSD
+
+- Guix is a package manager
+- GuixSD is a software distribution built around Guix
+
+In this presentation i will focus on GuixSD as thats the OS i am
+currently using.
+
+
+* About
+
+- GNU announced Guix in November 2012.
+- Guix is using the same build system as Nix.
+- Guix and GuixSD is GNU projects.
+- GuixSD is in a beta stage.
+
+* GuixSD
+** Linux-libre
+
+The standard kernel is [[http://www.fsfla.org/ikiwiki/selibre/linux-libre/][Linux-libre]] in GuixSD.  As the kernel does not
+contains any proprietary binary blobs it can be hard to find hardware
+devices that is compatible.
+
+Compiling a "standard" kernel can be done and used.
+
+** Guile
+
+The major language within GuixSD is Guile.  Guile is a Scheme which is
+a functional language.
+
+The example below prints the elements within a list.
+
+#+BEGIN_SRC scheme
+  (define (loop-and-print lst)
+    (if (not (nil? lst))
+        (begin
+          (display (car lst))
+          (newline)
+          (loop-and-print (cdr lst)))))
+
+  (loop-and-print '(hej hopp kodkollektivet))
+#+END_SRC
+
+** System Config
+
+#+BEGIN_SRC scheme
+  (operating-system
+    (host-name "gnu")
+    (timezone "Europe/Stockholm")
+    (locale "en_US.utf8")
+    (bootloader (bootloader-configuration
+                 (bootloader grub-efi-bootloader)
+                 (target "/boot/efi")))
+
+    (file-systems (cons* (file-system
+                           (device "guixsd-root")
+                           (title 'label)
+                           (mount-point "/")
+                           (type "ext4"))
+                         (file-system
+                           (device "/dev/sda1")
+                           (mount-point "/boot")
+                           (needed-for-boot? #t)
+                           (type "vfat"))
+                         %base-file-systems))
+
+    (kernel-arguments '("modprobe.blacklist=pcspkr,snd_pcsp")))
+#+END_SRC
+
+** Package declarations
+
+#+BEGIN_SRC scheme
+  (define-public tmux
+    (package
+      (name "tmux")
+      (version "2.5")
+      (source (origin
+               (method url-fetch)
+               (uri (string-append
+                      "https://github.com/tmux/tmux/releases/download/"
+                      version "/tmux-" version ".tar.gz"))
+               (sha256
+                (base32
+                 "1pwm5nqm3by8452h6gll0sl3646rjdga7qw419svgxhvgk1mw4xf"))))
+      (build-system gnu-build-system)
+      (inputs
+       `(("libevent" ,libevent)
+         ("ncurses" ,ncurses)))
+      (home-page "http://tmux.github.io/")
+      (synopsis "Terminal multiplexer")
+      (description
+       "tmux is a terminal multiplexer: it enables a number of terminals (or
+  windows), each running a separate program, to be created, accessed, and
+  controlled from a single screen.  tmux may be detached from a screen and
+  continue running in the background, then later reattached.")
+      (license isc)))
+#+END_SRC
+
+** Package output
+
+#+BEGIN_SRC shell
+  nils@gnu /gnu/store$ pwd
+  /gnu/store
+  nils@gnu /gnu/store$ ls -la | grep rk5s6m2pz7nyd0lzpy3f2pk6c2i5579s-emacs-25.2
+  dr-xr-xr-x    6 root root           4096 Jan  1  1970 rk5s6m2pz7nyd0lzpy3f2pk6c2i5579s-emacs-25.2/
+#+END_SRC
+
+#+BEGIN_SRC shell
+    /home/nils/.guix-profile/bin:
+    total used in directory 188 available 92579184
+    dr-xr-xr-x  2 root root 4096 Jan  1  1970 .
+    dr-xr-xr-x  9 root root 4096 Jan  1  1970 ..
+    lrwxrwxrwx 34 root root   64 Jan  1  1970 emacs -> /gnu/store/rk5s6m2pz7nyd0lzpy3f2pk6c2i5579s-emacs-25.2/bin/emacs
+    lrwxrwxrwx 34 root root   69 Jan  1  1970 emacs-25.2 -> /gnu/store/rk5s6m2pz7nyd0lzpy3f2pk6c2i5579s-emacs-25.2/bin/emacs-25.2
+#+END_SRC
+
+** Generations
+
+The Guix package manager contains generations
+
+#+BEGIN_SRC shell
+  nils@gnu ~$ guix package --list-generations
+  Generation 1	Sep 11 2017 23:24:02
+    emacs-guix	0.3.3	out	/gnu/store/43cp3gk1y3a1qbf50621pb2c2qpvhjwd-emacs-guix-0.3.3
+    emacs	25.2	out	/gnu/store/rk5s6m2pz7nyd0lzpy3f2pk6c2i5579s-emacs-25.2
+  Generation 2	Sep 11 2017 23:27:29
+   + htop	2.0.2	out	/gnu/store/62z486argm30550gnxpph0rxf3fh6q0z-htop-2.0.2
+  Generation 3	Sep 11 2017 23:39:17
+   + rxvt-unicode	9.22	out	/gnu/store/982k5jw9hpwsrvlgjfd47ah2fxijx2gf-rxvt-unicode-9.22
+  Generation 4	Sep 11 2017 23:44:25
+   + git	2.14.1	out	/gnu/store/blafwg1x86hzmilnggi4dl6m3sc67anc-git-2.14.1
+  Generation 5	Sep 12 2017 00:27:43
+   + icecat	52.3.0-gnu1	out	/gnu/store/cq7jy8x6xvkvdz7z6jv4538wvlc7xl7c-icecat-52.3.0-gnu1
+  Generation 6	Sep 12 2017 00:28:08
+   + xrandr	1.5.0	out	/gnu/store/4f41jcnjpydvm96sbab0y3k3lmhgaakn-xrandr-1.5.0
+  Generation 7	Sep 12 2017 00:48:36
+   + xorg-server	1.19.3	out	/gnu/store/mf5nkw2czchh737hg441iwp0yx8qvxcj-xorg-server-1.19.3
+  Generation 8	Sep 12 2017 19:47:12
+   + stow	2.2.2	out	/gnu/store/q1dm4x5whqk2y0fr0wzhdaf1zzk2wm94-stow-2.2.2
+  Generation 9	Sep 14 2017 20:12:21
+   + setxkbmap	1.3.1	out	/gnu/store/zmvg99fvq4phr9n72p1bdgg3zaqq1svl-setxkbmap-1.3.1
+  Generation 10	Sep 14 2017 22:54:03
+  Generation 11	Sep 14 2017 23:01:02	(current)
+   + openssh	7.5p1	out	/gnu/store/k14zxh68z2gn9lj7wcd023biikb973fb-openssh-7.5p1
+#+END_SRC
+
+** Switch generation
+
+To switch to an older generation.
+
+#+BEGIN_SRC shell
+  nils@gnu ~$ guix package --switch-generation=1
+#+END_SRC
+
+** Shepherd
+
+Shepherd is the default service manager in GuixSD.
+
+Its also managed with Scheme.
+
+** My current problem
+
+This is one of my current problems.  How do I get this config
+to Xorg at startup?
+
+#+BEGIN_SRC scheme
+  (define xkeyboard-config "
+  Section \"InputClass\"
+       Identifier \"keyboard-all\" \"system-keyboard\"
+       MatchIsKeyboard \"on\"
+       MatchDevicePath \"/dev/input/event*\"
+       Driver \"evdev\"
+       Option \"XkbModel\" \"pc105\"
+       Option \"XkbLayout\" \"us,se\"
+       Option \"XkbVariant\" \",\"
+       Option \"XkbOptions\" \"grp:win_space_toggle,caps:ctrl_modifier\"
+       MatchIsKeyboard \"on\"
+  EndSection
+  ")
+
+  (services
+   (cons*
+    (slim-service
+     #:allow-empty-passwords? #f #:auto-login? #f
+     #:startx (xorg-start-command
+               #:configuration-file
+               (xorg-configuration-file
+                #:extra-config (list libinput.conf)))))
+#+END_SRC
+
+
+
+* Resources
+
+- [[https://www.gnu.org/software/guile/][GNU Guile]]
+- [[https://www.gnu.org/software/shepherd/][GNU Shepherd]]
+- [[https://www.gnu.org/software/guix/][GNU GuixSD]]
+- [[https://github.com/jherrlin/guixsd-config][My Guix config]]
