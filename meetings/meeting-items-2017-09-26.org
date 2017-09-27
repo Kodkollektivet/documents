@@ -1,0 +1,154 @@
+DATE: <2017-09-19 Tue 18:00>
+
+* Positions for this meeting:
+
+   - President: John Herrlin
+   - Secretary: Michael Johansson
+   - Adjustor: Alex Spottka
+
+* Attendants:
+
+   - Marcus Muller
+   - Alex Spottka
+   - Michael Johansson
+   - John Herrlin
+   - Ahmadreza Vakilalroayayi
+   - Austin Ponten
+   - Amar
+
+ * Agenda
+
+ ** Welcome new guys
+    Ahmadreza
+    Amar
+
+ ** Member system
+
+    Michael*** talkes to Fortnox.
+    Also for accountant software.
+
+ ** Bank account
+
+    John will mail Swedbank.
+    Swish.
+
+ ** Stora IT-kompetensdagen
+
+    Michael talks to Diana.
+    ** Lunch lectures
+
+    This companies will be at Stora IT-kompetensdagen and it would be nice if we could have
+    lunch seminars with them before.
+
+         - Tecnau
+         - Gears of leo
+         - Infomaker Scandinavia
+         - Fortnox
+         - Visma
+         - Play'n Go
+         - IST
+         - Cybercom Sweden
+
+         Ask diana about wexnet, griffel and other ISP (hardware companies)
+
+ ** Global Entrepreneurship Week Dayhack
+
+    No update
+
+    Dagshackathon.
+
+    Global Entrepreneurship Week, 13-19 Nov Måndag - Söndag, vad sägs om Lördagen 18?
+
+    Drivhuset är det som driver det.
+    Videum är med på ett hörn med en nätverksträff.
+
+    Kör det på biljettkiosken för anmälan, brandad med Kodkollektivet.
+
+    Köra det under en dag:
+    09:00 Start och into, enkel macka.
+    12:00 Lunch
+    17:00 Presentation
+    18:00 Middag och dryck
+
+    Få med någon ifrån kodkollektiv2et till en styrgrupp, Vahida?
+    Vahida, kolla med EBD. Erik Rosell kan vara bra.
+    Fixa studenter som är sugna.
+    Tanken är att bygga grupper på 4 pers med 2 utvecklare och 2 EBDare.
+    Sedan är det en panel som bestämmer.
+
+    Vi räknar med ~20 studenter.
+
+    Sätta ihop en panel där sponsor också kan få sitta med.
+
+    !!!!UPDATE!!!!! 12/9 - 2017
+    EHVS want payment for advertisments, maybe posters are better.
+    Meeting again 13/9 -2017
+    Problem for event something about some communityproblem.
+    Chris is interested to join.
+    Vahida should update Amar on this.
+
+** Ahmadreza
+    front end
+    logos and stuff
+
+** CodeHub posters
+
+    Michael, Fix general poster to leave up "Codehub varannan tisdag bla bla"
+    Wait for next event to change room.
+    Room key??
+    Next tuesday john has the event, rasmus some other time.
+
+ ** Videum VR
+
+    Videum VR has a projectleader. Paul maybe as kodkollektivet contact??
+    first event someware after exams, end of october early november.
+    Johan updates Stefan at videum.
+
+ ** Social beer
+
+    Meetup in town to drink a beer.
+    <2017-09-12 Tue 20:00> somewhere in town.
+    Alex creates the event.
+
+    No update maybe start in october.
+
+    Fridays 29/9-17 around 17:00?
+
+ ** Hardware event
+
+    Chris has sent out emails.
+    Austin updates, DataCenter in älmhult.
+
+** Chris host
+
+    hosting mailserver
+    website?
+    move to cloud?
+
+** Discord?
+
+    Alex fixed it! goodjob
+
+** Hoodies
+
+    Alex checks if we can get vector graphics of logos. Else Otto converts it.
+    Mellis sister trys to convert it.
+
+    No update.
+
+** Getting more board members.
+
+  John takes it up on his Code hub.
+  Talking more with the classes here.
+
+** Event with experise.
+
+** "Meet the kodkollektivet event"
+
+    check with stallarna about cost and time?
+    consoles?
+    pizza?
+    drinking games
+    biljettkiosken 50 ppl max?
+    workers?
+    date?
