@@ -2,15 +2,11 @@ DATE: <2017-10-03 Tue 18:00>
 
 
 * Agenda
-
-** Welcome new guys
-    Ahmadreza
-    Amar
-
 ** Member system
 
     Michael talkes to Fortnox.
     Also for accountant software.
+
 
 ** Bank account
 
@@ -72,62 +68,59 @@ DATE: <2017-10-03 Tue 18:00>
     Chris is interested to join.
     Vahida should update Amar on this.
 
-** Ahmadreza
+** Design
 
-    front end
-    logos and stuff
+    Front end, logos and stuff
+
+    Ahmadreza and Chriss takes care of it.
 
 ** CodeHub posters
 
-    Michael, Fix general poster to leave up "Codehub varannan tisdag bla bla"
-    Wait for next event to change room.
-    Room key??
-    Next tuesday john has the event, rasmus some other time.
+   Michael, Fix general poster to leave up "Codehub varannan tisdag bla bla"
+   Wait for next event to change room.
+   Room key??
+   Just a mail away.
+   Limit the talks about to 20 minutes.
 
-*** Videum VR
+** Videum VR
 
-     Videum VR has a projectleader. Paul maybe as kodkollektivet contact??
-     first event someware after exams, end of october early november.
-     Johan updates Stefan at videum.
+   Videum VR.
+   Johan will meet with Stefan and Viktor Karlsson.
 
-*** Social beer
+   If someone is interested in this, talk to Johan Rovala!
+   Michael will talk to students about this to!
 
-      Meetup in town to drink a beer.
-      <2017-09-12 Tue 20:00> somewhere in town.
-      Alex creates the event.
+** Social beer
 
-      No update maybe start in october.
+   Meetup in town to drink a beer.
+   <2017-09-12 Tue 20:00> somewhere in town.
+   Alex creates the event.
 
-      Fridays 29/9-17 around 17:00?
+   No update maybe start in october.
 
-*** Hardware event
+   Fridays 29/9-17 around 17:00?
 
-    Chris has sent out emails.
-    Austin updates, DataCenter in älmhult.
+** Hardware event
+
+   Chris has sent out emails.
+   Austin updates, DataCenter in Älmhult.
 
 ** Chris host
 
-    hosting mailserver
-    website?
-    move to cloud?
+   This is done.
+   Post the cridentials in Slack #board channel.
 
 ** Discord?
 
-    Alex fixed it! goodjob
+   What do we think about it?
+   Should we keep it or Slack?
 
 ** Hoodies
 
     Alex checks if we can get vector graphics of logos. Else Otto converts it.
     Mellis sister trys to convert it.
 
-    No update.
-
-** Getting more board members.
-
-  John takes it up on his Code hub.
-  Talking more with the classes here.
-
-** Event with experise.
+    Ahmadreza and Chriss takes care of it.
 
 ** "Meet the kodkollektivet event"
 
@@ -139,9 +132,14 @@ DATE: <2017-10-03 Tue 18:00>
     workers?
     date?
 
+    There is a Slack channel for that.
+
 ** CodeHub
 
    New speakers?
+   - Chriss :: Imageprocessing (ImageMagick) 10/10 -17 Invite designers!
+   - Ahmadreza :: React native 24/10 -17
+
 ** Möte med Zenta
    2017-10-03
 
@@ -151,6 +149,16 @@ DATE: <2017-10-03 Tue 18:00>
       Återkom med datum til Aida.
       aidaqueenofthenorth@zenta.se
 
+      No thursdays.
+      16 November is Stora IT-kompetensdagen.
+
    2. Kvällsevent, Industri 4.0
 
    MakerSpace blir först om ett halvår?
+** Teknikum
+
+   Go and talk to students.
+   - John Herrlin, SV
+   - Ahmadreza, EN
+
+   4 hours, 14 Oktober.
