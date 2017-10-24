@@ -1,6 +1,5 @@
 DATE: <2017-10-10 Tue 17:00>
 
-
 * Agenda
 ** Member system
 
@@ -34,17 +33,19 @@ DATE: <2017-10-10 Tue 17:00>
      *** NEW updates
         18 companies
         need to spread the word to everyone we know :)
-        
 
 *** 2017-10-10 updates.
 
     15-20 companies will be attending this year.
-
     No lunch lectures planned yet.
 
 *** 2017-10-12 updates
 
     9/11 play'n'go and CGI lunch lecture
+
+*** Update 2017-10-24
+    20 companies
+    we want 100 students
 
 ** Global Entrepreneurship Week Dayhack
 
@@ -97,16 +98,27 @@ DATE: <2017-10-10 Tue 17:00>
 
    Chris knows this.
 
+   *** update
+      moving away from compass
+
 ** Videum VR
 
    Videum VR has a projectleader. Paul maybe as kodkollektivet contact??
    first event someware after exams, end of october early november.
    Johan updates Stefan at videum.
 
+   *** Update 2017-10-24
+      meeting with them 2017-10-27
+      events in late november
+
 ** Hardware event
 
    Chris has sent out emails.
    Austin updates, DataCenter in älmhult.
+
+   *** Wexnet
+      4-6 December wednesday
+      more updates comming
 
 *** 2017-10-10 updates.
     Michael Should mail Jakob in kalmar.
@@ -154,12 +166,18 @@ DATE: <2017-10-10 Tue 17:00>
     Move this event till november.
     Marcus and julia will lead the event from now
 
+*** 2017-10-24
+
+    planning is going on right now
+
 ** CodeHub
 
    New speakers?
    - Chriss :: Imageprocessing (ImageMagick) 10/10 -17 Invite designers! Sponsored by Södra
    - Ahmadreza :: React native 24/10 -17 ! Sponsored by Infomaker.
-   - John? :: Emacs? 31/10? maybe IST as sponsor
+   - John :: Emacs? 31/10? maybe IST as sponsor
+   - Marcus :: Screrps pick a date later on.
+   - maybe have a virus/hacker talk by evan.
 
 ** Kodkollektivet server
 
@@ -184,6 +202,9 @@ DATE: <2017-10-10 Tue 17:00>
 
    MakerSpace blir först om ett halvår?
 
+   *** update 2017-10-24
+      william google form kalmar to växjö
+
 *** 2017-10-10 updates.
 
     Patrik is working on getting a date for the lunch lecture. No date is set.
@@ -202,6 +223,9 @@ DATE: <2017-10-10 Tue 17:00>
 *** 2017-10-10 updates.
 
     Be at Teknikum at 9:00 and 14:00.
+*** 2017-10-24
+
+    if any new event Ahmadreza is up to do it aswell
 
 ** Kalmar/Spik
 
@@ -225,3 +249,13 @@ DATE: <2017-10-10 Tue 17:00>
 ** Sigma event
 
    We should do an event soon.
+   planning is going on, analyzing tweets.
+   check with john about kalmar students
+
+** Kodkollektivet cheat sheets
+    marcus fix links and ask people.
+
+** Kodkollektivet night at john's
+    ask john
+    do Kodkollektivet stuff
+    drink beer, code and such.
