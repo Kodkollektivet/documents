@@ -1,0 +1,238 @@
+DATE: <2017-11-07 Tue 18:00>
+
+
+* Agenda
+** Semester meeting
+
+  - Fastställandet av nästa verksamhetsårs medlemsavgift
+  - Val av nästföljande verksamhetsårs styrelse
+  - Val av nästföljande verksamhetsårs revisor
+  - Fastställande av nästkommande verksamhetsårs budget
+  - Föregående verksamhetsårs styrelses verksamhetsberättelse
+  - Föregående verksamhetsårs styrelses ekonomiska berättelse
+  - Revisorns granskning av föregående verksamhetsårs styrelses arbete
+  - Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
+
+** Member system
+
+   Michael talkes to Fortnox.
+   Also for accountant software.
+
+** Bank account
+
+   John will mail Swedbank.
+   Swish.
+
+** Stora IT-kompetensdagen
+
+   Michael talks to Diana.
+   Lunch lectures
+
+   This companies will be at Stora IT-kompetensdagen and it would be nice if we could have
+   lunch seminars with them before.
+
+   - Tecnau
+   - Gears of leo
+   - Infomaker Scandinavia
+   - Fortnox
+   - Visma
+   - Play'n Go
+   - IST
+   - Cybercom Sweden
+
+     Ask diana about wexnet, griffel and other ISP (hardware companies)
+
+     *** NEW updates
+        18 companies
+        need to spread the word to everyone we know :)
+
+
+*** 2017-10-10 updates.
+
+    15-20 companies will be attending this year.
+
+    No lunch lectures planned yet.
+
+*** 2017-10-12 updates
+
+    9/11 play'n'go and CGI lunch lecture
+
+** Global Entrepreneurship Week Dayhack
+
+   No update
+
+   Dagshackathon.
+
+   Global Entrepreneurship Week, 13-19 Nov Måndag - Söndag, vad sägs om Lördagen 18?
+
+   Drivhuset är det som driver det.
+   Videum är med på ett hörn med en nätverksträff.
+
+   Kör det på biljettkiosken för anmälan, brandad med Kodkollektivet.
+
+   Köra det under en dag:
+   09:00 Start och into, enkel macka.
+   12:00 Lunch
+   17:00 Presentation
+   18:00 Middag och dryck
+
+   Få med någon ifrån kodkollektiv2et till en styrgrupp, Vahida?
+   Vahida, kolla med EBD. Erik Rosell kan vara bra.
+   Fixa studenter som är sugna.
+   Tanken är att bygga grupper på 4 pers med 2 utvecklare och 2 EBDare.
+   Sedan är det en panel som bestämmer.
+
+   Vi räknar med ~20 studenter.
+
+   Sätta ihop en panel där sponsor också kan få sitta med.
+
+*** 2017-09-12 updates.
+
+    EHVS want payment for advertisments, maybe posters are better.
+    Meeting again 13/9 -2017
+    Problem for event something about some communityproblem.
+    Vahida should update Amar on this.
+
+*** 2017-10-10 updates.
+
+    No updates
+
+    John gives him a call.
+
+** Design
+
+   Ahmadreza
+
+   front end
+   logos and stuff
+
+   Chris knows this.
+
+** Videum VR
+
+   Videum VR has a projectleader. Paul maybe as kodkollektivet contact??
+   first event someware after exams, end of october early november.
+   Johan updates Stefan at videum.
+
+** Hardware event
+
+   Chris has sent out emails.
+   Austin updates, DataCenter in älmhult.
+
+*** 2017-10-10 updates.
+    Michael Should mail Jakob in kalmar.
+    No updates.
+
+** Chris host
+
+   - [X] Hosting mailserver
+   - [X] Website
+   - [X] Calendar
+
+** Discord?
+
+   Alex fixed it!
+
+*** 2017-10-10 updates.
+
+    What do we think, should we migrate?
+    We did a vote, 5 vs 0 to Slack.
+    Slack will be our primary communication application for now.
+
+** Hoodies
+
+   Alex checks if we can get vector graphics of logos. Else Otto converts it.
+   Mellis sister trys to convert it.
+
+   No update.
+
+*** 2017-10-10 updates.
+
+    No update.
+
+** "Meet the kodkollektivet event"
+
+   check with stallarna about cost and time?
+   consoles?
+   pizza?
+   drinking games
+   biljettkiosken 50 ppl max?
+   workers?
+   date?
+
+*** 2017-10-10 updates.
+
+    Move this event till november.
+    Marcus and julia will lead the event from now
+
+** CodeHub
+
+   New speakers?
+   - Chriss :: Imageprocessing (ImageMagick) 10/10 -17 Invite designers! Sponsored by Södra
+   - Ahmadreza :: React native 24/10 -17 ! Sponsored by Infomaker.
+   - John? :: Emacs? 31/10? maybe IST as sponsor
+
+** Kodkollektivet server
+
+   Michael will talk to Johan Leitet about getting some server resources.
+   First we wanna have a Screeps competition.
+
+   Talked to Johan will come more updates when he has time
+
+** Möte med Zenta
+   2017-10-03
+
+   Aida, Rasmus, Patrik, John
+
+   1. Lunchföreläsning, datum?
+      Återkom med datum til Aida.
+      aidaqueenofthenorth@zenta.se
+
+      No thursdays.
+      16 November is Stora IT-kompetensdagen.
+
+   2. Kvällsevent, Industri 4.0
+
+   MakerSpace blir först om ett halvår?
+
+*** 2017-10-10 updates.
+
+    Patrik is working on getting a date for the lunch lecture. No date is set.
+    The days they can choose from are 1 Nov and 8 Nov.
+
+** Teknikum
+
+   Go and talk to students.
+   - John Herrlin, SV
+   - Ahmadreza, EN
+   - Maria Ulan
+   - Michael, Backup
+
+   4 hours, 14 Oktober.
+
+*** 2017-10-10 updates.
+
+    Be at Teknikum at 9:00 and 14:00.
+
+** Kalmar/Spik
+
+   Michael and Diana was in Kalmar and talked to the students. The organization in Kalmar
+   is called Spik. With help from the teachers and old president of Spik we should create a
+   Kodkollektivet instance in Kalmar.
+
+   We wanna try to do events with Spik soon.
+
+   They are going to have a LAN in December, we are welcome to join it. This should NOT be
+   post in Facebook but could be posted in Slack. (We decided some time ago that
+   Kodkollektivet should not be involved in gaming, that should be its own community.)
+
+   They are interested in us steaming our events.
+
+** Meetings
+
+   We wanna have board meetings each second week. We think its better to have it on the
+   same day as we have the CodeHub. Next meeting will be in two week (24/10).
+
+** Sigma event
+
+   We should do an event soon.
