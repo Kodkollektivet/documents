@@ -1,0 +1,83 @@
+DATE: <2017-11-07 Tue 18:00>
+
+* !DRAFT!
+
+* Attendance
+
+  - Nick Kouvalias
+  - Vahida Ahmic
+  - Alexander Spottka
+  - Christian Anders
+  - Tomas Bylund
+  - Abdu Lrahman
+  - Ahmadreza Vakilalroayayi
+  - Marcus Mueller
+  - Michael Johansson
+  - John Herrlin
+
+* Positions for this meeting:
+
+  - President: John Herrlin
+  - Secretary: John Herrlin
+  - Adjustor: Michael Johansson
+
+* Agenda
+** Semester meeting
+
+  - Fastställandet av nästa verksamhetsårs medlemsavgift
+  - Val av nästföljande verksamhetsårs styrelse
+  - Val av nästföljande verksamhetsårs revisor
+  - Fastställande av nästkommande verksamhetsårs budget
+  - Föregående verksamhetsårs styrelses verksamhetsberättelse
+  - Föregående verksamhetsårs styrelses ekonomiska berättelse
+  - Revisorns granskning av föregående verksamhetsårs styrelses arbete
+  - Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
+
+** Member fee
+
+   0 kr
+
+** Positions for the board
+
+   | Position | Board     | Votes |
+   |----------+-----------+-------|
+   | P        | Michael   |     9 |
+   |          | Vahida    |     1 |
+   | VP       | Chriss    |     9 |
+   |          | Marcus    |     1 |
+   | Ex       | Amar      |    10 |
+   | Kassör   | Vahida    |     9 |
+   | Board    | Alex      |       |
+   |          | Marcus    |       |
+   |          | Abdu      |       |
+   |          | Tomas     |       |
+   |          | John      |       |
+   |          | William   |       |
+   |          | Julia     |       |
+   |          | Nick      |       |
+   |          | Ahmadreza |       |
+
+** Accountant
+
+   Amar
+
+
+** Fastställande av nästkommande verksamhetsårs budget
+
+   Styrelsen kommer att sköta detta för nästkommande verksamhetsårs.
+
+** Föregående verksamhetsårs styrelses verksamhetsberättelse
+
+   Vi gjorde event med företag och codehubs med studenter.
+
+** Föregående verksamhetsårs styrelses ekonomiska berättelse
+
+   Vi har ingen ekonomi ännu.
+
+** Revisorns granskning av föregående verksamhetsårs styrelses arbete
+
+   Vi har ingen ekonomi ännu.
+
+** Beslut om ansvarsfrihet av föregående verksamhetsårs styrelse
+
+   10 people vote for ansvarsfrihet.
