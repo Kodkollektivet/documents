@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>React Native Presentation</title>
+  
+  
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/css/reveal.min.css'>
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/zenburn.min.css'>
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/css/theme/black.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <div class="reveal white">
+  <div class="slides">
+    <section>
+      <h2><img src="https://angular.github.io/react-native-renderer/assets/react.png" style="color:blue; width: 30vh; max-width: 25vw" /><br -/>React Native</h3>
+      <h4>Speaker:<a href="https://www.linkedin.com/in/arezavakilicareer/"> Ahmadreza Vakil</a><br/></h4> 
+      <h4>Hosted by:<a href="https://kodkollektivet.se"> Kodkollektivet.se</a></h4>
+      <h4>Sponsered by:<a href="https://www.infomaker.se/"> Infomaker.se</a></h4>
+    </section>
+
+    <section>
+        <h3>What is React and React Native?(1/2)</h3>
+        <p class="fragment fade-right">Is a javaScript opensource library which interact with user interfaces</p>
+        <p class="fragment fade-right">It was not opensource at first but it became opensource later! We will go through that.</p>
+        <p class="fragment fade-right">Created by <strong>Jordan Walke</strong> a software engineer at Facebook</p>
+        <p class="fragment fade-right">Acts like a native appllication in almost all platforms, Just write once!</p>
+    </section>
+
+    <section>
+      <h3>What is React and React Native?(2/2)</h3>
+      <p class="fragment fade-right">Will behave(rendered) depending on your platform and your devices capabilities</p>
+      <p class="fragment fade-right">Example: Touch behaves, scroll views, web views, going back buttons, etc. are differents in iPhone, Android, Windows, Linux!</p>
+      <p class="fragment fade-right">React Native is like React, but it uses native components instead of web components</p>
+      <p class="fragment fade-right">Cross platforms and multi platforms apps are changing the future!</p>
+    </section>
+
+    <section>
+      <h3>History behind React</h3>
+      <p class="fragment fade-right">React is Created by <strong>Jordan Walke</strong> a software engineer at Facebook</p>
+      <p class="fragment fade-right">First use: Facebook's newsfeed in 2011</p>
+      <p class="fragment fade-right">Second use: Instagram in 2012</p>
+      <p class="fragment fade-right">It became <strong>Open Source</strong> in May 2013</p>
+      <p class="fragment fade-right">Feels like revolution is happening!</p>
+    </section>
+
+    <section>
+        <h3>History behind React Native(1/4)</h3>
+        <p class="fragment fade-right">Seriously? We are in the history of React Native! Can we contribute? YES! Change your future!</p>
+        <p class="fragment fade-right">React Native started as a hackathon project in the summer of 2013</p>
+        <p class="fragment fade-right">Became one of the most popular frameworks</p>
+        <p class="fragment fade-right">After a little over a year, a public preview of React Native in January 2015</p>
+        <p class="fragment fade-right"> In March of 2015, Facebook announced that React Native is open and available on GitHub.</p>
+    </section>
+           
+    <section>
+      <h3>History behind React Native(2/4)</h3>
+      <p class="fragment fade-right">No signs of slowing down and just growing</p>
+      <p class="fragment fade-right"><img src="https://ahmadvakil.github.io/React-Native-Presentation/React-Native pr.jpg"></p>
+      
+      </section>
+
+      <section>
+          <h3>History behind React Native(3/4)</h3>
+          <p class="fragment fade-right">Android, iOS, and UWP (Microsoft) development with React.</p>
+          <p class="fragment fade-right">Microsoft and Samsung committed to bringing React Native to Windows and Tizen</p>
+          <p class="fragment fade-right">Tizen: Operating system based on the Linux kernel and the GNU C Library</p>
+          <p class="fragment fade-right">So even Linux(Like Ubuntu) is going to be compatible with React Native apps! Why???</p>
+      </section>
+
+      <section>
+          <h3>History behind React Native(4/4)</h3>
+          <p class="fragment fade-right">It might be updated in next minute while we are in D1172!</p>
+          <p class="fragment fade-right">Prove:<br><img src="https://ahmadvakil.github.io/React-Native-Presentation/Contributions2.png"></p>
+      </section>
+
+      <section>
+          <h3>Let's go a bit deeper!(1/7)</h3>
+          <p class="fragment fade-right">How it works?</p>
+          <p class="fragment fade-right"><img src="https://ahmadvakil.github.io/React-Native-Presentation/Desc1.png"></p>
+      </section>
+
+      <section>
+          <h3>Let's go a bit deeper!(2/7)</h3>
+          <p class="fragment fade-right">Hello World! In React Native</p>
+          <p class="fragment fade-right">
+              <pre><code class="javascript">
+                  import React, { Component } from 'react';
+                  import { AppRegistry, Text } from 'react-native';
+                  
+                  class HelloWorldApp extends Component {
+                    render() {
+                      return (
+                        &lt;Text>Hello world!&lt;/Text>
+                      );
+                    }
+                  }
+                  
+                  AppRegistry.registerComponent('HelloWorldApp', () => HelloWorldApp);
+                          </pre></code>
+          </p>
+      </section>
+
+      <section>
+          <h3>Let's go a bit deeper!(3/7)</h3>
+          <p class="fragment fade-right">Simple WebView in all platforms! Facebook WebSite!</p>
+          <p class="fragment fade-right">
+              <pre><code class="javascript">
+                  'use strict';
+                  
+                  var React = require('react-native');
+                  var {
+                    AppRegistry,
+                    StyleSheet,
+                    Text,
+                    View,
+                    WebView
+                  } = React;
+                  var WebviewShell = React.createClass({
+                    render: function() {
+                      return (
+                        View style={styles.container}
+                          WebView url={'https://www.facebook.com/'} <!--This has been made just for presentation-->
+                        );
+                    }
+                  });
+                  
+                  var styles = StyleSheet.create({
+                    container: {
+                      flex: 1
+                    }
+                  });
+                  AppRegistry.registerComponent('WebviewShell', () => WebviewShell);
+                </pre></code>
+          </p>
+      </section>
+
+      <section>
+          <h3>Let's go a bit deeper!(4/7)</h3>
+          <p class="fragment fade-right">Playing with styles:</p>
+          <p class="fragment fade-right"><img src="https://ahmadvakil.github.io/React-Native-Presentation/react-native-demo.gif"></p>
+      </section>
+
+      <section>
+          <h3>As I explaind an example:</h3>
+          <p class="fragment fade-right">It Will behave(rendered) depending on your platform and your devices capabilities</p>
+          <p class="fragment fade-right">Examples: Touch behaves, scroll views, web views, going back buttons, etc. are differents!</p>
+      </section>
+
+      <section>
+          <h3>Let's go a bit deeper!(5/7)</h3>
+          <p class="fragment fade-right">Global elements:</p>
+          <p class="fragment fade-right"><img src="https://ahmadvakil.github.io/React-Native-Presentation/global-elements.png"></p>
+      </section>
+
+
+      <section>
+          <h3>Let's go a bit deeper!(6/7)</h3>
+          <p class="fragment fade-right">You can also seperate them!</p>
+          <p class="fragment fade-right"><img src="https://ahmadvakil.github.io/React-Native-Presentation/Multi.png"></p>
+          
+          
+      </section>
+
+      
+    
+
+      <section>
+          <h3>Let's go a bit deeper!(7/7)</h3>
+          <p class="fragment fade-right">Interests in this amazing framework:</p>
+          <p class="fragment fade-right"><img src="https://ahmadvakil.github.io/React-Native-Presentation/Fram-works-interests.png"></p>
+      </section>
+
+      <section>
+          <h3>Some suggestions:</h3>
+          <p class="fragment fade-right">Do you love to be a Front-End/Back-End developer in Sweden?</p>
+          <p class="fragment fade-right">If yes:</p>
+          <p class="fragment fade-right">1- Start learning Swedish</p>
+          <p class="fragment fade-right">2- Create a Github account</p>
+          <p class="fragment fade-right">3- Growth your JavaScrips Skills(You will have good courses in your program)</p>
+          <p class="fragment fade-right">4- Update your React Native skills every day!</p>
+          <p class="fragment fade-right">5- Be a contributer to React Native projects(Such as FB)</p>
+      </section>
+    
+    <section>
+      <h3>Thank You for your attention!</h3>
+      <p class="fragment fade-right">My presentation will be available in FaceBook </p>
+    </section>
+  </div>
+</div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/languages/javascript.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/lib/js/head.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/js/reveal.min.js'></script>
+
+<script  src="js/index.js"></script>
+
+</body>
+</html>
