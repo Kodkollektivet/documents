@@ -1,0 +1,204 @@
+#+DATE: <2017-11-14 Tu>
+
+* Meeting attendees
+
+- Ahmadreza
+- Michael
+- Alex
+- Chris
+- William
+- Tomas
+- Marcus
+- Hannes
+- Vahida
+- John
+- 
+
+
+* Agenda
+** Member system
+
+Michael talkes to Fortnox.
+Also for accountant software.
+
+** Bank account
+
+Michael will mail Swedbank.
+Swish.
+
+Scheduled for <2017-11-13 Mo>--<2017-11-19 So>.
+
+** Stora IT-kompetensdagen
+
+Event is done and went well. Diana and most companies were really happy.
+
+We will ask Diana to get the pictures from the official photographer. Also Chris will post the photos on our kodkollektivet facebook page.
+
+** Design
+
+Ahmadreza
+
+front end logos and stuff
+
+Chris knows this. Needs to be fixed soon.
+
+***Update 2017-11-21: William is taking over and tries to find design student
+
+** Videum VR
+
+Videum VR has a projectleader. Paul maybe as kodkollektivet contact??
+first event someware after exams, end of october early november.
+Johan updates Stefan at videum.
+
+*** Update 2017-11-14
+
+Ask Johan Leitet about streaming youtube.
+
+***Update 2017-11-21
+
+We will not do the event this year and will postpone it to the 2017-12-06/07.
+
+We will stream this to Kalmar via Youtube. Johan Leitet will help us with it. 
+
+** Hardware event
+
+Chris has sent out emails.
+Austin updates, DataCenter in älmhult.
+
+*** 2017-10-10 updates
+
+Michael Should mail Jakob in kalmar.
+No updates.
+
+*** 2017-11-14 updates
+
+Chris creates a poll. Take best time from the voting.
+
+Have the event during daytime. Even if there are possible conflicts.
+
+*** 2017-11-21 updates
+
+Wexnet can not have lecture in the evening. This collides with our policy of not having events during school time. 
+It was voted if we should have the event and make an exception for this event or to cancel it.
+
+Do we make an exception for the hardware event with Wexnet and have it during day/school time ?
+
+-Yes		7
+-No		0
+-Abstain	3
+
+** Hoodies
+
+ No update.
+
+*** 2017-11-14 updates
+
+SVG is done. Graphics need some enhancements.
+
+Chris puts the files onto Slack. Ask Chris if you have someone to fix it quickly.
+
+*** 2017-11-21 updates.
+
+We will fork the logo creation and who is fastest wins. William vs. Chris :)
+
+** "Meet the kodkollektivet event"
+
+   check with stallarna about cost and time?
+   consoles?
+   pizza?
+   drinking games
+   biljettkiosken 50 ppl max?
+   workers?
+   date?
+
+*** 2017-10-10 updates
+
+Move this event to november.
+Marcus and Julia will lead the event from now
+
+** CodeHub
+
+New speakers?
+
+*** 2017-11-14 updates
+
+Ahmadreza spreads the news, that he is the head of codehub orga now. He will ask for new speakers. He also fixes the upcoming event.
+
+Talks/Presentations need to be reviewed in advance. People need to send us the slides.
+
+*** 2017-11-21 updates
+
+We have a speaker that has a very long presentation. We are looking into the presentation and going to tell him to limit his speech to 30 min and 20 slides. Ahmadreza is the contact person.
+
+William: Has a potential speak for January and plans to come to Växjö
+John: Has a speak about emacs helped him passing his exam
+
+** Kodkollektivet server
+
+John fixed a server with sigma.
+
+Admin group for the server concept consists of
+- John
+- Chris
+
+** Möte med Zenta
+
+ 2017-10-03
+
+ Aida, Rasmus, Patrik, John
+
+ 1. Lunchföreläsning, datum?
+    Återkom med datum til Aida.
+    aidaqueenofthenorth@zenta.se
+
+    No thursdays.
+    16 November is Stora IT-kompetensdagen.
+
+ 2. Kvällsevent, Industri 4.0
+
+ MakerSpace blir först om ett halvår?
+
+*** 2017-10-10 updates.
+
+    Patrik is working on getting a date for the lunch lecture. No date is set.
+    The days they can choose from are 1 Nov and 8 Nov.
+
+*** 2017-11-14 updates
+
+Clarify that we need English presentations with the companies.
+
+Event at Zenta is ongoing. KK will meet them and do stuff at their Makerspace. Loosely schedule for December.
+
+
+** Future events
+
+Advertise on FB and Slack that people/members can make suggestions for events and companies which we can meet.
+
+** General event management and PR
+
+30-50 people attend KK Hackathons in average.
+
+William mentions that having the events in Växjö in general would be a good idea.
+
+Flyer/Info what KK does, how many we are, what we do with the companies and so on. William will fix this and updates information on the website. Will be fixed until the weekend before next board meeting (<2017-11-26 Su>)
+
+** Events in Karlskrona
+
+Alex met Martin Lang on Stora IT Kompetensdagen and they invited us for the securtiy day at the 2017-11-30. We are forwarding this to our Slack channel but won't plan anything ourselves.
+
+There is also a Hackathon planned in January and further information is coming soon.
+
+** Media responsibles
+
+Advertise more on FB and other media in general.
+
+Take at least photos with smartphones on events. Bigger events should be documented with decent cameras.
+
+Media responsible pokes and asks around that we take pictures.
+Alex and Chris are responsible for now.
+
+Goal is to have better PR and overview about past events.
+
+** Photoshoot
+
+It was decided to have the photoshoot at the 2017-12-05 at 16:00. We are going to use a greenscreen.
