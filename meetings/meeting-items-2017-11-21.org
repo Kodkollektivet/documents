@@ -1,7 +1,6 @@
 #+DATE: <2017-11-14 Tu>
 
 * Meeting attendees
-
 - Ahmadreza
 - Michael
 - Alex
@@ -12,8 +11,7 @@
 - Hannes
 - Vahida
 - John
-- 
-
+- Julia
 
 * Agenda
 ** Member system
@@ -26,7 +24,7 @@ Also for accountant software.
 Michael will mail Swedbank.
 Swish.
 
-Scheduled for <2017-11-13 Mo>--<2017-11-19 So>.
+Scheduled for <2017-11-27 Mo>--<2017-12-04 Mo>.
 
 ** Stora IT-kompetensdagen
 
@@ -42,7 +40,9 @@ front end logos and stuff
 
 Chris knows this. Needs to be fixed soon.
 
-***Update 2017-11-21: William is taking over and tries to find design student
+*** Update 2017-11-21
+
+William is taking over and tries to find design students
 
 ** Videum VR
 
@@ -54,11 +54,11 @@ Johan updates Stefan at videum.
 
 Ask Johan Leitet about streaming youtube.
 
-***Update 2017-11-21
+*** Update 2017-11-21
 
 We will not do the event this year and will postpone it to the 2017-12-06/07.
 
-We will stream this to Kalmar via Youtube. Johan Leitet will help us with it. 
+We will stream this to Kalmar via Youtube. Johan Leitet will help us with it.
 
 ** Hardware event
 
@@ -78,13 +78,13 @@ Have the event during daytime. Even if there are possible conflicts.
 
 *** 2017-11-21 updates
 
-Wexnet can not have lecture in the evening. This collides with our policy of not having events during school time. 
+Wexnet can not have lecture in the evening. This collides with our policy of not having events during school time.
 It was voted if we should have the event and make an exception for this event or to cancel it.
 
 Do we make an exception for the hardware event with Wexnet and have it during day/school time ?
 
--Yes		7
--No		0
+-Yes	7
+-No	0
 -Abstain	3
 
 ** Hoodies
@@ -97,7 +97,7 @@ SVG is done. Graphics need some enhancements.
 
 Chris puts the files onto Slack. Ask Chris if you have someone to fix it quickly.
 
-*** 2017-11-21 updates.
+*** 2017-11-21 updates
 
 We will fork the logo creation and who is fastest wins. William vs. Chris :)
 
@@ -128,10 +128,10 @@ Talks/Presentations need to be reviewed in advance. People need to send us the s
 
 *** 2017-11-21 updates
 
-We have a speaker that has a very long presentation. We are looking into the presentation and going to tell him to limit his speech to 30 min and 20 slides. Ahmadreza is the contact person.
+We have a speaker that has a very long presentation. We are looking into the presentation and going to tell him to limit his speech to 30 min and ~20 slides. Ahmadreza is the contact person.
 
-William: Has a potential speak for January and plans to come to Växjö
-John: Has a speak about emacs helped him passing his exam
+- William: Has a potential speak for January and plans to come to Växjö
+- John: Has a speak about emacs helped him passing his exam
 
 ** Kodkollektivet server
 
@@ -143,32 +143,32 @@ Admin group for the server concept consists of
 
 ** Möte med Zenta
 
- 2017-10-03
+2017-10-03
 
- Aida, Rasmus, Patrik, John
+Aida, Rasmus, Patrik, John
 
- 1. Lunchföreläsning, datum?
-    Återkom med datum til Aida.
-    aidaqueenofthenorth@zenta.se
+1. Lunchföreläsning, datum?
+   Återkom med datum til Aida.
+   aidaqueenofthenorth@zenta.se
 
-    No thursdays.
-    16 November is Stora IT-kompetensdagen.
+   No thursdays.
+   16 November is Stora IT-kompetensdagen.
 
- 2. Kvällsevent, Industri 4.0
+2. Kvällsevent, Industri 4.0
 
- MakerSpace blir först om ett halvår?
+MakerSpace blir först om ett halvår?
 
 *** 2017-10-10 updates.
 
-    Patrik is working on getting a date for the lunch lecture. No date is set.
-    The days they can choose from are 1 Nov and 8 Nov.
+Patrik is working on getting a date for the lunch lecture. No date is set.
+
+The days they can choose from are 1 Nov and 8 Nov.
 
 *** 2017-11-14 updates
 
 Clarify that we need English presentations with the companies.
 
 Event at Zenta is ongoing. KK will meet them and do stuff at their Makerspace. Loosely schedule for December.
-
 
 ** Future events
 
@@ -201,4 +201,4 @@ Goal is to have better PR and overview about past events.
 
 ** Photoshoot
 
-It was decided to have the photoshoot at the 2017-12-05 at 16:00. We are going to use a greenscreen.
+It was decided to have the photoshoot at the <2017-12-05 Tu 16:00>. We are going to use a greenscreen.
