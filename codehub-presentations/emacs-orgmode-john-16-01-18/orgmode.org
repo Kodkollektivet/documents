@@ -1,0 +1,350 @@
+#+TITLE: Emacs Orgmode
+#+AUTHOR: John Herrlin
+#+EMAIL: jherrlin@gmail.com
+
+#+STARTUP: content
+
+
+* Configuration                                                    :noexport:
+
+  This is part of the Reveal presentation and not really about the orgmode document.
+
+  #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+  #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+  #+OPTIONS: reveal_width:1200 reveal_height:800
+  #+OPTIONS: toc:1
+  #+REVEAL_MARGIN: 0.2
+  #+REVEAL_MIN_SCALE: 0.5
+  #+REVEAL_MAX_SCALE: 2.5
+  #+REVEAL_TRANS: none
+  #+REVEAL_THEME: night
+  #+REVEAL_HLEVEL: 999
+
+** org-reveal
+*** General reveal setup
+
+    Custom stylesheet location
+    #+REVEAL_EXTRA_CSS: ./style.css
+
+    Reveal plugin activation
+    #+REVEAL_PLUGINS: (zoom notes highlight)
+
+    Reveal.js root folder
+    #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+
+*** Screen setup
+
+    The "normal" size of the presentation, aspect ratio will be preserved
+    when the presentation is scaled to fit different resolutions. Can (possibly?) be
+    specified using percentage units.
+    #+OPTIONS: reveal_width:1200 reveal_height:800
+
+    Factor of the display size that should remain empty around the content
+    #+REVEAL_MARGIN: 0.1
+
+    Bounds for smallest/largest possible scale to apply to content
+    #+REVEAL_MIN_SCALE: 0.2
+    #+REVEAL_MAX_SCALE: 1.0
+
+*** Appearance setup
+
+    Show/hide title slide
+    # #+OPTIONS: reveal_title_slide:nil
+
+    Custom header and footer
+    #+REVEAL_SLIDE_HEADER:
+    #+REVEAL_SLIDE_FOOTER:
+
+    Show slide numbers (h = horizontal number, v = vertical number, . / can be used to as separators)
+    #+OPTIONS: reveal_slide_number:h.v
+
+    Disable heading numbers
+    #+OPTIONS: num:nil
+
+    Enable/disable table of contents and toc level
+    #+OPTIONS: toc:1
+
+    Configure transitions
+    Animation values: default|cube|page|concave|zoom|linear|fade|none.
+    #+REVEAL_TRANS: fade
+    Transision speed values: default|fast|slow
+    #+REVEAL_SPEED: slow
+
+    Theme
+    Themes can be found in reveal.js root folder
+    #+REVEAL_THEME: white
+
+    HLevel’s default value is 1, means only level 1 headings are arranged horizontally.
+    Deeper headings are mapped to vertical slides below their parent level 1 heading
+    #+REVEAL_HLEVEL: 1
+
+    Enable/disable vertical(?) slide centering.
+    #+OPTIONS: reveal_center:nil
+
+    Custom html definitions
+    #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Presentation">
+    #+REVEAL_POSTAMBLE: <p> Created by Kodkollektivet </p>
+
+*** Feature setup
+
+    Show/hide progress bar
+    #+OPTIONS: reveal_progress:t
+
+    Enable/disable slide history track
+    #+OPTIONS: reveal_history:t
+
+    Show/hide browsing control pad
+    #+OPTIONS: reveal_control:t
+
+    Enable keyboard shortcuts
+    #+OPTIONS: reveal_keyboard:t
+
+    Enable overview via ESC key
+    #+OPTIONS: reveal_overview:t
+
+* Orgmode
+  :PROPERTIES:
+  :CUSTOM_ID: ilDwShgRzEyWzysTs4q7As
+  :END:
+
+** What is Orgmode?
+   :PROPERTIES:
+   :CUSTOM_ID: OXTsRCHVOLHMA5bfJBWsYK
+   :END:
+
+   "Org mode is for keeping notes, maintaining TODO lists, planning projects, and
+   authoring documents with a fast and effective plain-text system." / [[http://orgmode.org/][orgmode.org]]
+
+   I would say that orgmode is just structured text with superpowers.
+
+** What I use Orgmode for?
+   :PROPERTIES:
+   :CUSTOM_ID: QOtb0XcWIZP3nGm61nowKC
+   :END:
+
+   - Writing notes
+   - Writing documentation
+   - Write LaTeX/PDFs
+   - Programming
+   - Database
+
+** Headings
+   :PROPERTIES:
+   :CUSTOM_ID: X9HPc33U8xw8JNiuwkocDn
+   :END:
+
+   Headings are used to sort stuff.
+   A heading can be folder/unfolded.
+
+   Folded
+
+   #+BEGIN_SRC org
+     ,* Heading
+     ,** Subheading
+     ,** Subheading1
+   #+END_SRC
+
+   Unfolded
+
+   #+BEGIN_SRC org
+     ,* Heading
+     ,** Subheading
+
+        This is text within a heading, this text is hidden when folded.
+
+     ,** Subheading1
+   #+END_SRC
+
+   Folding is done with <TAB>
+
+** Tables
+   :PROPERTIES:
+   :CUSTOM_ID: qwOmyL1QzDB0GacEGXkUzN
+   :END:
+
+   Tables can be used to a lot of things. In the example below it contains name, age, and
+   lived days. Lived days are calculated with a =TBLFM= expression.
+
+   #+BEGIN_SRC org
+     ,#+NAME: name
+     | name    | age |  days |
+     |---------+-----+-------|
+     | John    |  31 | 11315 |
+     | Linus   |  50 | 18250 |
+     | Richard |  60 | 21900 |
+     ,#+TBLFM: $3=$2*365
+   #+END_SRC
+
+   Columns and row are easy to rearage.
+
+** Programming
+*** Java
+    :PROPERTIES:
+    :CUSTOM_ID: NsHTKG0HdxzotFy8ZkgkzH
+    :END:
+*** Python
+    :PROPERTIES:
+    :CUSTOM_ID: f7IVdWcXUxkoovrpf2SXoa
+    :END:
+** Databases
+    :PROPERTIES:
+    :CUSTOM_ID: wXivAEN72oQFW1yn5bx5Lq
+    :END:
+
+    You can interact with a database from the source code blocks.
+
+*** Postgres
+    :PROPERTIES:
+    :CUSTOM_ID: u1uTujmkHLbgrv1pd0WJsY
+    :END:
+
+    #+BEGIN_SRC org
+      ,#+BEGIN_SRC sql :engine postgresql :dbhost 172.22.0.2 :dbuser postgres :database postgres
+        SELECT * FROM tables;
+      ,#+END_SRC
+    #+END_SRC
+
+*** Sqlite
+    :PROPERTIES:
+    :CUSTOM_ID: 5GGgl5DFzbzYnmzHAx7Wdd
+    :END:
+
+    #+BEGIN_SRC org
+      ,#+NAME: natural-join-r1
+      | a | b | c |
+      |---+---+---|
+      | 1 | 3 | 6 |
+
+      ,#+NAME: natural-join-r2
+      | a | b | d |
+      |---+---+---|
+      | 1 | 3 | 9 |
+
+      ,#+begin_src sqlite :db /tmp/db.db :var r1=natural-join-r1 :var r2=natural-join-r2
+         DROP TABLE if EXISTS R1; CREATE TABLE R1(a integer, b integer, c integer);
+         .mode csv R1
+         .import $r1 R1
+         DROP TABLE if EXISTS R2; CREATE TABLE R2(a integer, b integer, d integer);
+         .mode csv R2
+         .import $r2 R2
+      ,#+end_src
+
+      ,#+begin_src sqlite :db /tmp/db.db :colnames yes
+         SELECT * FROM R1 NATURAL JOIN R2;
+      ,#+end_src
+
+      | a | b | c | d |
+      |---+---+---+---|
+      | 1 | 3 | 6 | 9 |
+    #+END_SRC
+
+** Orgdrill
+   :PROPERTIES:
+    :CUSTOM_ID: YMJYUBlJxGC0PoyYOyycvp
+    :END:
+
+   Flashcards for Org.
+
+   #+BEGIN_SRC org
+     ,* Write a map procedure                                        :drill:scheme:
+
+       Write a map procedure =my-map= when called:
+
+       =(my-map (lambda (x)(* x 2)) (list 1 2 3))=
+
+       it will produce the result: (2 4 6)
+
+     ,** Answer
+
+	,#+BEGIN_SRC scheme
+	  (define (my-map fn lst)
+	    (if (nil? lst)
+		'()
+		(cons (fn (car lst)) (my-map fn (cdr lst)))))
+
+	  (my-map (lambda (x)(* x 2)) (list 1 2 3))
+	,#+END_SRC
+   #+END_SRC
+
+* Examples                                                         :noexport:
+
+  Use =C-c C-c= to evaluate the code. To enter a code block in
+  "fullscreen" use =C-c '=.
+
+  Start Emacs with the following command:
+
+  #+BEGIN_SRC shell
+    emacs -q -l ~/Downloads/orgmode.el ~/Downloads/orgmode.org
+  #+END_SRC
+
+** Sourcecode blocks with orgmode variables
+
+   #+NAME: user-age-table
+   | User   | Age |
+   |--------+-----|
+   | Jesper |  10 |
+   | Kalle  |  20 |
+   | Åke    |  25 |
+   | Ramus  |  30 |
+   | Stina  |  40 |
+
+   #+NAME: user-age-in-days
+   #+BEGIN_SRC python :var uat=user-age-table :results value
+     lst = [['User', 'Age'],
+            None]
+     for i in uat:
+         lst.append([i[0], i[1]*365])
+     return lst
+   #+END_SRC
+
+   #+RESULTS: user-age-in-days
+   | User   |   Age |
+   |--------+-------|
+   | Jesper |  3650 |
+   | Kalle  |  7300 |
+   | Åke    |  9125 |
+   | Ramus  | 10950 |
+   | Stina  | 14600 |
+
+** Java programming
+
+    #+HEADERS: :classname Main
+    #+BEGIN_SRC java :results output
+      public class Main {
+          public static void main(String[] args){
+              System.out.print("Hey from Orgmode!");
+          }
+      }
+    #+END_SRC
+
+** Python programming
+
+   #+BEGIN_SRC python :results output
+     for i in range(0, 10):
+         print(f"INSERT INTO sometable VALUE ('Kodkollektivet', {i});")
+   #+END_SRC
+
+** Excel stuff
+
+   Put the pointer on =#+TBLFM= and press =C-c C-c=.
+
+   | name    | age |  days |
+   |---------+-----+-------|
+   | Linus   |  50 | 18250 |
+   | John    |  31 | 11315 |
+   | Richard |  21 |  7665 |
+   #+TBLFM: $3=$2*365
+
+   A table can be rearranged with =M->=, =M-<=.
+
+** Orgdrill
+*** Lowercase ascii in python                                         :drill:
+
+    How do you get all the ascii chars in lowercase in Python?
+
+**** Answer
+
+     #+BEGIN_SRC python :results output
+       import string
+       print(string.ascii_lowercase)
+     #+END_SRC

@@ -1,0 +1,142 @@
+div.reveal {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+}
+
+div.reveal::after {
+    content: "";
+    background: url('./img/kk_background2.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+section {
+	padding-bottom: 100px;
+}
+
+.slide-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 20%;
+    font-size: 10%;
+    text-align: left;
+}
+
+.reveal .slides {
+	text-align: left;
+}
+
+.reveal dl {
+	margin-left: 0;
+}
+
+.reveal dd {
+	margin-left: 0;
+}
+
+.reveal pre {
+	margin-left: 0;
+	box-shadow: none;
+        width: 100%;
+}
+
+.reveal pre code {
+	margin-left: 0;
+	padding: 0.8em;
+        max-height: none;
+}
+
+.reveal .slides > section,
+.reveal .slides > section > section {
+	margin-bottom: 100px;
+}
+
+section {
+	padding-bottom: 100px;
+}
+
+.reveal section img {
+	border: none;
+	box-shadow: none;
+}
+
+.figure img {
+	width: 90%;
+}
+
+.figure p {
+	width:50%;
+	font-size: 0.7em;
+}
+
+.reveal table caption {
+	font-size: 0.7em;
+}
+
+.reveal .slide-number {
+	font-size: 18pt;
+	bottom: 10px;
+	color: #333;
+	background-color: rgba(0, 0, 0, 0)
+}
+
+.reveal .progress {
+	height: 5px;
+}
+
+.reveal .controls {
+	right: 30px;
+	bottom: 20px;
+}
+
+/* helper classes */
+.w90 {
+  width: 100%
+}
+
+.w70 {
+  width: 70%
+}
+
+.w60 {
+  width: 60%
+}
+
+.w50 {
+  width: 50%
+}
+
+.w40 {
+  width: 30%;
+}
+
+.w30 {
+  width: 30%;
+}
+
+.w20 {
+  width: 20%;
+}
+
+.w10 {
+  width: 10%;
+}
+
+.w05 {
+  width: 5%;
+}
+
+.centerdiv {
+  text-align: center;
+  margin:0 auto;
+}
