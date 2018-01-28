@@ -1,7 +1,5 @@
 DATE: <2017-11-07 Tue 18:00>
 
-* !DRAFT!
-
 * Attendance
 
   - Nick Kouvalias
@@ -23,10 +21,11 @@ DATE: <2017-11-07 Tue 18:00>
 
 * Agenda
 ** Semester meeting
-
+	
   - Fastställandet av nästa verksamhetsårs medlemsavgift
   - Val av nästföljande verksamhetsårs styrelse
   - Val av nästföljande verksamhetsårs revisor
+  - Godkännande av adress/sätesändring
   - Fastställande av nästkommande verksamhetsårs budget
   - Föregående verksamhetsårs styrelses verksamhetsberättelse
   - Föregående verksamhetsårs styrelses ekonomiska berättelse
@@ -45,7 +44,6 @@ DATE: <2017-11-07 Tue 18:00>
    |          | Vahida    |     1 |
    | VP       | Chriss    |     9 |
    |          | Marcus    |     1 |
-   | Ex       | Amar      |    10 |
    | Kassör   | Vahida    |     9 |
    | Board    | Alex      |       |
    |          | Marcus    |       |
@@ -56,11 +54,11 @@ DATE: <2017-11-07 Tue 18:00>
    |          | Julia     |       |
    |          | Nick      |       |
    |          | Ahmadreza |       |
-
-** Accountant
-
-   Amar
-
+   
+** Byte av adress/sätesändring
+	
+	Styrelsen har godkänt att den nya adressen för föreningen ska vara C/O Linnestudenterna Box 5015, 35005 Växjö. 
+	Adressen ändras från nuvarande Nydalavägen 44A, 35248 Växjö till C/O Linnestudenterna Box 5015, 35005 Växjö.
 
 ** Fastställande av nästkommande verksamhetsårs budget
 
