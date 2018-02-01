@@ -9,16 +9,6 @@
 
   This is part of the Reveal presentation and not really about the orgmode document.
 
-  #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
-  #+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
-  #+OPTIONS: reveal_width:1200 reveal_height:800
-  #+OPTIONS: toc:1
-  #+REVEAL_MARGIN: 0.2
-  #+REVEAL_MIN_SCALE: 0.5
-  #+REVEAL_MAX_SCALE: 2.5
-  #+REVEAL_TRANS: none
-  #+REVEAL_THEME: night
-  #+REVEAL_HLEVEL: 999
 
 ** org-reveal
 *** General reveal setup
@@ -43,7 +33,7 @@
     #+REVEAL_MARGIN: 0.1
 
     Bounds for smallest/largest possible scale to apply to content
-    #+REVEAL_MIN_SCALE: 0.2
+    #+REVEAL_MIN_SCALE: 0.1
     #+REVEAL_MAX_SCALE: 1.0
 
 *** Appearance setup
@@ -102,10 +92,20 @@
     Enable overview via ESC key
     #+OPTIONS: reveal_overview:t
 
-* Orgmode
+* Emacs and Orgmode
   :PROPERTIES:
   :CUSTOM_ID: ilDwShgRzEyWzysTs4q7As
   :END:
+** First of, Emacs
+
+   Emacs is a texteditor just like Vim, Sublime, Atom and others. It's been around
+   since 1976. It have a lot of 'packages' that can extend it. Today we will look at a
+   package called Orgmode.
+
+   In Emacs functions are bind to hotkeys. M is the <ALT> key. C is the <CTRL> key.
+
+   In the presentation you will see stuff like =M-x=, that means you first press <ALT> and
+   then =x= on the same time.
 
 ** What is Orgmode?
    :PROPERTIES:
@@ -115,7 +115,8 @@
    "Org mode is for keeping notes, maintaining TODO lists, planning projects, and
    authoring documents with a fast and effective plain-text system." / [[http://orgmode.org/][orgmode.org]]
 
-   I would say that orgmode is just structured text with superpowers.
+   I would say that orgmode is just structured text with superpowers. Or markdown with
+   features.
 
 ** What I use Orgmode for?
    :PROPERTIES:
@@ -157,6 +158,20 @@
 
    Folding is done with <TAB>
 
+** Timing
+
+   An heading can be timed with =M-x org-clock-in= and =M-x org-clock-out=.
+
+   #+BEGIN_SRC org
+     ,* A timed heading
+       :LOGBOOK:
+        CLOCK: [2018-01-16 Tue 08:15]--[2018-01-16 Tue 10:15] =>  2:00
+       :END:
+
+       Content in the heading
+   #+END_SRC
+
+
 ** Tables
    :PROPERTIES:
    :CUSTOM_ID: qwOmyL1QzDB0GacEGXkUzN
@@ -177,15 +192,87 @@
 
    Columns and row are easy to rearage.
 
+** Remote files
+
+   With the =org-babel-tangle=, remote files can be written/updated.
+
+   #+BEGIN_SRC org
+     ,#+BEGIN_SRC text :tangle /ssh:unitime|sudo:unitime:/root/bin/start_iptables_script.sh
+           #!/bin/bash
+           # Iptables script to secure the server.
+           iptables -A INPUT -i lo -j ACCEPT
+           iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
+           iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+           iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+           iptables -A INPUT -p tcp --dport 443 -j ACCEPT
+           iptables -A INPUT -p icmp --icmp-type echo-request -j ACCEPT
+           iptables -A INPUT -j DROP
+           iptables -A FORWARD -j DROP
+     ,#+END_SRC
+   #+END_SRC
+
+
+** Remote commands
+
+   By selecting a remote dir, you can execute commands on remote hosts and get the results
+   in the same file.
+
+   #+BEGIN_SRC org
+     ,#+BEGIN_SRC shell :dir /ssh:jherrlin.se|sudo:jherrlin.se:~/
+       uname -a
+     ,#+END_SRC
+
+     ,#+RESULTS:
+     : Linux centos-512mb-fra1-01-jherrlin.se 3.10.0-693.5.2.el7.x86_64 #1 SMP Fri Oct 20 20:32:50 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+   #+END_SRC
+
 ** Programming
+
+   Orgmode can handle and work with many type of languages.
+
 *** Java
     :PROPERTIES:
     :CUSTOM_ID: NsHTKG0HdxzotFy8ZkgkzH
     :END:
+
+    You can run Java directly from within Orgmode.
+
+    #+BEGIN_SRC org
+      ,#+HEADERS: :classname Main
+      ,#+BEGIN_SRC java :results output
+        public class Main {
+            public static void main(String[] args){
+                System.out.print("Hey from Orgmode!");
+            }
+        }
+      ,#+END_SRC
+
+      ,#+RESULTS:
+      : Hey from Orgmode!
+    #+END_SRC
+
+
 *** Python
     :PROPERTIES:
     :CUSTOM_ID: f7IVdWcXUxkoovrpf2SXoa
     :END:
+
+    And Python to...
+
+    #+BEGIN_SRC org
+      ,#+BEGIN_SRC python :results output
+        for i in range(0, 5):
+            print(f"INSERT INTO sometable VALUE ('Kodkollektivet', {i});")
+      ,#+END_SRC
+
+      ,#+RESULTS:
+      : INSERT INTO sometable VALUE ('Kodkollektivet', 0);
+      : INSERT INTO sometable VALUE ('Kodkollektivet', 1);
+      : INSERT INTO sometable VALUE ('Kodkollektivet', 2);
+      : INSERT INTO sometable VALUE ('Kodkollektivet', 3);
+      : INSERT INTO sometable VALUE ('Kodkollektivet', 4);
+    #+END_SRC
+
 ** Databases
     :PROPERTIES:
     :CUSTOM_ID: wXivAEN72oQFW1yn5bx5Lq
@@ -243,7 +330,7 @@
     :CUSTOM_ID: YMJYUBlJxGC0PoyYOyycvp
     :END:
 
-   Flashcards for Org.
+   Flashcards for org with org-drill.
 
    #+BEGIN_SRC org
      ,* Write a map procedure                                        :drill:scheme:
@@ -256,26 +343,46 @@
 
      ,** Answer
 
-	,#+BEGIN_SRC scheme
-	  (define (my-map fn lst)
-	    (if (nil? lst)
-		'()
-		(cons (fn (car lst)) (my-map fn (cdr lst)))))
+        ,#+BEGIN_SRC scheme
+          (define (my-map fn lst)
+            (if (nil? lst)
+                '()
+                (cons (fn (car lst)) (my-map fn (cdr lst)))))
 
-	  (my-map (lambda (x)(* x 2)) (list 1 2 3))
-	,#+END_SRC
+          (my-map (lambda (x)(* x 2)) (list 1 2 3))
+        ,#+END_SRC
    #+END_SRC
 
-* Examples                                                         :noexport:
+** And there is more...
 
-  Use =C-c C-c= to evaluate the code. To enter a code block in
-  "fullscreen" use =C-c '=.
+   if you think. Hmmm can Emacs do this? Then it is very possible that it's a package for
+   that.
+
+   Thank you!
+
+* Examples                                                         :noexport:
+** Follow along
+
+   #+HTML_ATTR: :width 200% :height 200%
+   #+BEGIN_EXAMPLE
+   github.com/
+     kodkollektivet/
+       codehub-presenttions/
+         emacs-orgmode-john-16-01-18
+   #+END_EXAMPLE
+
+   Git clone the repo and navigate to the dir.
+
+** Start Emacs
 
   Start Emacs with the following command:
 
   #+BEGIN_SRC shell
     emacs -q -l ~/Downloads/orgmode.el ~/Downloads/orgmode.org
   #+END_SRC
+
+  Use =C-c C-c= to evaluate the code. To enter a code block in
+  "fullscreen" use =C-c '=.
 
 ** Sourcecode blocks with orgmode variables
 
@@ -320,9 +427,16 @@
 ** Python programming
 
    #+BEGIN_SRC python :results output
-     for i in range(0, 10):
+     for i in range(0, 5):
          print(f"INSERT INTO sometable VALUE ('Kodkollektivet', {i});")
    #+END_SRC
+
+   #+RESULTS:
+   : INSERT INTO sometable VALUE ('Kodkollektivet', 0);
+   : INSERT INTO sometable VALUE ('Kodkollektivet', 1);
+   : INSERT INTO sometable VALUE ('Kodkollektivet', 2);
+   : INSERT INTO sometable VALUE ('Kodkollektivet', 3);
+   : INSERT INTO sometable VALUE ('Kodkollektivet', 4);
 
 ** Excel stuff
 
@@ -332,12 +446,15 @@
    |---------+-----+-------|
    | Linus   |  50 | 18250 |
    | John    |  31 | 11315 |
-   | Richard |  21 |  7665 |
+   | Richard |  20 |   766 |
    #+TBLFM: $3=$2*365
 
    A table can be rearranged with =M->=, =M-<=.
 
 ** Orgdrill
+
+   Start this mode with =M-x org-drill=
+
 *** Lowercase ascii in python                                         :drill:
 
     How do you get all the ascii chars in lowercase in Python?
