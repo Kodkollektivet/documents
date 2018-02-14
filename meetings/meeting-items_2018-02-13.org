@@ -1,0 +1,212 @@
+#+TITLE: Kodkollektivet Board Meeting
+#+DATE: <2018-02-05 Mon>
+
+* Meeting attendees
+
+- Julia
+- Marcus
+- Chris
+- Michael
+- Alex
+- Tomas
+
+* Agenda
+** Member system
+
+*** Updates <2018-02-05 Mon>
+
+- Bank account was fixed (Nordea)
+- Fortnox will be contacted after papers have arrived
+- Michael fixes the CMS
+
+** Bank account
+
+*** Updates <2018-02-05 Mon>
+- Bank account was fixed (Nordea)
+
+** Videum VR
+
+*** Update <2017-12-05 Tue>
+
+- Move the VR event to next year
+- Details later
+
+** Hardware event
+
+*** 2017-11-21 updates
+
+Wexnet can not have lecture in the evening. This collides with our policy of not having events during school time.
+It was voted if we should have the event and make an exception for this event or to cancel it.
+
+Do we make an exception for the hardware event with Wexnet and have it during day/school time ?
+
+-Yes	7
+-No	0
+-Abstain	3
+*** <2017-12-05 Tue> updates
+
+- Chris sent an email to Diana to ask for company contacts
+- Wexnet does not have time the next months
+- Chris can write John Haggerud for contacts
+
+*** <2018-01-16 Tue> updates
+- More work and communication is needed
+- Will be around spring
+
+** Hoodies
+
+*** <2017-12-05 Tue> updates
+
+- Alex looks into it
+- KK will receive 10.000 sek for upcoming year -> use for hoodies
+- Ask LNU for sponsoring
+- Sustainable wear is preferred
+
+*** <2018-02-05 Mon>
+
+- Marcus, Julia and Chris looked up Fairwear Hoodies. Colors did not match for male+female.
+- William found a good offer from Nöj AB
+- Black or dark blue color
+- Small logo in the front and some text with icon in the back (basic idea)
+- Place order until end of February
+
+*** 2018-02-13 Updates
+- Marcus is e-mailing TS hoodies again.
+- Colors
+- 15 Hoodies
+
+** "Meet the kodkollektivet event"
+
+   check with stallarna about cost and time?
+   consoles?
+   pizza?
+   drinking games
+   biljettkiosken 50 ppl max?
+   workers?
+   date?
+
+*** 2017-10-10 updates
+
+Move this event to november.
+Marcus and Julia will lead the event from now
+
+*** <2017-12-05 Tue> updates
+
+- Having the big event next year
+- End of January/Beginning of February
+*** <2017-12-19 Tue> updates
+
+- We do not want to stress
+- Probably have the event in februrary
+*** <2018-01-16 Di> updates
+- Depends on Kafé deluxe
+- Message party idea. Everybody gets a number and people can message each other (analog or digital)
+- Projector of the dancefloor
+- "Partyname" - presented by Kodkollektivet
+
+** CodeHub
+
+New speakers?
+
+*** 2017-11-14 updates
+
+Ahmadreza spreads the news, that he is the head of codehub orga now. He will ask for new speakers. He also fixes the upcoming event.
+Talks/Presentations need to be reviewed in advance. People need to send us the slides.
+
+*** 2017-11-21 updates
+
+We have a speaker that has a very long presentation. We are looking into the presentation and going to tell him to limit his speech to 30 min and ~20 slides. Ahmadreza is the contact person.
+
+- William: Has a potential speak for January and plans to come to Växjö
+- John: Has a speak about emacs helped him passing his exam
+
+*** <2017-12-19 Tue> updates
+
+Talks for 2018
+- Michael could talk about git next year
+- Marcus could talk about blockchain and screeps
+
+*** <2018-02-05 Mon>
+
+- Last codehub DIY food was tasty. Everybody was happy.
+- Separate knifes and plates for vegetarians and so on
+- Wash vegetables if possible
+
+- Jakob will have a talk on the <2018-02-13 Tue> about some algorithms
+- Alex will have a talk on the <2018-02-27 Tue> about distrusting systems
+- Hannes wants to speak about "P vs. NP"
+
+** Kodkollektivet server
+
+John fixed a server with sigma.
+
+Admin group for the server concept consists of
+- John
+- Chris
+- Michael
+
+*** <2018-01-16 Di> update
+- A slack channel for further communication will be established
+*** <2018-02-05 Mon>
+
+- Nextcloud on the server (Chris)
+- Nextcloud fix by Michael, docker ?
+
+** Future events
+
+Advertise on FB and Slack that people/members can make suggestions for events and companies which we can meet.
+
+*** <2017-12-05 Tue> updates
+
+- Meet the Kodkollektivet event in spring
+
+*** <2017-12-19 Tue> updates
+
+Combitech
+- We have an event in spring
+- Probably about security
+
+*** <2018-02-05 Mon>
+
+- Michael knows a guy in Kalmar that runs a nationwide Hackathon in some weeks
+- KK goes to Karlskrona: Between <2018-04-24 Tue>--<2018-04-26 Thu>
+    - 26/4 date set.
+    - Does *not* seem to collide with Party event
+
+- Outpost24 12/3 lunch lecture event, kodkollektivet buys pizza for this.
+
+- Experis, IST, Visma, Combitech, Softwerk want to do events with us
+  - Companies will probably give notice 1-2 weeks before the event happens
+- William is contacting Kalmar kommun to talk about internships and stuff
+
+** General event management and PR
+
+30-50 people attend KK Hackathons in average.
+
+William mentions that having the events in Växjö in general would be a good idea.
+
+Flyer/Info what KK does, how many we are, what we do with the companies and so on. William will fix this and updates information on the website. Will be fixed until the weekend before next board meeting (<2017-11-26 Su>)
+*** <2017-12-05 Tue> updates
+
+- William sends the draft to Michael tomorrow <2017-12-06 Wed>
+*** <2017-12-19 Tue> updates
+
+William and Michael are working on it. Will probably be ready in spring.
+*** <2018-01-16 Di> updates
+- Chris sends the pictures this week
+*** <2018-02-05 Mon>
+
+- All board members need to choose the image they want until <2018-02-11 Sun>
+- Chris speaks to William about his picture for the website
+** Advertising for Companies
+
+- Some companies want to get advertising through Kodkollektivet
+- The decides that we do not advertise in particular
+- Sponsoring of CodeHub event is possible. Sponsored by XY will be announced for the Codehub then.
+  - Food for codehub will be ordered at Kristinas in such a case
+- We only want to advertise student grown projects in early state
+** Future of Kodkollektivet
+
+- Get new board members asap
+- Advertise what we are doing
+- Discuss if we want to grow and how
