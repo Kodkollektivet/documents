@@ -3,12 +3,15 @@
 
 * Meeting attendees
 
-- Julia
 - Marcus
 - Chris
 - Michael
 - Alex
 - Tomas
+- Ahmadreza
+- William
+- Vahida (Came late so did not vote)
+- Jakob
 
 * Agenda
 ** Member system
@@ -24,12 +27,15 @@
 *** Updates <2018-02-05 Mon>
 - Bank account was fixed (Nordea)
 
+*** Updates <2018-02-27 Tue>
+
+- Fixing the paperwork etc.
+
 ** Videum VR
 
-*** Update <2017-12-05 Tue>
+*** Update <2017-02-27 Tue>
 
-- Move the VR event to next year
-- Details later
+- They have to contact us if they want to do an event.
 
 ** Hardware event
 
@@ -104,6 +110,11 @@ Marcus and Julia will lead the event from now
 - Projector of the dancefloor
 - "Partyname" - presented by Kodkollektivet
 
+*** Update <2018-02-27>
+
+- 4th of may: doing it together with the "electrolux" event on cafe deluxe.
+- Chris email about the 4th and gets everything clear for next week.
+
 ** CodeHub
 
 New speakers?
@@ -133,8 +144,8 @@ Talks for 2018
 - Wash vegetables if possible
 
 - Jakob will have a talk on the <2018-02-13 Tue> about some algorithms
-- Alex will have a talk on the <2018-02-27 Tue> about distrusting systems
 - Hannes wants to speak about "P vs. NP"
+- Alex will have a talk on the <2018-02-27 Tue> about distrusting systems
 
 ** Kodkollektivet server
 
@@ -179,6 +190,13 @@ Combitech
   - Companies will probably give notice 1-2 weeks before the event happens
 - William is contacting Kalmar kommun to talk about internships and stuff
 
+*** Updates <2018-02-27>
+
+- Should we do events with any gambling related Companies.
+  - Yes     : 0
+  - No      : 7
+  - Abstain : 1
+
 ** General event management and PR
 
 30-50 people attend KK Hackathons in average.
@@ -210,3 +228,11 @@ William and Michael are working on it. Will probably be ready in spring.
 - Get new board members asap
 - Advertise what we are doing
 - Discuss if we want to grow and how
+
+** Voting with special intrests
+
+- If one or more boardmembers have intrests or is employeed by a company he/she should not be allowed to vote in any vote that could be of intrest for that company or competitor for that company.
+
+** Book to promote Kodkollektivet on the welcome meeting next fall.
+
+** Get more involved with teachers and market everything with them. 
