@@ -1,0 +1,42 @@
+#+TITLE: Meeting
+<2018-03-13 Tue>
+
+Attendees
+- Michael
+- Julia
+- Tomas
+- Ahmadreza
+- Marcus
+- Chris
+
+* Party orga
+** TODOs
+
+Date for the party: <2018-04-20 Fri>
+
+| Domain        | Responsible people       |
+|---------------+--------------------------|
+| Snacks        | Chris                    |
+| Prices        | Michael, Alex            |
+| Companies     | Ahmadreza, Michael, Alex |
+| Poster/FB     | Julia, Ahmadreza         |
+| Messageboard  | Julia                    |
+| Quiz          | Alex, Chris, Marcus      |
+| Game          | John, Alex               |
+| Proudest Geek | Marcus, Julia            |
+| Group game    | Chris                    |
+| Music         | Chris                    |
+
+* CodeHub orga
+- Michael will supply food and drinks for codehub
+- Marcus will provide the knives and cutting boards
+- Board prepares food before the codehub
+* Code of conduct
+- Policy for events
+  - Rules how people should behave
+- Julia takes it
+
+* Bank account
+- No money for the hoodies atm
+- Account up and running
+- Money will be transferred soon
