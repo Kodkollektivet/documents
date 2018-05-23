@@ -1,0 +1,114 @@
+* Meeting attendees
+
+- Michael
+- Tomas
+- Shukla
+- julia
+- Stefan
+- Alain
+- Cheba
+- Hannes
+- Chris
+- Bishwajit halder
+- Cristian
+- Alex
+- Fartun
+- Ebtisam
+- Ramine
+
+* Agenda
+** Member system
+Talking with Fortnox so on the way.
+
+update 24/4
+fortnox account has been created, and can currently be used by Vahida and Michael.
+
+update 08/05
+- Member system will be discussed in autumn
+- basic info to attendees given
+
+------------------------------------------------------------------------
+
+** Bank and money
+biljettkiosken for each event.
+Invoice to LNU is sent.
+
+Update 24/4
+------------------------------------------------------------------------
+not accounted. 10000 going to codehub fika etc. accounting done on wednesday
+
+Update 08/05
+- Some money is left for upcoming events
+
+** Kodkollektivet goes Deluxe
+| Domain        | Responsible people       |
+|---------------+--------------------------|
+| Snacks        | Chris                    |
+| Prices        | Michael, Alex            |
+| Companies     | Ahmadreza, Michael, Alex |
+| Poster/FB     | Julia, Ahmadreza         |
+| Messageboard  | Julia                    |
+| Quiz          | Alex, Chris, Marcus      |
+| Game          | John, Alex               |
+| Proudest Geek | Marcus, Julia            |
+| Group game    | Chris                    |
+| Music         | Chris                    |
+
+Update 27/3
+------------------------------------------------------------------------
+Design of Facebook.
+Julia handles the Facebook event.
+Deadline friday 30 mars for the facebook event.
+Invite södra with Chris and julias report.
+Advertise on facebook.
+biljettkiosken, 50 kr a ticket.
+Marcus writes about proudest geek.
+Julia thinks about group games. Chris does thesis.
+
+Update 24/4
+------------------------------------------------------------------------
+
+Update 08/05
+- Julia takes care of the photos
+- Will be uploaded to FB
+
+** CodeHub.
+- Michael will supply food and drinks for codehub
+- Marcus will provide the knives and cutting boards
+- Board prepares food before the codehub
+
+Update 27/3
+------------------------------------------------------------------------
+Amadreza not on meeting.
+Security event next time? Tomas might have a talk.
+
+Update 24/4
+------------------------------------------------------------------------
+chill codehub today.
+last codehub 8 may. Doing thesis introductions
+
+Update 08/05
+- Last codehub today
+- September will be the kickoff codehub for upcoming semester
+- Michael takes care of Introduction of KK on introduction days for swe and international students
+
+** Board dinner
+wednesday 2/5 18:30 everyone should contact michael if they can or not.
+
+** Slack members from companies
+
+- Companies should only be in #jobs and #announce
+- Slack should be a safe zone
+- Posts from companies should be removed if the posts or comments are not according to our rules and values
+- Violators should be kicked as a last option
+
+** Summary
+
+Best events
+- Södra hackathon
+- Karlskrona
+- Party
+
+Future events
+- Video game Companies
+- Dreamhack
