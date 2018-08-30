@@ -1,0 +1,95 @@
+* Meeting attendees
+- Michael
+- Tomas
+- Shukla
+- Julia
+- Alain
+- Amata (Cheab)
+- Marcus
+- Ebtisam
+- Cristian B
+
+* Agenda
+** New Events
+*Suggestions*
+*** Classic games
+    - Not what we should focus on but something we can do on the side.
+    - Cannot have it at uni, cause of intense use of traffic and such
+
+*** Hardware Event
+Never got started last semester because of lack of replies from companies.
+Best if a Swedish native take this task as contact with potential companies have been hard to establish. They where confused by getting English mails and not understanding they could contact Kodkollektivet directly to talk about potential event.
+
+** CodeHubs
+*** *Going to once a month?*
+How to cut the cost for fika needs to be further discussed later.
+  - Reason being fika is to expensive (before provision fika by uni: 1500kr, self-provision: 300kr food+200 kr coffee). So if no fika we can have it every week.
+  - Can we just skip fika now and then and keep the 2 times a week?
+  - Will ppl stop coming if you don't have fika?
+  - Previous costs for fika: 300kr sandwiches 0 200kr coffe = 500kr
+  - Companies are no longer so willing to sponsor CodeHubs. Michael tried to push this last semester without luck.
+  - Coffee machine and water cooker donated by Shuckla \o/ ! ! !
+  - Buy things like  to save money. Also buy knives and such for preparing sandwiches.
+  - Currently we can still pay for fika, but changes are needed.
+
+*** *Talks*
+ - Plan the schedule futher ahead than before.
+ - Needs 
+*** More Hands-On activity
+    - Security Shepard
+    - 
+*** Change of Responsibility
+    - Alain & Christian B
+
+** Email
+Everybody need to set up email and understand how it works. Meaning how to remake emails as unread if you do not intend to take any action after reading a mail. Chris is currently paying for it so we need a change of set up. By taken action (e.x.)
+  * Calender is currently on caldav and should be changed to Google Calender to make it easier
+
+** Ekonomics
+*Shuckla is willing to fill the vacant position of accountant* \o/ !
+   - We currently have a Fortnox account
+
+** Michael Replace
+Michael will still come to meetings that he is available for and of course help the new president(s).
+*Candidates (options):*
+  - Marcus (Can't. Needs to focus his time on HelloWorld! for one more semester at least)
+  - Julia & Ebtisam working together holding the "president role"
+
+*Formal vote of making Ebtisam & Julia temporary president until permanent vote on "big meeting"*
+  - Vote was unanimously *YES*
+
+** Vahida Replace
+*Shukla is the new accountant*.
+
+** Changes to meetings
+  - Keep meetings to Tuesdays
+  - Only have meeting the week we do not have a CodeHub
+  - New time: 18:00-19:30ish
+
+** Side notes
+   - Next Board Meeting on 11/9
+   - Next CodeHub on 18/9.
+   - Michael will come and talk (CodeHubs/Lunches) representing Combitech
+   - John H will probably also come and talk
+
+*** Another Party
+    - Should be done earlier this year
+*** Get teachers to come and talk/show
+    - Try to find teachers/professors/students that wants to host events where they show/talk about what they do.
+*** Posters
+    - Make our own design?
+*** WTech
+    - Form better relation and do things together
+*** More Kodkollektivet Merchandise
+    - Stickers
+    - Mugs
+    - T-shirts
+*** Hoodies
+We need them. Cost is the problem.
+
+*** Inform new students of the first semester course choice "English or Introduction to Programming"
+Not fair that Swedish students get to study more Computer Science points when many of the international students have no need for the English course.
+
+*** Email Ola
+About presenting new international students on Monday (3rd of Sep).
+
