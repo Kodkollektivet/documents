@@ -31,18 +31,20 @@ How to cut the cost for fika needs to be further discussed later.
   - Coffee machine and water cooker donated by Shuckla \o/ ! ! !
   - Buy things like  to save money. Also buy knives and such for preparing sandwiches.
   - Currently we can still pay for fika, but changes are needed.
+  - CodeHubs do not necessarily have to be presentations, focusing more on CodeHub
 
 *** *Talks*
  - Plan the schedule futher ahead than before.
+ - Michael can be contact for combitech talks
  - Needs 
 *** More Hands-On activity
     - Security Shepard
     - 
 *** Change of Responsibility
-    - Alain & Christian B
+    - Alain & Cristian B
 
 ** Email
-Everybody need to set up email and understand how it works. Meaning how to remake emails as unread if you do not intend to take any action after reading a mail. Chris is currently paying for it so we need a change of set up. By taken action (e.x.)
+Everybody need to set up email and understand how it works. Meaning how to remake emails as unread if you do not intend to take any action after reading a mail. Chris is currently paying for it so we need a change of set up. By taken action (e.x.) Credentials for Mail are saved in Slack - pinned posts.
   * Calender is currently on caldav and should be changed to Google Calender to make it easier
 
 ** Ekonomics
