@@ -1,7 +1,7 @@
 # Board meeting 9th of October 2018
 ## What happened after the last board meeting? 
 - Fika for Second CodeHub was around ?
-- BB and Juli had first contact with Diana and Ola
+- BB and Juli had first contact with Diana and Ola - Diana can complete our list of contacts
 - 2nd CodeHub about Hacktoberfest was success
 - Stronger connection with WiTech through attending After-Work event
 
