@@ -1,7 +1,7 @@
 # Board meeting 9th of October 2018
 ## Attendance
 - Julia
-(BB is in Linnestudenterna meeting)
+- BB
 - Lucian
 - Fartun
 - Cheab
@@ -15,6 +15,7 @@
 - William
 - Chris
 - Shukla
+- Evan
 
 ## What happened after the last board meeting? 
 - 2nd CodeHub about Hacktoberfest was success
@@ -76,18 +77,40 @@ https://github.com/Kodkollektivet/documents/blob/master/stadgar/statutes.md
 
 ## BOARD INTERNAL
 ### Photoshoot of board members
-- Chris?
+- Chris could be the photographer
+- after the big election meeting
 
 ### Teambuilding event
 - after big election meeting
-- suggestions?
+- suggestions? --> TODO: starting a thread in the board channel
 
 ### Meeting room
 - How to access the room? - person who is responsible for this room will gives us access to this room
 
 ### Accounting training
-- after this board meeting
+- Tools for accounting: Nordea, Fortnox, and Biljettkiosken
+#### Nordea
+- Nordea: yearly fee of bank account!
+- Nordea is our bank
+- Shukla, Tomas, and BB need to fill out Nordea form (need to have a Bank ID) of taking over the bank account - ASAP!!!! --> Michael needs to hand it in in the bank and we also get a new bank card
+- KK has a PlusGiro account
+
+#### Fortnox
+- Fortnox is our accounting service
+- some documents should be transferred to the new folder of accounting
+- old folders can be stored in our storage room
+- Fortnox credentials in the folder, everyone can access - it is company based
+- Skatteverket has different codes for different expenses
+- testing Fortnox account live
+- creating a new accounting year - accounting in badges --> bookings do not have to be put in in
+- archiving business records for at least 5 years
+- maybe thinking of a more automized way to do the double-entry accounting
+
+#### Biljettkiosken (Citypuls AB)
+- Michael will send us invites for Biljettkiosken
+- Biljettkiosken always takes 6kr service fee each ticket
+- for Biljettkiosken the ekonomi@kodkollektivet.se will get a bill --> see examples in the old accounting folder
 
 ## INFRASTRUCTURE
-- setting up extraordinary meeting? - Wednesday, at 10AM. Details in the channel
+- setting up extraordinary meeting? - Wednesday, 10th of October at 10AM. Details in the channel infrastructure
 - GDPR statement on Website - William has some knowledge
