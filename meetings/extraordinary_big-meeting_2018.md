@@ -1,23 +1,6 @@
 # Big Election meeting on the 23rd of October 2018
 
-# Membership
-
-## §2.1 Definition 'Member of Kodkollektivet'
-
-A person is a member of Kodkollektivet if they register in the internal communication tool used by Kodkollektivet. For this semester it will be the official Kodkollektivet Slack channel #general.
-
-## §2.2 Membership fee
-
-Membership is obtained for a semester by participating in the registration of members and payment of the membership.
-The membership will be ...kr for this semester.
-
-## §2.3 Exclusion of Member
-
-The Board is entitled to exclude a member from the association until the next general meeting if he has opposed the association’s work or damaged association's activities or reputation. The excluded must be given the opportunity to defend himself before the board before the decision. The excluded member must be discussed at the next big meeting. A decision must be made regarding a repeal of their exclusion or banning permanently. The decision is based on the majority of votes at the general meeting.
-
-
--------------------------------------------------------------------------------------------
-
+# Attendance
 
 # §1 Organisation
 
@@ -59,12 +42,25 @@ Big meetings must be recorded and the protocol is recorded in at least two copie
 
 Protocol of the big meeting shall be adjusted by the chairman of the meeting, conference secretary, and one person appointed as witness.
 
+-------------------------------------------------------
+
+# Membership
+
+## §2.1 Definition 'Member of Kodkollektivet'
+
+A person is a member of Kodkollektivet if they register in the internal communication tool used by Kodkollektivet. For this semester it will be the official Kodkollektivet Slack channel #general.
+
+## §2.2 Membership fee
+
+Membership is obtained for a semester by participating in the registration of members and payment of the membership.
+The membership will be ...kr for this semester.
+
+## §2.3 Exclusion of Member
+
+The Board is entitled to exclude a member from the association until the next general meeting if he has opposed the association’s work or damaged association's activities or reputation. The excluded must be given the opportunity to defend himself before the board before the decision. The excluded member must be discussed at the next big meeting. A decision must be made regarding a repeal of their exclusion or banning permanently. The decision is based on the majority of votes at the general meeting.
 
 
-
-# Accounting
-## Financial report of last academic year
-## Determining the next fiscal years’ budget
+-------------------------------------------------------------------------------------------
 
 # Election of board positions
 The Board is the leadership of the association's activities in accordance with the purpose, see §1.3, during the fiscal year. The Board consists at least of the following members:
@@ -129,3 +125,11 @@ It is the responsibility of the Treasurer to:
 Board members are allowed to:
 *	Participate in board meetings
 *	Have the right to vote, talk, and discuss in decisions made by the board
+
+------------------------------------------------------
+
+# Accounting
+## Financial report of last academic year
+## Determining the next fiscal years’ budget
+
+
