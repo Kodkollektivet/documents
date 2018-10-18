@@ -1,6 +1,6 @@
 # Big Election meeting on the 23rd of October 2018
 
-# Attendance
+# Attendance list
 
 # §1 Organisation
 
@@ -10,25 +10,25 @@ The association's financial year extends from 1 September to 31 August of the fo
 
 ## §1.2 Membership rights
 
-All members can attend, speak, and make proposals at the big meeting. 
+All members can attend, vote, speak, and make proposals at the big meeting. 
 
 ## §1.2.1 Temporary exclusion
 
 At the big meeting, a person can be removed from voting, speaking, or being present at the meeting. They are not allowed to be a part of a decision or even a part of the decision making process.
 
-## §1.3 Electing chair, meeting secretary, and adjustor
-## §1.3.1 Election of Chair
-.... was elected as Chair of the big meeting.
+## §1.3 Decision making
 
-## §1.3.2 Election of meeting secretary
-.... was elected as meeting secretary. The secretary also counts votes.
+Decisions are taken by simple majority. Voting by proxy is not allowed. For every decision the members have to be online in Slack and vote on the issue. Therefore, both campus and distance members can take part in the decision making process. If votes are even the president has the deciding vote. To insert a new item on the agenda required 75% majority. Under "other questions" will it not consider issues relating to costs. The big meeting is quorate.
 
-## §1.3.3 Election of adjustor
-.... was elected as adjustor of the big meeting.
+## §1.4 Electing chair, meeting secretary, and adjustor
+## §1.4.1 Election of Chair
+TODO.... was elected as Chair of the big meeting.
 
-## §1.4 Decision making
+## §1.4.2 Election of meeting secretary
+TODO.... was elected as meeting secretary. The secretary also counts votes.
 
-Decisions are taken by simple majority. Voting by proxy is not allowed. If votes are even the president has the deciding vote. To insert a new item on the agenda required 75% majority. Under "other questions" will it not consider issues relating to costs. The big meeting is quorate.
+## §1.4.3 Election of adjustor
+TODO.... was elected as adjustor of the big meeting. The adjustor double checks the taken notes by the meeting secretary.
 
 ## §1.5 Election process of board positions
 
@@ -48,11 +48,11 @@ Protocol of the big meeting shall be adjusted by the chairman of the meeting, co
 
 ## §2.1 Definition 'Member of Kodkollektivet'
 
-A person is a member of Kodkollektivet if they register in the internal communication tool used by Kodkollektivet. For this semester it will be the official Kodkollektivet Slack channel #general.
+TODO: A person is a member of Kodkollektivet if they register in the internal communication tool used by Kodkollektivet. For this semester it will be the official Kodkollektivet Slack channel #general.
 
 ## §2.2 Membership fee
 
-Membership is obtained for a semester by participating in the registration of members and payment of the membership.
+TODO Membership is obtained for a semester by participating in the registration of members and payment of the membership.
 The membership will be ...kr for this semester.
 
 ## §2.3 Exclusion of Member
@@ -63,9 +63,10 @@ The Board is entitled to exclude a member from the association until the next ge
 -------------------------------------------------------------------------------------------
 
 # §3 Election of board positions
-The Board is the leadership of the association's activities in accordance with the purpose, see §1.3, during the fiscal year. The Board consists at least of the following members:
+The Board is the leadership of the association. The Board consists at least of the following members:
 
 ## §3.1 President
+TODO
 
 It is the responsibility of the President to:
 * Represent the association and be the official correspondent in official contexts
@@ -78,15 +79,16 @@ It is the responsibility of the President to:
   * Contact / Contacted by internal members of the association ex. suggestions or complaints (internal relations).  
 
 ## §3.2 Vice President
+TODO 
 
 It is the responsibility of the Vice-President to:
 * Have a good understanding of the presidents duties and work together with them to facilitate its responsibility.
-* Perform the duties laid down in §4.5, on the occasions when the President is unable to do this.
+* Perform the duties on the occasions when the President is unable to do this.
 
 ## §3.3 Treasurer
+BB
 
 It is the responsibility of the Treasurer to:
-* Keep the policy at meetings
 * Establish the budget for the coming semester
 * Manage the association's bookkeeping. The purposes of the account management, regardless of order are:
   * To enable verification of the association's activities, with the Accountant approval
@@ -96,17 +98,37 @@ It is the responsibility of the Treasurer to:
 * At any big meeting or, on request, report the association's financial position
 * Responsible for association agreements and archiving
 
-
 ## §3.4 Board members
+TODO
 
 Board members are allowed to:
 *	Participate in board meetings
 *	Have the right to vote, talk, and discuss in decisions made by the board
 
+### §3.4.1 Inofficial positions
+Board members can have several positions in the board (inofficial positions):
+
+#### Marketing & Social Media Team
+The Marketing & Social Media Team ensures that planned events are informed about in communication channels of the associations, such as on Facebook and Slack.
+
+#### Kalmar Link
+TODO
+
+#### Fika team
+TODO
+
+#### CodeHub responsibles
+TODO
+
+#### Systems Administration
+TODO
+
 ------------------------------------------------------
 
 # §4 Accounting
 ## §4.1 Financial report of last academic year
+TODO
 ## §4.2 Determining the next fiscal years’ budget
+TODO
 
 # §Other issues
