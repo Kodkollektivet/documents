@@ -137,4 +137,4 @@ TODO
 --> Excel File
 
 # §Other issues
-?
+- Sigma server is maybe shut down soon --> using binero base package for website page
