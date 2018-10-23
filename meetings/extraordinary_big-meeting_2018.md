@@ -1,6 +1,6 @@
 # Big Election meeting on the 23rd of October 2018
 
-# Attendance list
+# Attendance list = Member list private Slack channel "big-election_2018"
 
 # §1 Organisation
 
@@ -18,7 +18,7 @@ At the big meeting, a person can be removed from voting, speaking, or being pres
 
 ## §1.3 Decision making
 
-Decisions are taken by simple majority. Voting by proxy is not allowed. For every decision the members have to be online in Slack and vote on the issue. Therefore, both campus and distance members can take part in the decision making process. If votes are even the president has the deciding vote. To insert a new item on the agenda required 75% majority. Under "other questions" will it not consider issues relating to costs. The big meeting is quorate.
+Decisions are taken by simple majority. Voting by proxy is not allowed. For every decision the members have to be online in Slack and vote on the issue. Therefore, both campus and distance members can take part in the decision making process. If votes are even the president has the deciding vote. Under "other questions" will it not consider issues relating to costs. The big meeting is quorate.
 
 ## §1.4 Electing chair, meeting secretary, and adjustor
 ## §1.4.1 Election of Chair
@@ -36,11 +36,11 @@ When choosing the positions of the board, all members are entitled to nominate a
 
 ## §1.6 Protocol process
 
-Big meetings must be recorded and the protocol is recorded in at least two copies, one of which shall be posted on the association's website and will be filed. Protocol shall be completed within two (2) weeks after a meeting.
+Big meetings must be recorded. The protocol shall be completed within two (2) weeks after a meeting.
 
 ## §1.6.1 Adjustment of protocol
 
-Protocol of the big meeting shall be adjusted by the chairman of the meeting, conference secretary, and one person appointed as witness.
+Protocol of the big meeting shall be adjusted by the chairman of the meeting, meeting secretary, and the adjustor.
 
 -------------------------------------------------------
 
@@ -109,26 +109,32 @@ Board members are allowed to:
 Board members can have several positions in the board (inofficial positions):
 
 #### Marketing & Social Media Team
-The Marketing & Social Media Team ensures that planned events are informed about in communication channels of the associations, such as on Facebook and Slack.
+The Marketing & Social Media Team ensures that planned events are informed about in communication channels of the associations, such as on Facebook and Slack. Furthermore, the team is responsible for direct marketing and all the Social Media representation of the association. The Marketing & Social Media team is also responsible for the Marketing budget of the association.
+TODO
 
 #### Kalmar Link
+The team 'Kalmar Link' is responsible for improving the existing connection with members from Kodkollektivet situated in Kalmar.
 TODO
 
 #### Fika team
+The Fika team is responsible for organizing the Fika during the regular CodeHub events. This includes the procurement, preparation, presentation, and clearing of the Fika. The Fika team is responsible for the Fika equipment and the Fika budget.
 TODO
 
 #### CodeHub responsibles
+The CodeHub responsibles are responsible to organize the content for the regular CodeHub events.
 TODO
 
 #### Systems Administration
+The team 'Systems administration' is primarily responsible for maintaining and improving Kodkollektivet's infrastructure, including servers, communication tools, mail service etc. The team is responsible for the Infrastructure budget.
 TODO
 
 ------------------------------------------------------
 
 # §4 Accounting
 ## §4.1 Financial report of last academic year
-TODO
+--> Excel file
 ## §4.2 Determining the next fiscal years’ budget
-TODO
+--> Excel File
 
 # §Other issues
+?
