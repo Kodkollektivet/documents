@@ -1,27 +1,27 @@
 # Big Election meeting on the 23rd of October 2018
 
 # Attendance list 
-Ryan Janson
-Marcus Mueller
-Michael Johansson
-Annie Göransson
-Alain Perkaz
-Ebtisam Mohammedsalih
-Cristian Babeș
-Julia Ostheimer
-Rodela Shukla
-Koushika Prasanna
-Lucian Dragoș
-Jordan Gorrell
-Christian Anders
-William Robertson
-Fartun Jama
-Hanna-Louise
-Ramine
-Yuri
-Tomas
-Cheab
-Rilind Hasangjekaj
+- Ryan Janson
+- Marcus Mueller
+- Michael Johansson
+- Annie Göransson
+- Alain Perkaz
+- Ebtisam Mohammedsalih
+- Cristian Babeș
+- Julia Ostheimer
+- Rodela Shukla
+- Koushika Prasanna
+- Lucian Dragoș
+- Jordan Gorrell
+- Christian Anders
+- William Robertson
+- Fartun Jama
+- Hanna-Louise
+- Ramine
+- Yuri
+- Tomas
+- Cheab
+- Rilind Hasangjekaj
 
 # §1 Electing chairman, meeting secretary, and adjustor
 
@@ -155,7 +155,7 @@ It is the responsibility of the Vice-President to:
 Nominees:
 Ebtisam
 Marcus
-Luci
+Lucian
 William
 
 Voting results:
@@ -244,20 +244,20 @@ Voting:
     No         = 0
     Abstain = 8 
 
-##### Systems Administration
-The team 'Systems administration' is primarily responsible for maintaining and improving Kodkollektivet's infrastructure, including servers, communication tools, mail service etc. The team is responsible for the Infrastructure budget.
+##### Infrastructure team
+This team is primarily responsible for maintaining and improving Kodkollektivet's infrastructure, including servers, communication tools, mail service etc. The team is responsible for the Infrastructure budget.
 
 People: 
     Chris 
     Marcus 
     Tomas 
-    Ramaine 
+    Ramine 
     Ryan 
     
 Voting (Voting for two responsible):
     Chris         = 12 *
     Ryan        = 8 *
-    Ramaine        = 4
+    Ramine        = 4
     Marcus        = 3
     Tomas         = 1
 
@@ -270,7 +270,7 @@ People:
     Ramine
     Yuri
     Tomas
-    koushika
+    Koushika
     Fartun
     Alex
 
@@ -285,9 +285,9 @@ Voting results:
 
 ## §4 Accounting
 ### §4.1 Financial report of last academic year
---> Excel file
+The financial report was being presented in an Excel file. This file is attached to the protocol.
 ### §4.2 Determining the next fiscal years’ budget
---> Excel File
+The budget for this academic year was being presented in an Excel file. This file is attached to the protocol.
 
 ## §Other issues
 - Sigma server is maybe shut down soon --> using Binero base package for website page
