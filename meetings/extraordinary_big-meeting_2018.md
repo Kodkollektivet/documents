@@ -52,7 +52,7 @@ Voting for William to be meeting adjustor
 
 William was elected as adjustor of the big meeting. The adjustor double checks the taken notes by the meeting secretary.
 
-#Julia Opens the meeting.
+# Julia Opens the meeting.
 
 ## §2 Organisation
 
@@ -292,4 +292,4 @@ Voting results:
 ## §Other issues
 - Sigma server is maybe shut down soon --> using Binero base package for website page
 
-#Julia calls meeting adjourned
+# Julia calls meeting adjourned
