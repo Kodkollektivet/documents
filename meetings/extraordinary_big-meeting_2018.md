@@ -34,7 +34,7 @@ Voting for Julia to be meeting chairman
 
 Julia was elected as Chairman of the big meeting.
 
-## §1.1 Election of meeting secretary
+## §1.2 Election of meeting secretary
 
 Voting for Michael to be meeting secretary
 13 = Yes
@@ -43,7 +43,7 @@ Voting for Michael to be meeting secretary
 
 Michael was elected as meeting secretary. The secretary also counts votes.
 
-## §1.2 Election of meeting adjustor
+## §1.3 Election of meeting adjustor
 
 Voting for William to be meeting adjustor
 12 = Yes
@@ -86,9 +86,9 @@ Protocol of the big meeting shall be adjusted and signed by the chairman of the 
 
 -------------------------------------------------------
 
-## §2 Membership
+## §3 Membership
 
-### §2.1 Definition 'Member of Kodkollektivet'
+### §3.1 Definition 'Member of Kodkollektivet'
 
 Voting for the definition "A person is a member of Kodkollektivet if they register in the internal communication tool used by Kodkollektivet. For this semester it will be the official Kodkollektivet Slack channel #general."
 
@@ -98,7 +98,7 @@ Voting for the definition "A person is a member of Kodkollektivet if they regist
 
 The voting result is "YES" so the definition of a member is now "A person is a member of Kodkollektivet if they register in the internal communication tool used by Kodkollektivet. For this semester it will be the official Kodkollektivet Slack channel #general."
 
-### §2.2 Membership fee
+### §3.2 Membership fee
 
 Membership is obtained for a semester by participating in the registration of members and payment of the membership.
 As a member is defined as of §2.1 the vote is to keep the membership fee as 0 kr.
@@ -110,17 +110,17 @@ Voting results:
 
 The membership will be 0 kr for this semester.
 
-### §2.3 Exclusion of Member
+### §3.3 Exclusion of Member
 
 The Board is entitled to exclude a member from the association until the next general meeting if he has opposed the association’s work or damaged association's activities or reputation. The excluded must be given the opportunity to defend himself before the board before the decision. The excluded member must be discussed at the next big meeting. A decision must be made regarding a repeal of their exclusion or banning permanently. The decision is based on the majority of votes at the general meeting.
 
 
 -------------------------------------------------------------------------------------------
 
-## §3 Election of board positions
+## §4 Election of board positions
 The Board is the leadership of the association. The Board consists at least of the following members:
 
-### §3.1 President
+### §4.1 President
 
 It is the responsibility of the President to:
 * Represent the association and be the official correspondent in official contexts
@@ -146,7 +146,7 @@ Ebtisam = 0
 Michael = 0
 Abstain = 5
 
-### §3.2 Vice President
+### §4.2 Vice President
 
 It is the responsibility of the Vice-President to:
 * Have a good understanding of the presidents duties and work together with them to facilitate its responsibility.
@@ -165,7 +165,7 @@ Marcus  = 4
 William = 0
 Abstain = 4
 
-### §3.3 Treasurer
+### §4.3 Treasurer
 
 It is the responsibility of the Treasurer to:
 * Establish the budget for the coming semester
@@ -186,13 +186,13 @@ Shukla  = 12
 Tomas   = 4
 Abstain    = 5
 
-### §3.4 Board members
+### §4.4 Board members
 
 Board members are allowed to:
 *    Participate in board meetings
 *    Have the right to vote, talk, and discuss in decisions made by the board
 
-#### §3.4.1 Inofficial positions
+#### §4.4.1 Inofficial positions
 Board members can have several positions in the board (inofficial positions):
 
 ##### Marketing & Social Media Team
@@ -274,7 +274,7 @@ People:
     Fartun
     Alex
 
-### §3.5 Decision on discharge from the Board of Directors of the previous year
+### §4.5 Decision on discharge from the Board of Directors of the previous year
 
 Voting results:
     Yes     = 16 *
@@ -283,13 +283,13 @@ Voting results:
     
 ------------------------------------------------------
 
-## §4 Accounting
-### §4.1 Financial report of last academic year
+## §5 Accounting
+### §5.1 Financial report of last academic year
 The financial report was being presented in an Excel file. This file is attached to the protocol.
-### §4.2 Determining the next fiscal years’ budget
+### §5.2 Determining the next fiscal years’ budget
 The budget for this academic year was being presented in an Excel file. This file is attached to the protocol.
 
-## §Other issues
+## §6 Other issues
 - Sigma server is maybe shut down soon --> using Binero base package for website page
 
 # Julia calls meeting adjourned
