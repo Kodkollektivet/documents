@@ -1,5 +1,18 @@
 # Board meeting 6th of November 2018
 ## Attendance
+- BB
+- Julia
+- Fartun
+- Cheab
+- Lucian
+- Ryan
+- Tomas
+- Jordan
+- Louise
+- Cris
+- Ramine
+- Yuri
+- Alain
 
 # NEW STRUCTURE OF BOARD MEETINGS
 - What happened after the last board meeting? (Report from Head of Kodkollektivet)
@@ -43,13 +56,13 @@
 
 ### Helping out - Big Data Conference
 So far For both days of the big data conference (29th and 30th of November) 5 ppl from the board helping out:
-29.11.: Cheab, Hannah Louise, Cris, Julia, Yuri
-30.11.: BB, Lucian, Annie, Marcus, Yuri
+29.11.: Cheab, Hannah Louise, Cris, Yuri, Fartun, Ramine
+30.11.: BB, Lucian, Annie, Marcus, Yuri, Julia
 --> if we organize 6-8 people each day we only have to help out half day! (shift-wise)
 
 ### Career Day Technology on the 15th of November!
 
-### Still people needed for meeting in Stockholm about a master's degree in software technology
+### Still people needed for meeting in Stockholm about a master's degree in software technology (Marcus?)
 
 ### Codeup Hackathon at Videum: https://docs.google.com/forms/d/e/1FAIpQLSfibVIPr7A15CCRLRurHR0cJ2Jb2jUmCRCx3fFbyG9Cno9Pzg/viewform
 --> post in FB!
@@ -68,11 +81,10 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 ### Teambuilding event
 #### Suggestions so far
 - BBQ
-- Escape room
-- Paint Ball/Laser Tag
-- Camping/Short weekend trip (Sa-Su)
-- Car wreck forest
-- Hiking together
+- Board gaming night
+- LAN party
+- Stars & stripes - Bowling
+- TODO: poll in the channel
 
 #### When to schedule?
 - Teambuilding activity in the next weeks
@@ -89,22 +101,27 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 - you are now responsible for the budget :)
 
 #### Fika information
-- Facebook Events - Fridays for next CodeHub: clear information on press going -> sign on fika table!
-
-?
+- Facebook Events - Fridays for next CodeHub: clear information on press going -> sign on fika table!?
 
 ### Marketing & Social Media Team
+- new updated Kodkollektivet logo --> font needs to be defined --> ASKING JOHN
+- post in board: team for corporate design
+- we need corporate identity
+- finding a slogan: Post in board channel!
+#### CodeHub Poster
+- short descripton of CodeHub --> checking our poster
+- two catchy questions
 - Hoodies - questions to the board
-- Career Day Technology
-?
 
 ### INFRASTRUCTURE
 - Thanks, Ryan!
 - Server login to main responsibles
-?
 
 ### Kalmar link
 ?
 
 ### Account management
+- sending Tomas the budget report
+- always writing on back of receipt what the purpose was for
+- always giving receitp
 ?
