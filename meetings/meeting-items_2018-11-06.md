@@ -10,6 +10,7 @@
 - Election meeting on the 23rd of November - WELCOME NEW BOARD (special section this time)
 - Fixed Lunch Lecture with Jordbruksverket about Test-Driven Development (Feb/March 2019)
 - In planning: Lunch lecture with Fortnox, Avalon soon!
+- Four of us will help out during the IT day on the 15th of Nov, Kodkollektivet will get paid for this
 
 ## Welcome new board!
 
@@ -51,6 +52,7 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 ### Still people needed for meeting in Stockholm about a master's degree in software technology
 
 ### Codeup Hackathon at Videum: https://docs.google.com/forms/d/e/1FAIpQLSfibVIPr7A15CCRLRurHR0cJ2Jb2jUmCRCx3fFbyG9Cno9Pzg/viewform
+--> post in FB!
 
 ### Hjälp campus hjälpa - Musikhjälpen 2018
 - Musikhjälpen is a nationwide charityproject that happens every year in Sweden
@@ -62,7 +64,6 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 
 ### Photoshoot of board members
 - Chris could be the photographer
-- after the big election meeting
 
 ### Teambuilding event
 #### Suggestions so far
@@ -90,15 +91,20 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 #### Fika information
 - Facebook Events - Fridays for next CodeHub: clear information on press going -> sign on fika table!
 
+?
+
+### Marketing & Social Media Team
+- Hoodies - questions to the board
+- Career Day Technology
+?
+
 ### INFRASTRUCTURE
 - Thanks, Ryan!
 - Server login to main responsibles
 ?
 
-
-### Marketing & Social Media Team
-- Hoodies - questions to the board
-- Career Day Technology
+### Kalmar link
+?
 
 ### Account management
 ?
