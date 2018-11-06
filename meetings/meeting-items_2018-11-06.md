@@ -52,6 +52,14 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 
 ### Codeup Hackathon at Videum: https://docs.google.com/forms/d/e/1FAIpQLSfibVIPr7A15CCRLRurHR0cJ2Jb2jUmCRCx3fFbyG9Cno9Pzg/viewform
 
+### Hjälp campus hjälpa - Musikhjälpen 2018
+- Musikhjälpen is a nationwide charityproject that happens every year in Sweden
+- event is broadcasted both through radio and television
+- this year´s charity will focus on "Everyone has a right to function in their own way"
+- RadioLUR in campus Växjö start an own broadcast to help collect money. We do this through RadioLUR
+- asking if you in Kodkollektivet want to talk on the broadcast for about 50 minutes (13-14 December)
+- SOMEONE INTERESTED?
+
 ### Photoshoot of board members
 - Chris could be the photographer
 - after the big election meeting
