@@ -13,6 +13,8 @@
 - Ramine
 - Yuri
 - Alain
+- Shukla
+- Koushika
 
 # NEW STRUCTURE OF BOARD MEETINGS
 - What happened after the last board meeting? (Report from Head of Kodkollektivet)
@@ -55,17 +57,16 @@
 - Improving topics list - we need your help: documents/ideas/lunch-lecture_topics.md
 
 ### Helping out - Big Data Conference
-So far For both days of the big data conference (29th and 30th of November) 5 ppl from the board helping out:
+So far For both days of the big data conference (29th and 30th of November) 6 ppl from the board helping out:
 29.11.: Cheab, Hannah Louise, Cris, Yuri, Fartun, Ramine
 30.11.: BB, Lucian, Annie, Marcus, Yuri, Julia
---> if we organize 6-8 people each day we only have to help out half day! (shift-wise)
+--> Diana will contact us with further information
 
 ### Career Day Technology on the 15th of November!
 
 ### Still people needed for meeting in Stockholm about a master's degree in software technology (Marcus?)
 
 ### Codeup Hackathon at Videum: https://docs.google.com/forms/d/e/1FAIpQLSfibVIPr7A15CCRLRurHR0cJ2Jb2jUmCRCx3fFbyG9Cno9Pzg/viewform
---> post in FB!
 
 ### Hjälp campus hjälpa - Musikhjälpen 2018
 - Musikhjälpen is a nationwide charityproject that happens every year in Sweden
@@ -104,7 +105,7 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 - Facebook Events - Fridays for next CodeHub: clear information on press going -> sign on fika table!?
 
 ### Marketing & Social Media Team
-- new updated Kodkollektivet logo --> font needs to be defined --> ASKING JOHN
+- new updated Kodkollektivet cover photo --> font needs to be defined --> ASKING JOHN
 - post in board: team for corporate design
 - we need corporate identity
 - finding a slogan: Post in board channel!
@@ -123,5 +124,5 @@ So far For both days of the big data conference (29th and 30th of November) 5 pp
 ### Account management
 - sending Tomas the budget report
 - always writing on back of receipt what the purpose was for
-- always giving receitp
+- always gkeeping receipt
 ?
