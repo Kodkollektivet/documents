@@ -7,3 +7,5 @@
 - Open Source and Free Software
 - Open Innovation
 - Office layout/components and "way of working" (working hours/resting/eating/...) for maximizing developer efficiency and happiness
+- Autonomous driving
+- Developing augmented reality apps
