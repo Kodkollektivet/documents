@@ -31,7 +31,7 @@
 - Thursday - Shift 2 (12.30-16.30):
 - Friday - Shift 1 (8.45-12): Yuri, Annie, 
 - Friday - Shift 2 (12-15): Julia, Marcus
-- I will let them know when to pick up their hoodies
+- TODO: I will let them know when to pick up their hoodies
 
 ### Lunch lectures & teacher events
 - Improving topics list - we need your help: documents/ideas/lunch-lecture_topics.md
@@ -42,7 +42,7 @@
 - this year´s charity will focus on "Everyone has a right to function in their own way"
 - RadioLUR in campus Växjö start an own broadcast to help collect money. We do this through RadioLUR
 - asking if you in Kodkollektivet want to talk on the broadcast for about 50 minutes (13-14 December)
-- SOMEONE INTERESTED?? --> BB can do it :)
+- TODO: SOMEONE INTERESTED?? --> BB can do it :)
 
 ### Photoshoot of board members
 - Chris could be the photographer
@@ -50,7 +50,8 @@
 ### Teambuilding event
 - Saturday, 24 November starting at 6pm
 - Delivery service: Hungrig.se, Maestro, onlinepizza.se, MAX
-- BB will ask VIS about how to get a room
+- TODO: BB will ask VIS about how to get a room
+- Alternative 2: Bowling
 - Drinks, snacks?
 - Fika team brings Fika stuff
 - Board games: Louping Looie, cards,
@@ -65,12 +66,10 @@
 
 #### CodeHub Poster
 - short descripton of CodeHub --> Done
-- Lucian will adapt the Code Hub poster
+- Lucian will adapt the Code Hub poster soon
 
 #### Design
-- new updated Kodkollektivet cover photo --> font needs to be defined --> ASKING JOHN
-- former font was paid one...that is a problem
-- Lucian created a new cover photo 
+- Lucian created a new cover photo --> will be uploaded soon
 
 - team for corporate design --> meeting after board meeting (slogan, fonts,...)
 
