@@ -5,8 +5,18 @@
 - Fixed Lunch Lecture with Jordbruksverket about Test-Driven Development (06.02.2019)
 - Welcome messages sent out to all companies, including new contacts (Volvo, ATEA, IBM)
 - Sponsorship Career Day :)
+- BIG Växjö Hackathon planned
 
 ## COMMON BOARD ISSUES
+### Big Data Conference (29-30/11/2018)
+- 6 people per day, working shiftwise --> we have to guarantee that the transit is smooth
+- Full names needed for Hoodies: Cheab, Louise, Cris, Yuri, Fartun, Ramine, BB,	Lucian, Annie, Marcus
+- picking up Hoodies from Copycenter in advance! (black Hoodies)
+- Thursday - Shift 1 (8.30-12.30):
+- Thursday - Shift 2 (12.30-16.30):
+- Friday - Shift 1 (8.45-12):
+- Friday - Shift 2 (12-15):
+
 ### Lunch lectures & teacher events
 - Improving topics list - we need your help: documents/ideas/lunch-lecture_topics.md
 
@@ -30,9 +40,6 @@
 - What else?
 
 ## REPORT FROM SUBTEAMS
-### Fika team
-?
-
 ### Marketing & Social Media Team
 #### Hoodies
 - outcome of survey, slogan
@@ -46,7 +53,13 @@
 - new updated Kodkollektivet cover photo --> font needs to be defined --> ASKING JOHN
 - team for corporate design --> meeting after board meeting
 
-### INFRASTRUCTURE
+### CodeHub responsibles
+?
+
+### Fika team
+- New storage room, reply from Mark
+
+### Infrastructure
 ?
 
 ### Kalmar link
@@ -54,3 +67,9 @@
 
 ### Account management
 ?
+
+## Others
+### Money from Silvia?
+
+### IT Youth Center
+
