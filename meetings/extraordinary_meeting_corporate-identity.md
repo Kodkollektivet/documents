@@ -3,6 +3,7 @@
 - Julia
 - Lucian
 - Alain
+- Tomas
 
 ## What is Corporate Identity?
 A consistent visual and sensual feeling about Kodkollektivet. The corporate identity should have a Style Guide that ensures every time Kodkollektivet makes an impression on the public, the manner, tone, look and feel is consistent with the established corporate identity.
