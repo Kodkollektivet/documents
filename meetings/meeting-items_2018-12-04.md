@@ -7,7 +7,7 @@
 - Thanks for helping out at Big Data Conference!
 - Team building event was success :)
 - Board photoshoot - done?
-- Using Zoom for Screensharing
+- Using Jitsi for Screensharing
 - IDEA: Meeting day with all companies!!! --> mingle evening with students and companies!
 
 ### Fixed Lunch Lectures:
@@ -37,7 +37,8 @@
 ### Marketing & Social Media Team
 #### Hoodies
 - KK will purchase organizational hoodies, not necessarily fairtrade and organic (outcome of votings)
-- suggestions for Hoodies
+- suggestions for Hoodies --> presentation.
+- Creating table: who wants to have an individual hoodie? 
 
 #### Welcome Fair
 - ordering KK stickers
