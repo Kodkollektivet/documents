@@ -1,5 +1,18 @@
 # Board meeting 4th of December 2018
 ## Attendance
+- Tomas
+- Marcus
+- Fartun
+- BB
+- Lucian
+- Jordan
+- Louise
+- Koushika
+- Alain
+- Julia
+- Ryan
+- Yuri
+- Annie
 
 
 ## What happened after the last board meeting? 
@@ -16,35 +29,36 @@
 - meeting next week with Fortnox and Visma
 
 ## COMMON BOARD ISSUES
+- asking Diana for a fixed weekend room?
+- Xmas celebration for Board --> TODO vote
+
 ### Lunch lectures & teacher events
 - Improving topics list - we need your help: documents/ideas/lunch-lecture_topics.md
 
 ### Hjälp campus hjälpa - Musikhjälpen 2018
-- Musikhjälpen is a nationwide charityproject that happens every year in Sweden
-- event is broadcasted both through radio and television
-- this year´s charity will focus on "Everyone has a right to function in their own way"
-- RadioLUR in campus Växjö start an own broadcast to help collect money. We do this through RadioLUR
-- asking if you in Kodkollektivet want to talk on the broadcast for about 50 minutes (13-14 December)
-- TODO: SOMEONE INTERESTED?? --> BB can do it :)
+- ToDo: writing mail - we are not participating
 
-### Using coursepress as Kodkollektivet?
+### Using coursepress as Kodkollektivet? 
+- Replying Ola and asking for detailed information
 
 ### When working on new Homepage?
-- calendar function
-- events displayed
-- tools lunch lectures: companies drag and drop topic to certain dates
+- Our approach: building a very basic, static new homepage, then adding fancy stuff
+- Project team: Alain 
+- Fancy tools: calendar function, events displayed, tools lunch lectures: companies drag and drop topic to certain dates
 
 ## REPORT FROM SUBTEAMS
 ### Marketing & Social Media Team
 #### Hoodies
 - KK will purchase organizational hoodies, not necessarily fairtrade and organic (outcome of votings)
-- suggestions for Hoodies --> presentation.
-- Creating table: who wants to have an individual hoodie? 
+- VOTE: should we open up hoodies for us board members and members of KK? Maybe alternative solution: 
+two different designs
+- suggestions for Hoodies --> presentation --> Voting on what kind of hoodie we want
 
 #### Welcome Fair
-- ordering KK stickers
+- ordering KK stickers --> TODO: Asking Michael for online shop
 - designing new roll-up?
-- additional merchadising needed?
+- Maybe printing QR code information
+- Who is helping out: Julia, Koushika
 
 #### Team corporate design
 - Font: Abadi MT Condensed Extra Bold
@@ -56,13 +70,15 @@
 ?
 
 ### CodeHub responsibles
-- Xmas CodeHub?
+- Xmas CodeHub: challenge in teams (30 mins) - prepared by Alain, Kahoot quiz (15mins) - BB
+- presents: Xmas cookies
+- people should bring their laptops
 
 ### Fika team
-?
+- should purchase Xmas cookies
 
 ### Infrastructure
-?
+- meeting after the board meeting
 
 ### Kalmar link
 - cooperation with SPIIK?
