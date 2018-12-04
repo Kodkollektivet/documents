@@ -1,0 +1,18 @@
+* Unplanned Meeting after Board meeting
+** Domain
+   - Marcus creates an account at https://www.binero.se/
+     - Ask Shuckla for org. number
+     - Get John to transfer the domain
+
+** Email server
+   - Transfer it from Chris to KK
+   - We need to talk about Uberspace with Chris before making decision
+
+** Sigma Server
+   - We need to talk to Rasmus @ Sigma to check if they still know  they're running the server
+*** Is docker running on server?
+    - Talk to John about server's current setup 
+
+** Services
+   - Ryan looks in to NextCloud and maybe also GitLab (if he feels like it and have time :)
+
