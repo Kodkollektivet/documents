@@ -13,6 +13,7 @@
 ### Fixed Lunch Lectures:
 - Softhouse about IT skills and requirements in the profession (28.01.2019)
 - Jordbruksverket about Test-Driven Development (06.02.2019)
+- meeting next week with Fortnox and Visma
 
 ## COMMON BOARD ISSUES
 ### Lunch lectures & teacher events
@@ -67,4 +68,4 @@
 - cooperation with SPIIK?
 
 ### Account management
-?
+- new Nordea card? - Update from Michael
