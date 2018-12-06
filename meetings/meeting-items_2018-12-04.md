@@ -14,12 +14,11 @@
 - Yuri
 - Annie
 
-
 ## What happened after the last board meeting? 
 - Sponsorship Career Day - 5000kr :)
 - Thanks for helping out at Big Data Conference!
 - Team building event was success :)
-- Board photoshoot - done?
+- Board photoshoot - Cris will continue individual shoots
 - Using Jitsi for Screensharing
 - IDEA: Meeting day with all companies!!! --> mingle evening with students and companies!
 
@@ -58,7 +57,7 @@ two different designs
 - ordering KK stickers --> TODO: Asking Michael for online shop
 - designing new roll-up?
 - Maybe printing QR code information
-- Who is helping out: Julia, Koushika
+- Who is helping out: Julia, Koushika, Louise
 
 #### Team corporate design
 - Font: Abadi MT Condensed Extra Bold
