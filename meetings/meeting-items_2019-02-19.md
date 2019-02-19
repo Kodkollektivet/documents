@@ -1,6 +1,15 @@
 # Board meeting 5th of February 2019
 ## Attendance
 - Julia
+- Jordan
+- Louise
+- Lucian
+- BB
+- Fartun
+- Ramine
+- Alain
+- Cheab
+- Marcus
 
 
 ## What happened after the last board meeting? 
@@ -17,14 +26,15 @@
 ### DA BIG MOVE
 - Showing layout plan
 - Treat it carefully and responsible!
-- What equipment do we need? (projector, sofas, chairs,...)
+- What equipment do we need?
 - What do we want to do in our offices?
-- Inauguration partyyyy
+- Inauguration partyyyy, inviting Softwerk to it
 
 ### Project: New Homepage
 - Our approach: building a very basic, static new homepage
 - Later - Fancy tools: calendar function, events displayed, tools lunch lectures: companies drag and drop topic to certain dates 
 - Project team: Alain, Tomas, BB
+- Text and Image content needed!
 
 ### Cooperation with Studiefrämjandet?
 - Through putting their logo on our marketing material, we could receive sponsorship
@@ -48,10 +58,11 @@
 
 ### CodeHub responsibles
 - Jordan and Louise are the new CodeHub responsibles
-- Next CodeHub in our new office?
+- Next CodeHub in our new office: 5th of March!!!
 
 ### Fika team
-- Moving equipment to new offices?
+- Moving equipment to new offices
+- Budget for Water Boiler
 
 ### Infrastructure
 - Binero account is created --> John has our account information, can transfer it
@@ -65,4 +76,4 @@
 - new Nordea card? - Update from Michael?
 - Report - Financial information
 
-ACTION PART: Moving stuff from storage room
+ACTION PART: Moving stuff from storage room and getting new chairs: After Volvo day
