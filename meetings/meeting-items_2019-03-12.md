@@ -4,7 +4,7 @@
 - Massi (not in the board)
 
 ## What happened after the last board meeting? 
-- Växjö Hackathon on 6th of April 2019! - Open.Science.Hack
+- Växjö Hackathon on 6th of April 2019! - Open.Science.Hack - Volunteers needed!
 - Hoodies have arrived :-)
 - AfterWork with Fortnox - 29/03/2019?
 - Event with Visma in May
@@ -55,3 +55,4 @@ TOTAL	1500
 
 ### Account management
 - new Nordea card? - Update from Michael?
+- Accounting training by Fortnox - 1st of April
