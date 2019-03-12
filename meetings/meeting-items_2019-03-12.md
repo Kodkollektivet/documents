@@ -2,9 +2,18 @@
 ## Attendance
 - Julia
 - Massi (not in the board)
+- Jordan
+- Lucian
+- Alain
+- Cheab
+- Fartun
+- BB
+- Marcus
+- Tomas
 
 ## What happened after the last board meeting? 
 - Växjö Hackathon on 6th of April 2019! - Open.Science.Hack - Volunteers needed!
+--> sending Diana info about Hackathon for Kompetenssamverckan!!
 - Hoodies have arrived :-)
 - AfterWork with Fortnox - 29/03/2019?
 - Event with Visma in May
@@ -13,11 +22,12 @@
 ## COMMON BOARD ISSUES
 ### EQUIPMENT NEW OFFICES
 - Beamer: Uni is even searching for better projector, we can keep the current one forever
-- Computer from Marcus?
+- Computer & speakers from Marcus can be used in office!
 - Budget of KK needs to be reevaluated, then budget for additional equipment can be negotiated
 
 ### Project: New Homepage
 - New website is online =)
+- Alain will change website to Kodkollektivet Github repository
 
 ### Cooperation with Studiefrämjandet?
 - Through putting their logo on our marketing material (posters, logo in FB title photo), we could receive sponsorship
@@ -47,12 +57,12 @@ TOTAL	1500
 ### Infrastructure
 - Binero account is created --> John has our account information, can transfer it
 - Nextcloud can be used internally, now on the Sigma server, Ryan has back-ups --> asking Ryan for account
-- When voting on Nextcloud?
+- Slack: keep having the service Nextcloud or not?  --> voting next board meeting
 
 ### Kalmar link
-- Cooperation with SPIIK for Hackathon in Växjö!
 - Meeting with Infomaker? --> ask William
 
 ### Account management
 - new Nordea card? - Update from Michael?
 - Accounting training by Fortnox - 1st of April
+- Slack: posting about open position in accounting
