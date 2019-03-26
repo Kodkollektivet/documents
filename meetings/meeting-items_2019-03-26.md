@@ -9,6 +9,9 @@
 - Julia
 - Fartun
 - Alireza
+- Ramine
+- Annie
+- Ryan
 
 ## What happened after the last board meeting? 
 - Växjö Hackathon on 6th of April 2019! - Open.Science.Hack
