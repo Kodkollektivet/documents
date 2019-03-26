@@ -4,7 +4,7 @@
 
 ## What happened after the last board meeting? 
 - Växjö Hackathon on 6th of April 2019! - Open.Science.Hack
-- AfterWork with Fortnox - 29/03/2019
+- AfterWork with Fortnox - 29/03/2019 - Wädur!
 - Event with Visma in May
 
 ## COMMON BOARD ISSUES
