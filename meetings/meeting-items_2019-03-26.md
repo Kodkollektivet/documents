@@ -1,6 +1,14 @@
 # Board meeting 26th of March 2019
 ## Attendance
-- 
+- Marcus
+- BB
+- Jordan
+- Louise
+- Lucian
+- Alain
+- Julia
+- Fartun
+- Alireza
 
 ## What happened after the last board meeting? 
 - Växjö Hackathon on 6th of April 2019! - Open.Science.Hack
@@ -14,6 +22,7 @@
 
 ### Cooperation with Studiefrämjandet?
 - BOARD HAS VOTED FOR THE COOPERATION --> Marcus as cirkelledare is in contact with Studiefrämjandet
+- TODO: Studiefrämjandet wants a short description of Kodkollektivet --> Marcus & everybody!
 - Through putting their logo on our marketing material (posters, logo in FB title photo), we could receive sponsorship
 - 3500 kr/year for fika or if you would like to invite a lecturer
 - Assigned cirkelledare needs to report CodeHubs/events to Studiefrämjandet (through web page)
@@ -24,9 +33,13 @@
 interview, what to think about when creating a CV and LinkedIn
 profile and we have also talked about the actual recritmentprocess in
 genereal?
+- Lunch lecture: interview + recrutign, if time: CV
 - recruitment company, recruiting for Ericsson & IKEA!
 
-### Board election in April/May!
+### Extra Board Election in April/May! --> vote when board election should be!!
+- one vote about 'do we need a meeting'?
+- Also voting on attendance list! - no attendece, out of board
+- Vote: not having board member positions
 
 ## REPORT FROM SUBTEAMS
 ### Marketing & Social Media Team
@@ -43,8 +56,8 @@ genereal?
 - Alireza is joining the team =)
 
 ### Fika team
-- Budget for Water Boiler and 1-2 Jug(s)
-- A cart for transporting fika/dishes between office and kitchen
+- Budget for Water Boiler and 1-2 Jug(s) - go for it!
+- A cart for transporting fika/dishes between office and kitchen --> Marcus searches for carts
 
 ### Infrastructure
 - Binero account is created --> John has our account information, can transfer it
