@@ -43,7 +43,8 @@ genereal?
 - Alireza is joining the team =)
 
 ### Fika team
-- Budget for Water Boiler
+- Budget for Water Boiler and 1-2 Jug(s)
+- A cart for transporting fika/dishes between office and kitchen
 
 ### Infrastructure
 - Binero account is created --> John has our account information, can transfer it
