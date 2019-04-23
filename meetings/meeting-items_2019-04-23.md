@@ -1,14 +1,21 @@
 # Board meeting 23rd of April 2019
 ## Attendance
-
-
+- Alain
+- Julia
+- Koushika
+- Ryan
+- Louise
+- Tomas
+- Jordan
+- Lucian
+- Annie
+- Michael
 
 ## What happened after the last board meeting? 
 - Lunch Lecture with Experis on the 24th of April
 - IST Career Mingle Evening on 2nd of May: http://career.ist.com/jobs/213418-ist-career-mingle-evening
-- Softhouse wants another chance? --> event in their place
-- Event with Visma in May
 - Softwerk invited KK
+- Posting in Board Channel: Only board members access and cleaning standard!!! - WE RISK LOOSING THE PLACE!
 
 ## COMMON BOARD ISSUES
 ### Project: New Homepage
@@ -27,6 +34,7 @@
 - AGENDA: has to be locked one week before
 - What else should we put as changes in the statutes? --> Writing down suggestions! --> creating file in GitHub
 - TODO: Tomas is searching for statutes from another organization
+- Pizza as drive to get people attending the Election --> checking budget
 
 #### Election Committe
 - Julia
@@ -41,7 +49,7 @@
 - Codehub responsible
 - Infrastructure manager
 - Fika & Logistics manager
-- Who is applying? Any recommendations? Idea of William: Social Media posts?
+- Who is applying? Any recommendations?
 
 ### Old/New Board Celebration
 - Event in May
@@ -49,7 +57,7 @@
 
 ## REPORT FROM SUBTEAMS
 ### Marketing & Social Media Team
-?
+- Asking Diana: Strict with posters?
 
 ### Account management
 - Meeting afterwards
