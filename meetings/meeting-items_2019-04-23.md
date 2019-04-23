@@ -33,7 +33,8 @@
 - May: New president will closely work together with Julia
 - AGENDA: has to be locked one week before
 - What else should we put as changes in the statutes? --> Writing down suggestions! --> creating file in GitHub
-- TODO: Tomas is searching for statutes from another organization
+- TODO Tomas: Proper English version of Swedish Statues
+- Until Friday people can send me suggestions for changing statutes
 - Pizza as drive to get people attending the Election --> checking budget
 
 #### Election Committe
