@@ -38,6 +38,7 @@
 - Codehub responsible
 - Infrastructure manager
 - Fika & Logistics manager
+- Who is applying? Any recommendations?
 
 ### Cooperation with Wädur
 - Keep it as it as now
