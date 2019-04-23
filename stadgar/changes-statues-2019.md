@@ -1,8 +1,4 @@
 ```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-
 # Statutes for Kodkollektivet
 
 -------------------------------------------------------------------------------------
@@ -33,13 +29,12 @@ For the dissolution of the association requires approval by at least 90% majorit
 
 # Membership
 
-## §2.1 Student Member
++ ## §2.1 Student Member
 
-A person is entitled to student membership as long as they are registered as a student at Linnaeus University.
++ A person is entitled to student membership as long as they are registered as a student at Linnaeus University.
 
-## §2.2 Supporting Member
-.m
-A person who is not entitled to student membership can become a supporting member, and thereby permitted to participate in the association's activities.
++ ## §2.2 Supporting Member
++ A person who is not entitled to student membership can become a supporting member, and thereby permitted to participate in the association's activities.
 
 ## §2.3 Membership fee
 
@@ -289,3 +284,4 @@ If any official(s) resigns within the organization, an investigation of the pers
 ## §5.5 Rights
 
 The accountant has the right to attend board meetings. The accountant shall have an understanding of the association's assets.
+```
