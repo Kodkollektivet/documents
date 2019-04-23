@@ -29,12 +29,15 @@ For the dissolution of the association requires approval by at least 90% majorit
 
 # Membership
 
-+ ## §2.1 Student Member
+- ## §2.1 Student Member
 
-+ A person is entitled to student membership as long as they are registered as a student at Linnaeus University.
+- A person is entitled to student membership as long as they are registered as a student at Linnaeus University.
 
-+ ## §2.2 Supporting Member
-+ A person who is not entitled to student membership can become a supporting member, and thereby permitted to participate in the association's activities.
+- ## §2.2 Supporting Member
+- A person who is not entitled to student membership can become a supporting member, and thereby permitted to participate in the association's activities.
+
++ ## §2.1 Member
++ A person is a member of Kodkollektivet if they register in the internal communication tool used by Kodkollektivet.
 
 ## §2.3 Membership fee
 
@@ -65,7 +68,9 @@ The Board is entitled to exclude a member from the association until the next ge
 
 ## §3.1 Fiscal year
 
-The association's financial year extends from 1 September to 31 August of the following calendar year.
+- The association's financial year extends from 1 September to 31 August of the following calendar year.
+
++ The association's financial year extends from 1 May to 30 April of the following calendar year.
 
 ## §3.2 Big meeting
 
@@ -73,16 +78,29 @@ A big meeting is when the most important decisions are made
 
 ## §3.2.1 Memebership rights
 
-All members can attend, speak, and make proposals at the big meeting. Only student members automatically have the right to vote. Big meetings can provide temporary voting to support members by majority vote.
+- All members can attend, speak, and make proposals at the big meeting. Only student members automatically have the right to vote. Big meetings can provide temporary voting to support members by majority vote.
+
++ All members can attend, speak, and make proposals at the big meeting. Big meetings can provide temporary voting to support members by majority vote.
 
 ## §3.2.2 Summons
 
-An invitation to the big meeting, and a preliminary agenda, must be posted on the association's website at least two (2) weeks before the scheduled date.
+- An invitation to the big meeting, and a preliminary agenda, must be posted on the association's website at least two (2) weeks before the scheduled date.
+
++ The big meeting, and a preliminary agenda, must be announced on the association's Internet presence, e.g. Social Media, internal communication tool or website, at least two (2) weeks before the scheduled date.
 
 ## §3.2.3 Agenda
 
 
-The final agenda must be posted on the association's website not later than one (1) week before the scheduled date of the general meeting. After this, the agenda may not be changed before the meeting. Each agenda must contain at least the following points:
+- The final agenda must be posted on the association's website not later than one (1) week before the scheduled date of the general meeting. After this, the agenda may not be changed before the meeting. Each agenda must contain at least the following points:
+* Election of Chair
+* Election of meeting secretary
+* Selection of person to count votes
+* Determination of the voting list
+* Decision on meeting’s statutory proclamation
+* Motions and Bills
+* Other questions
+
++ The final agenda must be posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, not later than one (1) week before the scheduled date of the general meeting. After this, the agenda may not be changed before the meeting. Each agenda must contain at least the following points:
 * Election of Chair
 * Election of meeting secretary
 * Selection of person to count votes
@@ -113,7 +131,7 @@ At the big meeting, a person can be removed from voting, speaking, or being pres
 
 ## §3.2.8 Protocol
 
-Big meetings must be recorded and the protocol is recorded in at least two copies, one of which shall be posted on the association's website and will be filed. Protocol shall be completed within two (2) weeks after a meeting.
+Big meetings must be recorded and the protocol is recorded in at least two copies, one of which shall be posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, and one will be filed. Protocol shall be completed within two (2) weeks after a meeting.
 
 
 ## §3.2.9 Adjustment of protocol
@@ -123,7 +141,7 @@ Protocol of the big meeting shall be adjusted by the chairman of the meeting, co
 
 ## §3.3 Semester big meeting
 
-In the spring and fall of each fiscal year, a big meeting must be held. This is called the semester meeting. Semester meeting agenda, in addition to those mentioned in §3.2.3, are at least these points:
+- In the spring and fall of each fiscal year, a big meeting must be held. This is called the semester meeting. Semester meeting agenda, in addition to those mentioned in §3.2.3, are at least these points:
 * Establishment of next fiscal years’ membership
 * Selection of the next fiscal years’ Board
 * Selection of the next fiscal years’ Accountant
@@ -132,6 +150,8 @@ In the spring and fall of each fiscal year, a big meeting must be held. This is 
 * Previous financial board's financial report
 * The Accountant’s review of the previous financial board's work
 * Resolution on the discharge of the previous financial year by the Board
+
++ - In the spring of each fiscal year, a big meeting must be held. This is called the semester meeting. Semester meeting agenda, in addition to those mentioned in §3.2.3, are at least these points:
 
 
 ## §3.3.1 Extra big meeting
@@ -195,7 +215,9 @@ Board meetings are like big meetings where they can call in people, see §3.2.7
 
 ## §4.3 Protocol
 
-Board meetings must be recorded and the protocol is recorded in at least two copies, one of which shall be posted on the association's website and will be filed. The protocol must be approved by the chairman and the secretary. The protocol shall be completed within two (2) weeks after a meeting.
+- Board meetings must be recorded and the protocol is recorded in at least two copies, one of which shall be posted on the association's website and will be filed. The protocol must be approved by the chairman and the secretary. The protocol shall be completed within two (2) weeks after a meeting.
+
++ Board meetings must be recorded and the protocol will be filed.
 
 
 ## §4.4 Signing of the Organization
