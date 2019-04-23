@@ -18,6 +18,9 @@
 - BOARD HAS VOTED FOR THE COOPERATION --> Marcus as cirkelledare is in contact with Studiefrämjandet
 - Assigned cirkelledare needs to report CodeHubs/events to Studiefrämjandet (through web page)
 
+### Cooperation with Wädur
+- Keep it as it as now
+
 ### Board Election on 7th of May!!!
 - Scheduled before summer break to not have the problem of a "dead summer"/loosing company contacts
 - May: New president will closely work together with Julia
@@ -38,10 +41,11 @@
 - Codehub responsible
 - Infrastructure manager
 - Fika & Logistics manager
-- Who is applying? Any recommendations?
+- Who is applying? Any recommendations? Idea of William: Social Media posts?
 
-### Cooperation with Wädur
-- Keep it as it as now
+### Old/New Board Celebration
+- Event in May
+- eg. BBQ
 
 ## REPORT FROM SUBTEAMS
 ### Marketing & Social Media Team
@@ -58,4 +62,5 @@
 
 ### Infrastructure
 - Voted: We keep Netcloud as service :)
+- Taking Nextcloud further: Talk?
 - What are ToDos for next board?
