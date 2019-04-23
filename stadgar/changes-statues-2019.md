@@ -186,10 +186,10 @@ The Board is the leadership of the association's activities in accordance with t
 * Chairman, see §4.5
 * Vice Chairman, see §4.6
 * Treasurer, see §4.7
-* Accountant, see §4.8
-* Internal Relations, see §4.9
-* External Relations, see $ 4.9
-* Board of Advisors, see $ 4.10
+- * Accountant, see §4.8
+- * Internal Relations, see §4.9
+- * External Relations, see $ 4.9
+- * Board of Advisors, see $ 4.10
 
 
 ## §4.1 Rights and Responsibilities
@@ -255,29 +255,30 @@ It is the responsibility of the Treasurer to:
 * At any big meeting or, on request, report the association's financial position
 * Responsible for association agreements and archiving
 
-## §4.8 Accountant
+- ## §4.8 Accountant
 
-It is the responsibility of the accountant to:
-* See §5
+- It is the responsibility of the accountant to:
+- * See §5
 
 
-## §4.9 External/Internal Relations
+- ## §4.9 External/Internal Relations
 
-It is the responsibility relations managers to:
-* Represent the Board in an arbitrary manner and is responsible for communication to and from the association. These positions serve as the board's spokesperson. For example:
-  * Contact / Contacted by external companies or organizations ex. Events (External Relations).
-  * Contact / Contacted by internal members of the association ex. suggestions or complaints (internal relations).  
+- It is the responsibility relations managers to:
+- * Represent the Board in an arbitrary manner and is responsible for communication to and from the association. These positions serve as the board's spokesperson. For example:
+-  * Contact / Contacted by external companies or organizations ex. Events (External Relations).
+-  * Contact / Contacted by internal members of the association ex. suggestions or complaints (internal relations).  
 
-## §4.10 Board Advisors
+- ## §4.10 Board Advisors
 
-Board Advisor is allowed to:
-*	Participate in meetings
-*	Have the right to talk and discuss
-Board Advisor does not hold the right to:
-*	Elect Board  
+- Board Advisor is allowed to:
+- *	Participate in meetings
+- *	Have the right to talk and discuss
+- Board Advisor does not hold the right to:
+- *	Elect Board  
 ---------------------------------
 
-# §5 Accountant
+- # §5 Accountant
+- But who will pay the accountant? Accountant is normally full-time accounting professional.
 
 An accountant should be selected on the big meeting to review the association's activities. The accountant should act as both facts and figures accountant. The auditor shall be of age and must not be biased.
 
