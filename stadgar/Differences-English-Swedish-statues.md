@@ -1,6 +1,7 @@
 # Differences in English and Swedish version of statutes
 
 TIP: To change statutes 75% majority in general meeting is required!!!
+- Sending changes statutes to Linnestudenterna, bank/Skatteverket/Bolagsverket (when changing financial year)
 
 ## §2.2 Supporting Member (does not exist in Swedish version, irrelevant)
 
