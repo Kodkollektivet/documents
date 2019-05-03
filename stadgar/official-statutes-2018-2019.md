@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------
 
-# Organization (DONE)
+# Organization
 
 ## §1.1 Name
 
@@ -26,7 +26,7 @@ The dissolution of the association requires approval of at least a 90% majority 
 
 -------------------------------------------------------------------------------------
 
-# Membership (DONE)
+# Membership
 
 ## §2.1 Membership
 
@@ -51,7 +51,7 @@ The Board is entitled to exclude a member from the association until the next ge
 
 
 
-# §3 Organisation (DONE)
+# §3 Organisation
 
 ## §3.1 Financial year
 
@@ -155,7 +155,7 @@ Under special circumstances the board can, after a written consent from a board 
 *	Accountant
 
 
-# §4 The Board (in progress)
+# §4 The Board
 
 The board manages the association's activities in accordance with
 the purpose, see §1.3, during the financial year. The board consists  of
