@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------
 
-# Organization
+# §1 Organization
 
 ## §1.1 Name
 
@@ -26,7 +26,7 @@ The dissolution of the association requires approval of at least a 90% majority 
 
 -------------------------------------------------------------------------------------
 
-# Membership
+# §2 Membership
 
 ## §2.1 Membership
 
@@ -37,12 +37,12 @@ student at Linnaeus University and paid membership for the semester.
 
 Membership is obtained for a semester by participating in the registration of members and payment of the membership.
 
-## §2.2.2 Exceptions
+## §2.2.1 Exceptions
 
 Current board members and the accountant pay no membership fee, however
 they are still members of the association. 
 
-## §2.5 Exclusion of Member
+## §2.3 Exclusion of Member
 
 The Board is entitled to exclude a member from the association until the next general meeting if he has opposed the association’s work or damaged association's activities or reputation. The excluded must be given the opportunity to defend himself before the board before the decision. The excluded member must be discussed at the next big meeting. A decision must be made regarding a repeal of their exclusion or banning permanently. The decision is based on the majority of votes at the general meeting.
 
