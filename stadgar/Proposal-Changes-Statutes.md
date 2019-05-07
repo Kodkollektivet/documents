@@ -31,22 +31,16 @@ The association's activities are governed by these statutes. To change the statu
 
 ## §3.2 General meeting
 
-+ A call to a general meeting, as well as a preliminary
-agenda §3.2.1, is posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, at least two (2)
-weeks before the due date.
++ A call to a general meeting, as well as a preliminary agenda §3.2.1, is posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, at least two (2) weeks before the due date.
 
-- A call to a general meeting, as well as a preliminary
-agenda §3.2.1, is posted on the association's website at least two (2)
-weeks before the due date.
+- A call to a general meeting, as well as a preliminary agenda §3.2.1, is posted on the association's website at least two (2) weeks before the due date.
 
 
 ## §3.2.6 Protocol
 
-+ General meetings must be recorded. These should be posted on the association's
-Internet presence, e.g. Social Media, internal communication tool or website, and must be archived. The protocol must be completed within four (4) weeks after a meeting.
++ General meetings must be recorded. These should be posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, and must be archived. The protocol must be completed within four (4) weeks after a meeting.
 
-- General meetings must be recorded. These should be posted on the association's
-website and must be archived. The protocol must be completed within four (4) weeks after a meeting.
+- General meetings must be recorded. These should be posted on the association's website and must be archived. The protocol must be completed within four (4) weeks after a meeting.
 
 
 ## §3.3 Semester meeting
@@ -61,12 +55,8 @@ website and must be archived. The protocol must be completed within four (4) wee
 
 ## §4.3 Protocol
 
-+ Board meetings must be recorded. These should be posted on the association's
-Internet presence, e.g. Social Media, internal communication tool or website, and must be archived. Minutes must be completed within four
-(4) weeks after a meeting.
++ Board meetings must be recorded. These should be posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, and must be archived. Minutes must be completed within four (4) weeks after a meeting.
 
-- Board meetings must be recorded. These should be posted on the association's
-website and must be archived. Minutes must be completed within four
-(4) weeks after a meeting.
+- Board meetings must be recorded. These should be posted on the association's website and must be archived. Minutes must be completed within four (4) weeks after a meeting.
 
 ```
