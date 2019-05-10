@@ -29,15 +29,15 @@ For/Against/Abstain
 
 ## Meeting chair
 
-- Only Julia proposed: 18/0/0
+- Only Julia proposed: 18/1/0
 
 ## Meeting secretary
 
-- Only Ryan proposed: 18/0/0
+- Only Ryan proposed: 18/0/1
 
 ## Meeting adjustor
 
-- Only Anton proposed: 18/0/0
+- Only Anton proposed: 18/0/1
 
 ## Announcement of meeting
 
