@@ -1,4 +1,4 @@
-# Statutes for Kodkollektivet (Version: 03/05/2019)
+# Statutes for Kodkollektivet (Version: 10/05/2019)
 
 -------------------------------------------------------------------------------------
 
