@@ -19,8 +19,8 @@
 16. Fartun
 17. Koushika
 18. Mureil
-19. Andreas
-20. Friend of Lucian?
+19. Andreas 
+20. Nathaniel
 
 # Vote format
 For/Against/Abstain
