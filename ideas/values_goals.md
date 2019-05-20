@@ -1,6 +1,22 @@
 # Values and Goals for Kodkollektivet, 2019-2020
 
-##Ruslan
+## Louise
+### Goals & Vision
+- Kodkollektivet should be a open space for ideas and cooperation between members
+ - To acheive this it is important that the members feel welcome
+ - That there is a venue for discussion 
+ - The office has been good with this but maybe also the university can be a good place, if when we go back we figure out how to make a lecture hall more OK to make discussions happen.
+ - The board has an obligation to "blow wind in the sails" of the ideas of the members
+ - To be positive towards ideas
+ - To maybe feel the waters with companies/the university, if there can be sponsorship or other possibilities to make the ideas realisable
+ - Kodkollektivet should be a link between the trade and industry(näringslivet), and the students at LNU.
+ - Companies are approached to give talks about topics students are interested in
+ - Companies are approached to invite students to them (like softwerk invited the board), to network and establish a connection between business and studies.
+ - For this to be successful maybe we'd have to adjust the amount of people showing up?
+ - And also have a clear agenda of what the companies are to do when they invite us, so that it does not turn into only a work-for-us-sales pitch
+ - Kodkollektivet should actively seek out opportunities to give to their members for example through close cooperation with the university, with the student union and with other student organisations
+
+## Ruslan
 ### Goals
 - Provide knowledge and opportunities to those who are looking for them
 - Expand as association. Become famous and recognisable
