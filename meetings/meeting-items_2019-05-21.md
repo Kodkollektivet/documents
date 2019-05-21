@@ -27,6 +27,7 @@
 ### Treasurer + Account management
 - Internet banking credentials
 - Reciepts procedure
+- Mail with OSH from Juli
 
 ### President & Vice
 - Access Cards
