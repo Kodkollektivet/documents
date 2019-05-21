@@ -51,3 +51,17 @@
 - Being open and welcoming
 - Teamwork, inclusivity and a collaborative approach on all our matters
 - Ongoing professional & personal development of members
+
+## BB
+### Goals
+- To integrate both international and Swedish students.
+- Working towards being a member-focused association.
+- Collaborate with university staff or pHD students more often.
+- To have a set of rules for the board (for members too?)
+- Strength our relationship with "new" companies.
+
+### Values 
+- Be open minded to new ideas but also new students. 
+- To be a fun association in a professional way.
+- Growing passion for learning.
+
