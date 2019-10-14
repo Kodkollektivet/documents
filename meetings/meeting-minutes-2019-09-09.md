@@ -1,42 +1,44 @@
-# Board meeting 19th of August 2019
-### §1 Opening of the meeting
-### §2 Election of Adjuster
+# Board meeting 9th of September 2019
+### §18 Opening of the meeting
+### §19 Election of Secretary
+### §20 Election of Adjuster
 	Adjuster - BB
 	Chairperson - Ruslan
-### §3 Approval of previous minutes
+
+### §21 Approval of previous minutes
 	- Approved
-### §4 Approval of the Agenda
+### §22 Approval of the Agenda
 	- Approved
-### §5 Next meeting
+### §23 Next meeting
 	
 	- Tuesday, September 24th, 2019
 
-### §6 Infrastructure
+### §24 Infrastructure
 - Domain transfer
 	* Ruslan: Domain transfer still in progress, still waiting on John.
 - Youtube channel
 	* Record first CodeHub for editing practice, though not posting due to the general topic
 
-### §7 CodeHub
+### §25 CodeHub
 - Preparation for the first code hub (17 Sep)
 	* Lucian gives introduction to Kodkollektivet
 	* Intro to two programs by BB and Marcus
 	* Kahoot - Most points over course of the semester gets a prize? Or one small prize per CodeHub? Tabled until next meeting
 	* Mingling
 
-### §8 Marketing
+### §26 Marketing
 - Display board in H building
 - General post about Kodkollektivet on Vaxjo Campus
 	* Post about CodeHubs and post link
 
-### §9 Logistics
+### §27 Logistics
 - List of all "things" owned by Kodkollektivet
 	* Tabled again
 
-### §10 Treasurer + Account management
+### §28 Treasurer + Account management
 - Reciepts procedure
 
-### §11 President & Vice
+### §29 President & Vice
 - OSH Credentials
 - Visma Afterschool-Afterwork (need to set a date)
 - New opportunities:
@@ -60,7 +62,7 @@
 
    collaboration with ITgarden
 
-### §12 Upcoming activities/events
+### §30 Upcoming activities/events
 - First code hub (17 Sep)
 - Microbit Workshop(1st October?)
 - Virtual Box Workshop (1st November?)
@@ -68,15 +70,15 @@
 - Big Data Conference (5-6 Dec)
 - Math Biannual (16-17 Jan)
 
-### §13 Previous activities/events
-### §14 Office matters
+### §31 Previous activities/events
+### §32 Office matters
 - New office	
-### §15 Other issues
+### §33 Other issues
 
 - Semester Meeting
 	* See if date can be settled on Slack, as time is getting away from us.
 
-### §16 Meeting adjourned
+### §34 Meeting adjourned
 
 
 Attendance:
