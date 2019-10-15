@@ -27,7 +27,9 @@ https://github.com/Kodkollektivet/documents/blob/master/meetings/meeting-minutes
 ### §44 President & Vice
 - Innovation Lab
 - Wadur meeting
-- Dates of possible events
+- Date for myCareer (Nailing the job interview event)
+- Date for Visma
+- Dates for Lunch Lectures and new topics
 - SPIIK cooperation as they want to make a LAN
 
 ### §45 Upcoming activities/events
