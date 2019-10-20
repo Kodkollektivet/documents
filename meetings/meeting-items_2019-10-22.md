@@ -11,6 +11,7 @@ https://github.com/Kodkollektivet/documents/blob/master/meetings/meeting-minutes
 - Recording of first CodeHub
 
 ### §40 CodeHub
+- Start CodeHubs in Videum's facility
 
 ### §41 Marketing
 - Display board in H building
@@ -19,6 +20,9 @@ https://github.com/Kodkollektivet/documents/blob/master/meetings/meeting-minutes
 
 ### §42 Logistics
 - List of all "things" owned by Kodkollektivet
+- Confirmation that we don't have softwerk's equipment furniture
+- Confirmation that we don't have Vedium's furniture
+- Selling equipment/furniture
 - Average fika cost, does it need changes?
 
 ### §43 Treasurer + Account management
