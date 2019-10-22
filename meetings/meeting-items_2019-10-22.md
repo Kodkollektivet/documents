@@ -1,7 +1,7 @@
 # Board meeting 22nd of October 2019
 
 ### §35 Opening of the meeting
-### §36 Election of Adjuster
+### §36 Election of Secretary & Adjuster
 ### §37 Approval of previous minutes
 https://github.com/Kodkollektivet/documents/blob/master/meetings/meeting-minutes-2019-09-09.md
 
