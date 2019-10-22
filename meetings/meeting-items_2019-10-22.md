@@ -35,8 +35,10 @@ https://github.com/Kodkollektivet/documents/blob/master/meetings/meeting-minutes
 - Date for Visma
 - Dates for Lunch Lectures and new topics
 - SPIIK cooperation as they want to make a LAN
+- Linnestudenterna Statute Changes & Contract Update
 
 ### §45 Upcoming activities/events
+- LNU Karriar "How to nail your interview"
 - IT Career Day + Surrounding events (11th Nov)
 - Big Data Conference (5-6 Dec)
 - Math Biannual - Providing volunteers(16-17 Jan)
