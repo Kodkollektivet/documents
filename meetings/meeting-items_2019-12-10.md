@@ -24,6 +24,9 @@ https://github.com/Kodkollektivet/documents/blob/master/meetings/meeting-items_2
 
 ### §60 Upcoming activities/events
 - Math Biannual - Providing volunteers(16-17 Jan)
+  - [Job Description](../Utskick_studentföreningarna_garderob.pdf)
+  - https://lnu.se/mot-linneuniversitetet/konferenser/matematikbiennalen/
+  - https://matematikbiennalen2020.se/Hem
 
 ### §61 Previous activities/events
 ### §62 Office matters
