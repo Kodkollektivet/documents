@@ -21,6 +21,7 @@ https://github.com/Kodkollektivet/documents/blob/master/meetings/meeting-items_2
 ### §58 Treasurer + Account management
 
 ### §59 President & Vice
+- Softhouse event reply
 
 ### §60 Upcoming activities/events
 - Math Biannual - Providing volunteers(16-17 Jan)
