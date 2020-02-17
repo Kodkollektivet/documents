@@ -1,0 +1,93 @@
+Board meeting minutes 21st of Jan 2020
+
+### Opening of the meeting
+Ruslan opened the meeting at 17:15.
+
+### Election of Secretary & Adjuster
+Lucian is nominated and elected as the meeting secretary.
+Marcus is nominated and elected as the meeting adjuster.
+
+### Approval of previous minutes
+The previous meeting minutes were revisited and approved by the meeting.
+
+### Approval of the Agenda
+The meeting agenda is aproved by the meeting.
+
+### Infrastructure
+- We lost our server
+The server that was hosted by Sigma is lost and at the moment the website is hosted on Ruslan's personal server.
+Marcus talked about the posibility of hosting a server using the free services provided by the Git Student (Digital Ocean) accounts of the board members.
+The other option would be to have a locally hosted server on an older machine (either the computer in the storage or something else)
+
+- Recording of last speaker - any contacts?
+His personal facebook profile: https://www.facebook.com/victor.roman.503
+
+- Recording of "How to nail a job interview"
+The editing of the video is still in progress.
+
+### CodeHub
+- Next CodeHub 28th of Jan
+John said that he is willing to do a CodeHub in the future, so he can be contacted for the following occurence
+For this one, we will contact Tomas to propose doing his Python Workshop
+Another option is to have an open discussion type of event.
+
+It would be important to mention that we have the position of Infrastructure and CodeHub & Logistics helpers during the following weeks.
+
+### Marketing
+The cheat sheet will be updated and reposted by Jordan
+
+### Logistics
+- Selling equipment/furniture
+The meeting decided to repost the furniture that's left to sell as it can now target the newly arrived students
+Ruslan put together a list of all the furniture items that were sold or need to be sold.
+
+### Treasurer + Account management
+
+### President & Vice
+- Mr President
+Since it's the middle of the year, in order to make the transition smooth, the board nominates Ruslan, the current Infrastructure manager to the position of President that just became vacant after Lucian resigned (attached document).
+The board elected Ruslan as the President.
+
+- Softhouse event reply
+Need to mail them back with the exact date for the event and Diana sugested that we should have a back-up speaker, since the last time they cancelled with a one-day-notice
+TO-DO: Mail Softhouse and tell them that the first few weeks of Feb work best for us and ask for more details.
+
+- Math Biennalen 
+Marcus sent a mail to appologise about the miscomunication regarding providing the volunteers for the event.
+
+# MailBox
+- Checking and Sharing
+The procedure should be that whenever a mail is considered of high importance, the mail should be flagged
+The mails that were not replied to, need to be kept as "read".
+
+# GitHub
+- Need to reorganise
+The documents uploaded on the GitHub are a bit messy and should be reorganized.
+
+### Upcoming activities/events
+ * Welcome fair 23/1
+We decided to do a Kahoot chalange with a prize at the end.
+Ruslan, Marcus and Jordan will help out.
+TODO: Buy the prize, buy snacks, prepare Kahoot.
+ 
+ * Kompetenssamverkan IT på Videum Science Park – Stefan Uppman bjuder .
+registration before 24/1
+
+8:30-10:30 on the 28th
+
+### Previous activities/events
+
+### Office matters
+  - list of current sells
+  - Selling the rest of furniture
+    mentioned in Logistics point.
+
+### Other issues
+The passwords and other credentials will be stored in dropbox.
+
+We can request a slack channel from the Coursepress workspace Johan "Latet" in Kalmar
+
+Videum VR - There will be two events, on the 5th and 25th of February and there are volunteers needed.
+
+### Meeting adjourned
+Meeting is adjurned at 18:40.
