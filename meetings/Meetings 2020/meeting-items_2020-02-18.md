@@ -24,10 +24,11 @@
  
 ### Treasurer + Account management
 - Income & Outcome, current status
+
 ### President & Vice
 - Slack channel at course press
 
-# GitHub
+### GitHub
 - Need to reorganise
 
 ### Upcoming activities/events
