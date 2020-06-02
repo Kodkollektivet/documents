@@ -58,7 +58,6 @@ A member may exit from the association by written notice to the Board which shal
 
 The Board is entitled to exclude a member from the association until the next general meeting if he has opposed the association’s work or damaged association's activities or reputation. The excluded must be given the opportunity to defend himself before the board before the decision. The excluded member must be discussed at the next big meeting. A decision must be made regarding a repeal of their exclusion or banning permanently. The decision is based on the majority of votes at the general meeting.
 
-
 -------------------------------------------------------------------------------------------
 
 
@@ -79,7 +78,7 @@ All members can attend, speak, and make proposals at the big meeting. Only stude
 
 ## §3.2.2 Summons
 
-An invitation to the big meeting, and a preliminary agenda, must be posted on the association's website at least two (2) weeks before the scheduled date.
+A call to a big meeting, as well as a preliminary must be posted  posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, at least two (2) weeks before the due date.  (ed. 2019)
 
 ## §3.2.3 Agenda
 
@@ -197,7 +196,7 @@ Board meetings are like big meetings where they can call in people, see §3.2.7
 
 ## §4.3 Protocol
 
-Board meetings must be recorded and the protocol is recorded in at least two copies, one of which shall be posted on the association's website and will be filed. The protocol must be approved by the chairman and the secretary. The protocol shall be completed within two (2) weeks after a meeting.
+Board meetings must be recorded and the protocol is recorded in at least two copies, one of which shall be posted on the association's website and will be filed. The protocol must be approved by the chairman and the secretary and posted on the association's Internet presence, e.g. Social Media, internal communication tool or website, and must be archived. Minutes must be completed within four (4) weeks after a meeting. (ed. 2019)
 
 
 ## §4.4 Signing of the Organization
