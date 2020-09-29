@@ -1,0 +1,462 @@
+#+TITLE: Emacs Org mode
+#+AUTHOR: John Herrlin
+#+DATE: 2020-09-29
+
+#+STARTUP: content
+#+OPTIONS: toc:nil
+#+roam_alias:
+#+roam_tags:
+
+
+* Presentation overview
+
+  - Introduction
+
+  - Overview of Emacs
+
+  - Emacs features
+
+  - Use cases
+
+* John Herrlin
+
+  - Software developer at Fortnox.
+
+  - Self employed doing Clojure projects.
+
+  - Studied Network Security here at LNU.
+
+  - One of the founders of Kodkollektivet.
+
+  - Emacs enthusiast.
+
+* Emacs
+
+  "An extensible, customizable, free/libre text editor — and more."
+
+
+  Initial release in 1976 and latest stable release in August 2020.
+
+
+  A 44 years old text editor have solved problems for a long time.
+
+
+  Emacs is like PyCharm, Intellij, Sublime and the other text editors.
+
+* Who uses Emacs?
+
+  - Academics
+
+  - Hackers
+
+  - Mathematicians
+
+  - Programmers
+
+  - Sysadmins
+
+  - Writers
+
+* What I use Emacs for
+
+  - Programming
+
+  - Writing
+
+  - Email
+
+  - Git
+
+  - IRC (Kodkollektivet on IRC?)
+
+  - RSS
+
+* Org mode
+
+
+  Org mode is a mode within Emacs.
+
+
+  "Org mode is for keeping notes, maintaining TODO lists, planning
+
+  projects, and authoring documents with a fast and effective
+
+  plain-text system."
+
+* Lets get started
+
+
+  We will now go through what Emacs can do!
+
+* Text markup
+
+
+  *bold*
+
+  /italic/
+
+  =verbetim=
+
+  +strike+
+
+* Numbered lists
+
+
+  1. AA
+  2. DDDDD
+  3. CCCC
+  4. BBB
+
+
+  Why is the list not sorted?!
+
+
+  They can be moved up and down with ALT + UP/DOWN.
+
+* Checklist
+
+
+  - [ ] Do this thing
+
+  - [ ] Then do this
+
+  - [ ] Last, do this
+
+
+  Boxes can be checked using =C-c C-c=
+* Inline images
+
+
+  [[./kodkollektivet.jpg]]
+
+
+
+
+  (org-display-inline-images)
+
+* Internal links
+  <<internal-links>>
+
+
+  Anchors can be placed anywhere in the document, to follow a link use
+  =C-c C-o=
+
+
+  #+BEGIN_SRC text
+    <<internal-links>>                This is the anchor
+    [[internal-links][Link to top]]   This is the link
+  #+END_SRC
+
+
+  [[internal-links][Link to top]]
+
+* Link to file
+
+  You can create links to files, to follow a link use =C-c C-o=
+
+  This link will take you to row 27 in the core.clj file.
+
+  [[file:~/git/rete/src/server/core.clj::27][Main entry function]]
+
+  This is how the link look in plain text:
+
+  #+BEGIN_SRC text
+    [[file:~/git/rete/src/server/core.clj::27][Main entry function]]
+  #+END_SRC
+
+* HTTP link
+
+  [[https://www.gnu.org/software/emacs/][Emacs website]]
+
+  This is how the link look in plain text:
+
+  #+BEGIN_SRC text
+    [[https://www.gnu.org/software/emacs/][Emacs website]]
+  #+END_SRC
+
+* Headlines
+** Headline 1
+*** Sub headline
+**** Sub sub headline
+
+     Headlines can organize text in a tree hierarchy.
+
+     Headlines can be folded and moved.
+
+** Headline 2
+*** Another sub headline
+
+    Some text
+
+*** Yet another headline
+
+    Yet some text
+
+* TODOs
+
+  TODOs are normal headlines the starts with TODO or DONE.
+
+  They can have SCHEDULED or DEADLINE attributes.
+
+** TODO Write presentation for Kodkollektivet
+   SCHEDULED: <2020-09-28 Mon> DEADLINE: <2020-09-29 Tue>
+
+** TODO Make sure backup works
+   SCHEDULED: <2020-09-30 Wed>
+
+** TODO Learn keyboard command
+
+   #+BEGIN_SRC text
+     C-c a < n      # TODOs in the current buffer
+   #+END_SRC
+
+* [[https://orgmode.org/manual/Clocking-Work-Time.html#Clocking-Work-Time][Clock entries]]
+
+
+  Track how long time task takes
+
+** Studying for the exam
+   :LOGBOOK:
+   CLOCK: [2020-09-27 Sun 19:00]--[2020-09-27 Sun 22:10] =>  3:10
+   CLOCK: [2020-09-26 Sat 16:00]--[2020-09-26 Sat 18:50] =>  2:50
+   :END:
+
+
+** Wrote feature X for client Y
+   :LOGBOOK:
+   CLOCK: [2020-09-27 Sun 19:00]--[2020-09-27 Sun 20:56] =>  1:56
+   :END:
+
+* [[https://orgmode.org/manual/The-clock-table.html][Clock tables]]
+
+
+
+  Can sum how long time tasks took
+
+
+  #+BEGIN: clocktable :scope tree :compact t
+  #+CAPTION: Clock summary at [2020-09-29 Tue 10:42]
+  | Headline                         |   Time |
+  |----------------------------------+--------|
+  | *Total time*                     | *7:56* |
+  |----------------------------------+--------|
+  | [[https://orgmode.org/manual/Clocking-Work-Time.html#Clocking-Work-Time][Clock entries]]                    |   7:56 |
+  | \_  Studying for the exam        |   6:00 |
+  | \_  Wrote feature X for client Y |   1:56 |
+  #+END:
+
+* Tables
+
+
+  Now lets look at tables, they are kind of excel like.
+
+* Simple table
+
+  Tables are interactive and you can move rows and columns up/down or
+  left and right.
+
+
+  | Programming languages | Lisp? |
+  |-----------------------+-------|
+  | Java                  | No    |
+  | Ruby                  | No    |
+  | Scheme                | Yes   |
+  | Clojure               | Yes   |
+  | Python                | No    |
+
+
+  ALT + Up/Down to move rows
+  ALT + Left/Right to move columns
+
+* Simple calculations
+
+  You can do calculations.
+
+
+  | Student  | Maths | Physics | Sum |
+  |----------+-------+---------+-----|
+  | Bertrand |     1 |       1 |     |
+  | Henri    |     2 |       2 |     |
+  | Arnold   |     3 |       3 |     |
+  #+TBLFM: $4=vsum($2..$3)
+
+
+  Place the pointer on the #+TBLFM formula and press =C-c C-c=.
+
+* Even with time
+
+
+  | Student | Session 1 | Session 2 | Sum |
+  |---------+-----------+-----------+-----|
+  | Reading |      2:30 |      2:30 |     |
+  | Running |      0:30 |      0:30 |     |
+  | Food    |      0:15 |      0:15 |     |
+  #+TBLFM: $4=vsum($2..$3);U
+
+* Source code blocks
+
+
+  Lets see how we can evaluate code from within Emacs!
+
+
+  The annotation for a source code block:
+
+  #+BEGIN_SRC programming-language options
+    program instructions
+      more instructions
+      and so on
+  #+END_SRC
+
+* Python
+
+  Press =C-c C-c= to evaluate.
+
+  #+BEGIN_SRC python :results output code
+    for i in range(3):
+      print(i, "Hej Kodkollektivet! ")
+  #+END_SRC
+
+* Bash shell
+
+  List all files in the /tmp directory.
+
+  #+BEGIN_SRC shell :results output code
+    ls -la /tmp
+  #+END_SRC
+
+* Math
+
+  Emacs can display math equations.
+
+
+  $\frac{a}{b}$
+
+
+  $\sum_{\bigcup_{\bigcap_{\subset \cup \to \to \to \to \to \to \to \simeq }^{}}^{}}^{}$
+
+
+  $ x^n + y^n = z^n $
+
+
+
+  =C-c C-x C-l= / org-latex-preview
+
+* That was the basic parts
+
+
+  Let go through a couple of use cases and see how things combines.
+
+* My shell commands
+
+  This is my Emacs file about shell commands and related.
+
+** Git
+
+   [[https://git-scm.com/doc][Git documentation]]
+   [[https://www.youtube.com/watch?v=SWYqp7iY_Tc][Intro to git on YouTube]]
+
+   | Command                | Description          |
+   |------------------------+----------------------|
+   | git branch             | Current branch       |
+   | git diff               | What have changed    |
+   | git remove -v          | Show remotes         |
+   | git status             | Show project status  |
+   | git verify-commit HEAD | Verify latest commit |
+
+   #+BEGIN_SRC shell :results output code
+     man git
+   #+END_SRC
+
+** Show current date in Linux
+
+   #+BEGIN_SRC shell :results output code
+     date
+   #+END_SRC
+
+** Regex
+
+   Some explanations on regex.
+
+   | Quantifier | Function                                                 |
+   |------------+----------------------------------------------------------|
+   | .          | Matches any character                                    |
+   | +          | Modifies the preceding set to mean one or more times     |
+   | *          | Modifies the preceding set to mean zero or more times    |
+   | ?          | Modifies the preceding set to mean zero or one time      |
+   | {n}        | Modifies the preceding set to mean exactly n times       |
+   | {n,}       | Modifies the preceding set to mean n or more times       |
+   | {n,m}      | Modifies the preceding set to mean between n and m times |
+
+* Learn some SQL
+
+  Lets create a table that we can use as input to the database.
+
+  #+NAME: name-and-ages
+  | Name    | Age | Species |
+  |---------+-----+---------|
+  | John    |  34 | Human   |
+  | Hannah  |  33 | Human   |
+  | Charlie |  10 | Dog     |
+  | Leo     |  19 | Cat     |
+
+  Use this source code block to create and populate the database.
+
+  #+HEADERS: :db /tmp/sqllite.db
+  #+HEADERS: :var orgtable=name-and-ages
+  #+HEADERS: :results silent
+  #+HEADERS: :exports code
+  #+BEGIN_SRC sqlite
+    DROP TABLE if EXISTS TABLE1; CREATE TABLE TABLE1(Name text , Age integer, Species text);
+    .mode csv TABLE1
+    .import $orgtable TABLE1
+  #+END_SRC
+
+  #+HEADERS: :db /tmp/sqllite.db
+  #+HEADERS: :colnames yes
+  #+BEGIN_SRC sqlite
+    SELECT Name,Age FROM TABLE1 WHERE Age > 20;
+  #+END_SRC
+
+* My work notes
+
+  Demo
+
+  [[file:~/git/org-files/fortnox/diarys/2020-fnox-diary.org.gpg::34]]
+
+  - Headline for each day
+
+  - Checkboxes for tasks to do
+
+  - Clock entries for work time
+
+  - Links to useful resources
+
+* My commands
+
+  Demo
+
+  [[file:/home/john/git/org-files/linux/commands.org.gpg::1]]
+
+* Learn some JavaScript
+
+  Demo
+
+  [[file:/home/john/git/org-files/programming/javascript.org.gpg::3]]
+
+* Export to PDF
+
+  Demo
+
+* Thank you
+
+  :)
+
+* External resources
+
+  [[https://www.gnu.org/software/emacs/][Emacs]]
+
+  [[https://orgmode.org/][Org mode]]
+
+  [[https://www.youtube.com/watch?v=SzA2YODtgK4][Youtube intro to Org mode]]
+
+  [[https://jherrlin.github.io/][My blog, some posts about Org mode]]
