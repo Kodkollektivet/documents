@@ -18,14 +18,6 @@ https://calendar.google.com/calendar/ical/kodkollektivet.channel%40gmail.com/pub
 
 
 
-Secret ical
-
-```
-https://calendar.google.com/calendar/ical/kodkollektivet.channel%40gmail.com/private-8a3c33fd7ca0b63593111e098d68981a/basic.ics
-```
-
-
-
 ## Kodkollektivet Public Events Calendar
 
 
@@ -46,14 +38,6 @@ https://calendar.google.com/calendar/ical/f37o8ncns3vfuohngkctk90r90%40group.cal
 
 
 
-Secret ical
-
-```
-https://calendar.google.com/calendar/ical/f37o8ncns3vfuohngkctk90r90%40group.calendar.google.com/private-849ca724db8e2f0ff5de5b6ee0b27c35/basic.ics
-```
-
-
-
 ## Kodkollektivet Collaboration with companiesPublic URL
 
 ```
@@ -68,11 +52,4 @@ Public ical
 https://calendar.google.com/calendar/ical/9bt5qp7i0k31sn3cc7i8vvt6no%40group.calendar.google.com/public/basic.ics
 ```
 
-
-
-Secret ical
-
-```
-https://calendar.google.com/calendar/ical/9bt5qp7i0k31sn3cc7i8vvt6no%40group.calendar.google.com/private-d8ee004fa211754c70245d6be27d7f9a/basic.ics
-```
 
