@@ -44,6 +44,10 @@ Removes restriction of participants (50+ can join)
 The board votes for having it or not:
 All in favor of subscribing for a month and try it out.
 
+The board decided to subscribe for 1 month to test
+The price 10$/month
+
+
 * Next speaker - ideas
 
 The same people organising the Codehubs are responsible for organising the virtual codehubs too. 
