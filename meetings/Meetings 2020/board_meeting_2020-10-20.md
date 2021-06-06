@@ -3,13 +3,14 @@
 ### Opening of the meeting
 Present members:
 
-Marcus
-Johan
-Ruslan
-Ali
-Dave
-Jordan
-Tomas
+Marcus Mueller
+Johan Dahl
+Ruslan Abdulin
+Alireza Rajoul
+David Avery
+Jordan Gorrell
+Tomas Bylund
+
 ### Election of Secretary & Adjuster
 Adjuster: Marcus
 Secretary: Jordan
@@ -40,10 +41,8 @@ Codehubs were great so far! Let's keep it that way!
     - If Ali or the rest of the board can't find a speaker by Friday (October 23rd, 2020), he'll choose one of the above alternatives.
     - Marcus will ask Studieframjandet if an official printed receipt will still work (rather than just giving the physical receipt).
 
-### Marketing
-- 
-### Logistics
-- 
+
+
 ### Treasurer + Account management
 - What the incom we get this year?
     - Ask Louise next board meeting
@@ -55,7 +54,7 @@ Codehubs were great so far! Let's keep it that way!
 ### Upcoming activities/events
 
 - Finding TA for Python Classes
- 
+
 - Company event - Fortnox "remote mob session"
 - Digital week, November choose an activity. Two options: 
     - [x]  Move Codehub to fit digital week 
@@ -76,7 +75,7 @@ Codehubs were great so far! Let's keep it that way!
 ### Previous activities/events
 ### Office matters
 
- 
+
 ### Other issues
 
 Filament for 3D printer

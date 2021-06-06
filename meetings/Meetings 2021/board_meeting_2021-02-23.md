@@ -5,13 +5,14 @@
 Meeting opened at 17.16
 
 Participants:
-Daniel
-Marcus
-Ruslan
-Louise
-Jordan
-Ali
-Oscar
+
+Jordan Gorrell
+Ruslan Abdulin
+Alireza Rajoul
+Louise Jakobsson
+Daniel 
+Marcus Mueller
+Oscar Johansson
 
 ### Election of Secretary & Adjuster
 
@@ -28,23 +29,14 @@ All approve.
 ### New Board Member
 - Meet Daniel
 
-### Infrastructure
-- 
+### 
 ### CodeHub
-- Results/Impressions of John's presentation
-- Is it worth trying ?
-
 Only board members attended John's presentation. A few joined but left again.
 
-Should we continue trying to do online codehubs?
-If we find someone who wants to do a codehub we will host a codehub and stream it to youtube. 
+If we find someone who wants to do a codehub we will host a codehub and stream it to youtube otherwise we pause codehubs 
 
-### Marketing
-- 
-### Logistics
-- 
-### Treasurer + Account management
-- 
+
+
 ### President & Vice
 * Agreement with LinneKaren
 
@@ -59,9 +51,7 @@ We are obliged to attend their meetings (one per semester. Preferably we send a 
 
 Met with Daniel at Sigma. We have not found a project topic but we want to do a project with them. We will create a discord channel to discuss project ideas. 
 
-### Office matters
- 
-### Other issues
+### 
 ### Meeting adjourned
 
 Meeting adjourned at 17.47

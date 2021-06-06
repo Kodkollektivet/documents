@@ -3,7 +3,7 @@
 ### Opening of the meeting
 
 Start of the meeting at 17.10.
-Attendees: Ruslan, Oscar, Johan, Ali, Louise, Jordan, Marcus
+Attendees: Ruslan Abdulin, Oscar Johansson, Johan Dahl, Alireza Rajoul, Louise Jakobsson, Jordan Gorrell, Marcus Mueller
 
 ### Election of Secretary & Adjuster
 
@@ -62,10 +62,8 @@ Ask in General channel in Slack and Discord what our members would like to do fo
 
 Discord server LNU softtech netsec - ask if we can start announcing our events in that server. Marcus will ask.
 
-### Marketing
--
-### Logistics
-- 
+
+
 ### Treasurer + Account management
 * Current balance
 
@@ -77,8 +75,7 @@ Check what it is that we are paying for
 Check if we can get business id to be able to use kivra
 Louise will try to take a look
 
-### President & Vice
-- 
+
 
 ### Upcoming activities/events
 * TA programming - status ?
@@ -89,10 +86,6 @@ Prospective TA's should sit down with the first year's to hear what they should 
 
 Oscar will invite a guy he knows. 
 
-### Previous activities/events
-### Office matters
- 
-### Other issues
 ### Meeting adjourned
 
 Meeting adjourned at 18.05

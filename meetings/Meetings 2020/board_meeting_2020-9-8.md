@@ -4,13 +4,13 @@
 
 Meeting is opened at 18.20.
 Attending:
-- Ruslan
-- Jordan
-- Ali
-- Marcus
-- Johan
-- Louise
-- Tomas
+- Ruslan Abdulin
+- Jordan Gorrell
+- Alireza Rajoul
+- Marcus Mueller
+- Johan Dahl
+- Louise Jakobsson
+- Tomas Bylund
 
 ### Election of Secretary & Adjuster
 
@@ -72,10 +72,10 @@ We should join the event as well as market it
 
 ### Previous activities/events
 ### Office matters
- 
+
 ### Other issues
 - Mob programming 
-We are talking with Fortnox about participating in their mob programming activities some time in one of their open source programs. It will be over skype. Will we join individually or all together? Do we want to be part of it and code, or just watch? Sometime between 8-16 on a weekday. 
+  We are talking with Fortnox about participating in their mob programming activities some time in one of their open source programs. It will be over skype. Will we join individually or all together? Do we want to be part of it and code, or just watch? Sometime between 8-16 on a weekday. 
     - We plan on a physical mob programming session at Videum Innovation Lab
     - Invite members by sign up
     - Introduce mob programming a little before joining Skype

@@ -3,13 +3,13 @@
 ### Opening of the meeting
 
 People present:
-Marcus
-Jordan
-Ruslan
-Johan
-Ali
-Louise
-Dave
+Marcus Mueller
+Jordan Gorrell
+Ruslan Abdulin
+Johan Dahl
+Alireza Rajoul
+Louise Jakobsson
+David Avery
 
 ### Election of Secretary & Adjuster
 
@@ -27,9 +27,7 @@ The agenda is approved
 
 ### Infrastructure
 
-* Nitro subscription - Do we use it? Do we like it? Should we continue paying for it?
-
-We use it for Kodstugan. We'll have CodeHubs/events in the future. 
+We use Discord Nitro subscription for Kodstugan. We'll have CodeHubs/events in the future. 
 
 Should we continue paying for Nitro?
 Marcus will cancel the subsription and we will vote next meeting. 
@@ -37,7 +35,7 @@ Marcus will cancel the subsription and we will vote next meeting.
 
 ### CodeHub
 
-* John's codehub - Will it be online?
+* John's codehub -  online
 
 Jordan will post the FB event tomorrow
 
@@ -49,12 +47,7 @@ It will be online
 
 ### Marketing
 - Jordan posts on fb tomorrow
-### Logistics
-- 
-### Treasurer + Account management
-- 
-### President & Vice
-- 
+
 ### Upcoming activities/events
 - Daniel Ekerot - Collaborating with Sigma
 
@@ -78,12 +71,11 @@ Johan sends the poll to Daniel.
 There has not been many people. 1-3 people. 
 Many people react positively to the announcements of the Kodstuga.
 
-### Previous activities/events
-### Office matters
- 
-### Other issues
+
 
 ### Meeting adjourned
+
+
 
 
 ### TODO

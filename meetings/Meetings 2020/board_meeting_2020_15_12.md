@@ -3,14 +3,15 @@
 ### Opening of the meeting
 
 Attending:
-Jordan
-Louise
-Ruslan
-Marcus
-Ali
-Dave
-Oscar
-Johan
+
+Jordan Gorrell
+Ruslan Abdulin
+Alireza Rajoul
+Louise Jakobsson
+Marcus Mueller
+Johan Dahl
+Oscar Johansson
+David Avery
 
 ### Election of Secretary & Adjuster
 Jordan is a secretary
@@ -28,6 +29,8 @@ Otherwise the previous minutes are approved.
 
 ### Approval of the Agenda
 
+Agenda was approved
+
 ### Main issue
 Daniel Ekerot and collaboration with Sigma
 
@@ -35,11 +38,8 @@ Perhaps develop an application in cooperation with Sigma, as a way to have stude
 
 Johan will ask Daniel for times that he would be available to meet and talk about it. If there is no good time to meet, Johan will ask him questions on behalf of the board.
 
-### Infrastructure
-- 
+### 
 ### CodeHub
-
-Next codehubs ? Ideas ?
 
 Next codehub will be on the 12th of January. It will still be digital. Ali will ask John about potentially do this codehub.
 
@@ -57,37 +57,14 @@ The board agrees it is a good idea, and needs to come up with competition ideas.
     - a nerd's prize
 
 * Interactions and pools to keep discord alive 
-    - favourite books?
-    - favourite languages?
-    - favourite tools ?
+    - favorite books?
+    - favorite languages?
+    - favorite tools ?
 
 ### Online tutoring
 
-First impression, result, statistics and future impovement
+First impression, result, statistics and future improvement
 
 Only one person came but stayed for the entire time. May be more popular when the students begin working with Java.
 
-### Marketing
-- 
-### Logistics
-- 
-### Treasurer + Account management
-- 
-### President & Vice
-- 
-
-### Upcoming activities/events
-
-
-### Previous activities/events
-### Office matters
-
-
-
-### Other issues
-
-
-### Meeting adjourned
-
-
-### TODO
+### 
